@@ -1,0 +1,4558 @@
+id	country_code	country_name	region_code	region_name	active
+1	AD	Andorra	02	Canillo	true
+2	AD	Andorra	03	Encamp	true
+3	AD	Andorra	04	La Massana	true
+4	AD	Andorra	05	Ordino	true
+5	AD	Andorra	06	Sant Julia De Loria	true
+6	AD	Andorra	07	Andorra La Vella	true
+7	AD	Andorra	08	Escaldes-Engordany	true
+8	AE	United Arab Emirates	AZ	Abu Dhabi	true
+9	AE	United Arab Emirates	AJ	Ajman	true
+10	AE	United Arab Emirates	DU	Dubai	true
+11	AE	United Arab Emirates	FU	Fujairah	true
+12	AE	United Arab Emirates	RK	Ras Al-Khaimah	true
+13	AE	United Arab Emirates	SH	Sharjah	true
+14	AE	United Arab Emirates	UQ	Umm Al-Quwain	true
+15	AF	Afghanistan	BDS	Badakhshan	true
+16	AF	Afghanistan	BDG	Badghis	true
+17	AF	Afghanistan	BGL	Baghlan	true
+18	AF	Afghanistan	FRA	Farah	true
+19	AF	Afghanistan	FYB	Faryab	true
+20	AF	Afghanistan	GHA	Ghazni	true
+21	AF	Afghanistan	GHO	Ghowr	true
+22	AF	Afghanistan	HEL	Helmand	true
+23	AF	Afghanistan	HER	Herat	true
+24	AF	Afghanistan	KAB	Kabol	true
+25	AF	Afghanistan	KAP	Kapisa	true
+26	AF	Afghanistan	LOG	Lowgar	true
+27	AF	Afghanistan	NAN	Nangarhar	true
+28	AF	Afghanistan	NIM	Nimruz	true
+29	AF	Afghanistan	PAR	Parvan	true
+30	AF	Afghanistan	KAN	Kandahar	true
+31	AF	Afghanistan	TAK	Takhar	true
+32	AF	Afghanistan	ZAB	Zabol	true
+33	AF	Afghanistan	PKA	Paktika	true
+34	AF	Afghanistan	BAL	Balkh	true
+35	AF	Afghanistan	JOW	Jowzjan	true
+36	AF	Afghanistan	SAM	Samangan	true
+37	AF	Afghanistan	KNR	Konar	true
+38	AF	Afghanistan	LAG	Laghman	true
+39	AF	Afghanistan	DAY	Daykondi	true
+40	AF	Afghanistan	PAN	Panjshir	true
+41	AF	Afghanistan	BAM	Bamyan	true
+42	AF	Afghanistan	KDZ	Kunduz	true
+43	AF	Afghanistan	KHO	Khost	true
+44	AF	Afghanistan	PIA	Paktiya	true
+45	AF	Afghanistan	SAR	Sar-E Pul	true
+46	AF	Afghanistan	NUR	Nuristan	true
+47	AF	Afghanistan	URU	Uruzgan	true
+48	AF	Afghanistan	WAR	Wardak	true
+49	AG	Antigua and Barbuda	10	Barbuda	true
+50	AG	Antigua and Barbuda	03	Saint George	true
+51	AG	Antigua and Barbuda	04	Saint John	true
+52	AG	Antigua and Barbuda	05	Saint Mary	true
+53	AG	Antigua and Barbuda	06	Saint Paul	true
+54	AG	Antigua and Barbuda	07	Saint Peter	true
+55	AG	Antigua and Barbuda	08	Saint Philip	true
+56	AG	Antigua and Barbuda	11	Redonda	true
+57	AI	Anguilla	XXX	Undefined	true
+58	AL	Albania	01	Berat	true
+59	AL	Albania	09	Diber	true
+60	AL	Albania	02	Durres	true
+61	AL	Albania	03	Elbasan	true
+62	AL	Albania	04	Fier	true
+63	AL	Albania	05	Gjirokaster	true
+64	AL	Albania	06	Korce	true
+65	AL	Albania	07	Kukes	true
+66	AL	Albania	08	Lezhe	true
+67	AL	Albania	10	Shkoder	true
+68	AL	Albania	11	Tirane	true
+69	AL	Albania	12	Vlore	true
+70	AM	Armenia	AG	Aragatsotn	true
+71	AM	Armenia	AR	Ararat	true
+72	AM	Armenia	AV	Armavir	true
+73	AM	Armenia	GR	Geghark'unik'	true
+74	AM	Armenia	KT	Kotayk'	true
+75	AM	Armenia	LO	Lorri	true
+76	AM	Armenia	SH	Shirak	true
+77	AM	Armenia	SU	Syunik'	true
+78	AM	Armenia	TV	Tavush	true
+79	AM	Armenia	VD	Vayots' Dzor	true
+80	AM	Armenia	ER	Yerevan	true
+81	AN	Netherlands Antilles	XXX	Undefined	true
+82	AO	Angola	BGU	Benguela	true
+83	AO	Angola	BIE	Bie	true
+84	AO	Angola	CAB	Cabinda	true
+85	AO	Angola	CCU	Cuando Cubango	true
+86	AO	Angola	CNO	Cuanza Norte	true
+87	AO	Angola	CUS	Cuanza Sul	true
+88	AO	Angola	CNN	Cunene	true
+89	AO	Angola	HUA	Huambo	true
+90	AO	Angola	HUI	Huila	true
+91	AO	Angola	MAL	Malanje	true
+92	AO	Angola	NAM	Namibe	true
+93	AO	Angola	MOX	Moxico	true
+94	AO	Angola	UIG	Uige	true
+95	AO	Angola	ZAI	Zaire	true
+96	AO	Angola	LNO	Lunda Norte	true
+97	AO	Angola	LSU	Lunda Sul	true
+98	AO	Angola	BGO	Bengo	true
+99	AO	Angola	LUA	Luanda	true
+100	AQ	Antarctica	XXX	Undefined	true
+101	AR	Argentina	B	Buenos Aires	true
+102	AR	Argentina	K	Catamarca	true
+103	AR	Argentina	H	Chaco	true
+104	AR	Argentina	U	Chubut	true
+105	AR	Argentina	X	Cordoba	true
+106	AR	Argentina	W	Corrientes	true
+107	AR	Argentina	E	Entre Rios	true
+108	AR	Argentina	P	Formosa	true
+109	AR	Argentina	Y	Jujuy	true
+110	AR	Argentina	L	La Pampa	true
+111	AR	Argentina	F	La Rioja	true
+112	AR	Argentina	M	Mendoza	true
+113	AR	Argentina	N	Misiones	true
+114	AR	Argentina	Q	Neuquen	true
+115	AR	Argentina	R	Rio Negro	true
+116	AR	Argentina	A	Salta	true
+117	AR	Argentina	J	San Juan	true
+118	AR	Argentina	D	San Luis	true
+119	AR	Argentina	Z	Santa Cruz	true
+120	AR	Argentina	S	Santa Fe	true
+121	AR	Argentina	G	Santiago Del Estero	true
+122	AR	Argentina	V	Tierra Del Fuego	true
+123	AR	Argentina	T	Tucuman	true
+124	AR	Argentina	C	Capital Federal	true
+125	AS	American Samoa	XXX	Undefined	true
+126	AT	Austria	1	Burgenland	true
+127	AT	Austria	2	Karnten	true
+128	AT	Austria	3	Niederosterreich	true
+129	AT	Austria	4	Oberosterreich	true
+130	AT	Austria	5	Salzburg	true
+131	AT	Austria	6	Steiermark	true
+132	AT	Austria	7	Tirol	true
+133	AT	Austria	8	Vorarlberg	true
+134	AT	Austria	9	Wien	true
+135	AU	Australia	ACT	Australian Capital Territory	true
+136	AU	Australia	NSW	New South Wales	true
+137	AU	Australia	NT	Northern Territory	true
+138	AU	Australia	QLD	Queensland	true
+139	AU	Australia	SA	South Australia	true
+140	AU	Australia	TAS	Tasmania	true
+141	AU	Australia	VIC	Victoria	true
+142	AU	Australia	WA	Western Australia	true
+143	AW	Aruba	XXX	Undefined	true
+144	AX	Aland Islands	XXX	Undefined	true
+145	AZ	Azerbaijan	ABS	Abseron	true
+146	AZ	Azerbaijan	AGC	Agcabadi	true
+147	AZ	Azerbaijan	AGM	Agdam	true
+148	AZ	Azerbaijan	AGS	Agdas	true
+149	AZ	Azerbaijan	AGA	Agstafa	true
+150	AZ	Azerbaijan	AGU	Agsu	true
+151	AZ	Azerbaijan	AST	Astara	true
+152	AZ	Azerbaijan	BA	Baki	true
+153	AZ	Azerbaijan	BAL	Balakan	true
+154	AZ	Azerbaijan	BAR	Barda	true
+155	AZ	Azerbaijan	BEY	Beylaqan	true
+156	AZ	Azerbaijan	BIL	Bilasuvar	true
+157	AZ	Azerbaijan	CAB	Cabrayil	true
+158	AZ	Azerbaijan	CAL	Calilabad	true
+159	AZ	Azerbaijan	DAS	Daskasan	true
+160	AZ	Azerbaijan	FUZ	Fuzuli	true
+161	AZ	Azerbaijan	GAD	Gadabay	true
+162	AZ	Azerbaijan	GA	Ganca	true
+163	AZ	Azerbaijan	GOR	Goranboy	true
+164	AZ	Azerbaijan	GOY	Goycay	true
+165	AZ	Azerbaijan	HAC	Haciqabul	true
+166	AZ	Azerbaijan	IMI	Imisli	true
+167	AZ	Azerbaijan	ISM	Ismayilli	true
+168	AZ	Azerbaijan	KAL	Kalbacar	true
+169	AZ	Azerbaijan	KUR	Kurdamir	true
+170	AZ	Azerbaijan	LAC	Lacin	true
+171	AZ	Azerbaijan	LAN	Lankaran	true
+172	AZ	Azerbaijan	LA	Lankaran	true
+173	AZ	Azerbaijan	LER	Lerik	true
+174	AZ	Azerbaijan	MAS	Masalli	true
+175	AZ	Azerbaijan	MI	Mingacevir	true
+176	AZ	Azerbaijan	NA	Naftalan	true
+177	AZ	Azerbaijan	NV	Naxcivan	true
+178	AZ	Azerbaijan	NEF	Neftcala	true
+179	AZ	Azerbaijan	OGU	Oguz	true
+180	AZ	Azerbaijan	QAB	Qabala	true
+181	AZ	Azerbaijan	QAX	Qax	true
+182	AZ	Azerbaijan	QAZ	Qazax	true
+183	AZ	Azerbaijan	QOB	Qobustan	true
+184	AZ	Azerbaijan	QBA	Quba	true
+185	AZ	Azerbaijan	QBI	Qubadli	true
+186	AZ	Azerbaijan	QUS	Qusar	true
+187	AZ	Azerbaijan	SAT	Saatli	true
+188	AZ	Azerbaijan	SAB	Sabirabad	true
+189	AZ	Azerbaijan	SAK	Saki	true
+190	AZ	Azerbaijan	SA	Saki	true
+191	AZ	Azerbaijan	SAL	Salyan	true
+192	AZ	Azerbaijan	SMI	Samaxi	true
+193	AZ	Azerbaijan	SKR	Samkir	true
+194	AZ	Azerbaijan	SMX	Samux	true
+195	AZ	Azerbaijan	SIY	Siyazan	true
+196	AZ	Azerbaijan	SM	Sumqayit	true
+197	AZ	Azerbaijan	SUS	Susa	true
+198	AZ	Azerbaijan	TAR	Tartar	true
+199	AZ	Azerbaijan	TOV	Tovuz	true
+200	AZ	Azerbaijan	UCA	Ucar	true
+201	AZ	Azerbaijan	XAC	Xacmaz	true
+202	AZ	Azerbaijan	XA	Xankandi	true
+203	AZ	Azerbaijan	XIZ	Xizi	true
+204	AZ	Azerbaijan	XCI	Xocali	true
+205	AZ	Azerbaijan	XVD	Xocavand	true
+206	AZ	Azerbaijan	YAR	Yardimli	true
+207	AZ	Azerbaijan	YEV	Yevlax	true
+208	AZ	Azerbaijan	YE	Yevlax	true
+209	AZ	Azerbaijan	ZAN	Zangilan	true
+210	AZ	Azerbaijan	ZAQ	Zaqatala	true
+211	AZ	Azerbaijan	ZAR	Zardab	true
+212	AZ	Azerbaijan	BAB	Babek	true
+213	AZ	Azerbaijan	CUL	Culfa	true
+214	AZ	Azerbaijan	GYG	Goygol	true
+215	AZ	Azerbaijan	KAN	Kengerli	true
+216	AZ	Azerbaijan	ORD	Ordubad	true
+217	AZ	Azerbaijan	SAD	Sederek	true
+218	AZ	Azerbaijan	SAH	Sahbuz	true
+219	AZ	Azerbaijan	SAR	Serur	true
+220	AZ	Azerbaijan	SBN	Sabran	true
+221	AZ	Azerbaijan	SR	Sirvan	true
+222	BA	Bosnia and Herzegovina	BIH	Federation Of Bosnia And Herzegovina	true
+223	BA	Bosnia and Herzegovina	SRP	Republika Srpska	true
+224	BA	Bosnia and Herzegovina	BRC	Brcko Distrikt	true
+225	BB	Barbados	01	Christ Church	true
+226	BB	Barbados	02	Saint Andrew	true
+227	BB	Barbados	03	Saint George	true
+228	BB	Barbados	04	Saint James	true
+229	BB	Barbados	05	Saint John	true
+230	BB	Barbados	06	Saint Joseph	true
+231	BB	Barbados	07	Saint Lucy	true
+232	BB	Barbados	08	Saint Michael	true
+233	BB	Barbados	09	Saint Peter	true
+234	BB	Barbados	10	Saint Philip	true
+235	BB	Barbados	11	Saint Thomas	true
+236	BD	Bangladesh	C	Dhaka	true
+237	BD	Bangladesh	D	Khulna	true
+238	BD	Bangladesh	F	Rangpur	true
+239	BD	Bangladesh	E	Rajshahi	true
+240	BD	Bangladesh	B	Chittagong	true
+241	BD	Bangladesh	A	Barisal	true
+242	BD	Bangladesh	G	Sylhet	true
+243	BD	Bangladesh	H	Mymensingh	true
+244	BE	Belgium	VAN	Antwerpen	true
+245	BE	Belgium	WHT	Hainaut	true
+246	BE	Belgium	WLG	Liege	true
+247	BE	Belgium	VLI	Limburg	true
+248	BE	Belgium	WLX	Luxembourg	true
+249	BE	Belgium	WNA	Namur	true
+250	BE	Belgium	VOV	Oost-Vlaanderen	true
+251	BE	Belgium	VWV	West-Vlaanderen	true
+252	BE	Belgium	WBR	Brabant Wallon	true
+253	BE	Belgium	VBR	Vlaams Brabant	true
+254	BE	Belgium	BRU	Bruxelles-Capitale	true
+255	BF	Burkina Faso	03	Centre	true
+256	BF	Burkina Faso	09	Hauts-Bassins	true
+257	BF	Burkina Faso	01	Boucle Du Mouhoun	true
+258	BF	Burkina Faso	02	Cascades	true
+259	BF	Burkina Faso	04	Centre-Est	true
+260	BF	Burkina Faso	05	Centre-Nord	true
+261	BF	Burkina Faso	06	Centre-Ouest	true
+262	BF	Burkina Faso	07	Centre-Sud	true
+263	BF	Burkina Faso	08	Est	true
+264	BF	Burkina Faso	10	Nord	true
+265	BF	Burkina Faso	11	Plateau-Central	true
+266	BF	Burkina Faso	12	Sahel	true
+267	BF	Burkina Faso	13	Sud-Ouest	true
+268	BG	Bulgaria	01	Blagoevgrad	true
+269	BG	Bulgaria	02	Burgas	true
+270	BG	Bulgaria	08	Dobrich	true
+271	BG	Bulgaria	07	Gabrovo	true
+272	BG	Bulgaria	22	Grad Sofiya	true
+273	BG	Bulgaria	26	Khaskovo	true
+274	BG	Bulgaria	09	Kurdzhali	true
+275	BG	Bulgaria	10	Kyustendil	true
+276	BG	Bulgaria	11	Lovech	true
+277	BG	Bulgaria	12	Montana	true
+278	BG	Bulgaria	13	Pazardzhik	true
+279	BG	Bulgaria	14	Pernik	true
+280	BG	Bulgaria	15	Pleven	true
+281	BG	Bulgaria	16	Plovdiv	true
+282	BG	Bulgaria	17	Razgrad	true
+283	BG	Bulgaria	18	Ruse	true
+284	BG	Bulgaria	27	Shumen	true
+285	BG	Bulgaria	19	Silistra	true
+286	BG	Bulgaria	20	Sliven	true
+287	BG	Bulgaria	21	Smolyan	true
+288	BG	Bulgaria	23	Sofiya	true
+289	BG	Bulgaria	24	Stara Zagora	true
+290	BG	Bulgaria	25	Turgovishte	true
+291	BG	Bulgaria	03	Varna	true
+292	BG	Bulgaria	04	Veliko Turnovo	true
+293	BG	Bulgaria	05	Vidin	true
+294	BG	Bulgaria	06	Vratsa	true
+295	BG	Bulgaria	28	Yambol	true
+296	BH	Bahrain	13	Al Asimah	true
+297	BH	Bahrain	15	Al Muharraq	true
+298	BH	Bahrain	14	Al Janubiyah	true
+299	BH	Bahrain	17	Ash Shamaliyah	true
+300	BH	Bahrain	16	Al Wusta	false
+301	BI	Burundi	BB	Bubanza	true
+302	BI	Burundi	BR	Bururi	true
+303	BI	Burundi	CA	Cankuzo	true
+304	BI	Burundi	CI	Cibitoke	true
+305	BI	Burundi	GI	Gitega	true
+306	BI	Burundi	KR	Karuzi	true
+307	BI	Burundi	KY	Kayanza	true
+308	BI	Burundi	KI	Kirundo	true
+309	BI	Burundi	MA	Makamba	true
+310	BI	Burundi	MY	Muyinga	true
+311	BI	Burundi	NG	Ngozi	true
+312	BI	Burundi	RT	Rutana	true
+313	BI	Burundi	RY	Ruyigi	true
+314	BI	Burundi	MU	Muramvya	true
+315	BI	Burundi	MW	Mwaro	true
+316	BI	Burundi	BM	Bujumbura Mairie	true
+317	BI	Burundi	BL	Bujumbura Rural	true
+318	BI	Burundi	RM	Rumonge	true
+319	BJ	Benin	AQ	Atlantique	true
+320	BJ	Benin	AL	Alibori	true
+321	BJ	Benin	AK	Atakora	true
+322	BJ	Benin	BO	Borgou	true
+323	BJ	Benin	CO	Collines	true
+324	BJ	Benin	KO	Kouffo	true
+325	BJ	Benin	DO	Donga	true
+326	BJ	Benin	LI	Littoral	true
+327	BJ	Benin	MO	Mono	true
+328	BJ	Benin	OU	Oueme	true
+329	BJ	Benin	PL	Plateau	true
+330	BJ	Benin	ZO	Zou	true
+331	BM	Bermuda	XXX	Undefined	true
+332	BN	Brunei Darussalam	BE	Belait	true
+333	BN	Brunei Darussalam	BM	Brunei And Muara	true
+334	BN	Brunei Darussalam	TE	Temburong	true
+335	BN	Brunei Darussalam	TU	Tutong	true
+336	BO	Bolivia	H	Chuquisaca	true
+337	BO	Bolivia	C	Cochabamba	true
+338	BO	Bolivia	B	El Beni	true
+339	BO	Bolivia	L	La Paz	true
+340	BO	Bolivia	O	Oruro	true
+341	BO	Bolivia	N	Pando	true
+342	BO	Bolivia	P	Potosi	true
+343	BO	Bolivia	S	Santa Cruz	true
+344	BO	Bolivia	T	Tarija	true
+345	BR	Brazil	AC	Acre	true
+346	BR	Brazil	AL	Alagoas	true
+347	BR	Brazil	AP	Amapa	true
+348	BR	Brazil	AM	Amazonas	true
+349	BR	Brazil	BA	Bahia	true
+350	BR	Brazil	CE	Ceara	true
+351	BR	Brazil	DF	Distrito Federal	true
+352	BR	Brazil	ES	Espirito Santo	true
+353	BR	Brazil	MS	Mato Grosso Do Sul	true
+354	BR	Brazil	MA	Maranhao	true
+355	BR	Brazil	MT	Mato Grosso	true
+356	BR	Brazil	MG	Minas Gerais	true
+357	BR	Brazil	PA	Para	true
+358	BR	Brazil	PB	Paraiba	true
+359	BR	Brazil	PR	Parana	true
+360	BR	Brazil	PI	Piaui	true
+361	BR	Brazil	RJ	Rio De Janeiro	true
+362	BR	Brazil	RN	Rio Grande Do Norte	true
+363	BR	Brazil	RS	Rio Grande Do Sul	true
+364	BR	Brazil	RO	Rondonia	true
+365	BR	Brazil	RR	Roraima	true
+366	BR	Brazil	SC	Santa Catarina	true
+367	BR	Brazil	SP	Sao Paulo	true
+368	BR	Brazil	SE	Sergipe	true
+369	BR	Brazil	GO	Goias	true
+370	BR	Brazil	PE	Pernambuco	true
+371	BR	Brazil	TO	Tocantins	true
+372	BS	Bahamas	BI	Bimini	true
+373	BS	Bahamas	CI	Cat Island	true
+374	BS	Bahamas	EX	Exuma	true
+375	BS	Bahamas	IN	Inagua	true
+376	BS	Bahamas	LI	Long Island	true
+377	BS	Bahamas	MG	Mayaguana	true
+378	BS	Bahamas	RI	Ragged Island	true
+379	BS	Bahamas	HI	Harbour Island	true
+380	BS	Bahamas	NP	New Providence	true
+381	BS	Bahamas	FP	Freeport	true
+382	BS	Bahamas	AK	Acklins	true
+383	BS	Bahamas	BP	Black Point	true
+384	BS	Bahamas	BY	Berry Islands	true
+385	BS	Bahamas	CE	Central Eleuthera	true
+386	BS	Bahamas	CK	Crooked Island And Long Cay	true
+387	BS	Bahamas	CO	Central Abaco	true
+388	BS	Bahamas	CS	Central Andros	true
+389	BS	Bahamas	EG	East Grand Bahama	true
+390	BS	Bahamas	GC	Grand Cay	true
+391	BS	Bahamas	HT	Hope Town	true
+392	BS	Bahamas	MC	Mangrove Cay	true
+393	BS	Bahamas	MI	Moores Island	true
+394	BS	Bahamas	NE	North Eleuthera	true
+395	BS	Bahamas	NO	North Abaco	true
+396	BS	Bahamas	NS	North Andros	true
+397	BS	Bahamas	RC	Rum Cay	true
+398	BS	Bahamas	SA	South Andros	true
+399	BS	Bahamas	SE	South Eleuthera	true
+400	BS	Bahamas	SO	South Abaco	true
+401	BS	Bahamas	SS	San Salvador	true
+402	BS	Bahamas	SW	Spanish Wells	true
+403	BS	Bahamas	WG	West Grand Bahama	true
+404	BT	Bhutan	33	Bumthang	true
+405	BT	Bhutan	12	Chhukha	true
+406	BT	Bhutan	21	Chirang	true
+407	BT	Bhutan	22	Daga	true
+408	BT	Bhutan	31	Geylegphug	true
+409	BT	Bhutan	13	Ha	true
+410	BT	Bhutan	44	Lhuntshi	true
+411	BT	Bhutan	42	Mongar	true
+412	BT	Bhutan	11	Paro	true
+413	BT	Bhutan	43	Pemagatsel	true
+414	BT	Bhutan	23	Punakha	true
+415	BT	Bhutan	14	Samchi	true
+416	BT	Bhutan	45	Samdrup	true
+417	BT	Bhutan	34	Shemgang	true
+418	BT	Bhutan	41	Tashigang	true
+419	BT	Bhutan	15	Thimphu	true
+420	BT	Bhutan	32	Tongsa	true
+421	BT	Bhutan	24	Wangdi Phodrang	true
+422	BT	Bhutan	GA	Gasa	true
+423	BT	Bhutan	TY	Trashi Yangtse	true
+424	BV	Bouvet Island	XXX	Undefined	true
+425	BW	Botswana	CE	Central	true
+426	BW	Botswana	GH	Ghanzi	true
+427	BW	Botswana	KG	Kgalagadi	true
+428	BW	Botswana	KL	Kgatleng	true
+429	BW	Botswana	KW	Kweneng	true
+430	BW	Botswana	NE	North-East	true
+431	BW	Botswana	SE	South-East	true
+432	BW	Botswana	SO	Southern	true
+433	BW	Botswana	NW	North-West	true
+434	BY	Belarus	BR	Brestskaya Voblasts'	true
+435	BY	Belarus	HO	Homyel'skaya Voblasts'	true
+436	BY	Belarus	HR	Hrodzyenskaya Voblasts'	true
+437	BY	Belarus	HM	Minsk	true
+438	BY	Belarus	MI	Minskaya Voblasts'	true
+439	BY	Belarus	MA	Mahilyowskaya Voblasts'	true
+440	BY	Belarus	VI	Vitsyebskaya Voblasts'	true
+441	BZ	Belize	BZ	Belize	true
+442	BZ	Belize	CY	Cayo	true
+443	BZ	Belize	CZL	Corozal	true
+444	BZ	Belize	OW	Orange Walk	true
+445	BZ	Belize	SC	Stann Creek	true
+446	BZ	Belize	TOL	Toledo	true
+447	CA	Canada	AB	Alberta	true
+448	CA	Canada	BC	British Columbia	true
+449	CA	Canada	MB	Manitoba	true
+450	CA	Canada	NB	New Brunswick	true
+451	CA	Canada	NL	Newfoundland And Labrador	true
+452	CA	Canada	NS	Nova Scotia	true
+453	CA	Canada	NT	Northwest Territories	true
+454	CA	Canada	NU	Nunavut	true
+455	CA	Canada	ON	Ontario	true
+456	CA	Canada	PE	Prince Edward Island	true
+457	CA	Canada	QC	Quebec	true
+458	CA	Canada	SK	Saskatchewan	true
+459	CA	Canada	YT	Yukon Territory	true
+460	CD	"Congo	 The Democratic Republic of the"	BN	Bandundu	false
+461	CD	"Congo	 The Democratic Republic of the"	EQ	Equateur	true
+462	CD	"Congo	 The Democratic Republic of the"	KW	Kasai-Occidental	false
+463	CD	"Congo	 The Democratic Republic of the"	KE	Kasai-Oriental	true
+464	CD	"Congo	 The Democratic Republic of the"	KA	Katanga	false
+465	CD	"Congo	 The Democratic Republic of the"	KN	Kinshasa	true
+466	CD	"Congo	 The Democratic Republic of the"	BC	Kongo Central	true
+467	CD	"Congo	 The Democratic Republic of the"	OR	Orientale	false
+468	CD	"Congo	 The Democratic Republic of the"	MA	Maniema	true
+469	CD	"Congo	 The Democratic Republic of the"	NK	Nord-Kivu	true
+470	CD	"Congo	 The Democratic Republic of the"	SK	Sud-Kivu	true
+471	CD	"Congo	 The Democratic Republic of the"	KL	Kwilu	true
+472	CD	"Congo	 The Democratic Republic of the"	MN	Mai-Ndombe	true
+473	CD	"Congo	 The Democratic Republic of the"	MO	Mongala	true
+474	CD	"Congo	 The Democratic Republic of the"	SU	Sud-Ubangi	true
+475	CD	"Congo	 The Democratic Republic of the"	HK	Haut-Katanga	true
+476	CD	"Congo	 The Democratic Republic of the"	HL	Haut-Lomami	true
+477	CD	"Congo	 The Democratic Republic of the"	KC	Kasai Central	true
+478	CD	"Congo	 The Democratic Republic of the"	KS	Kasai	true
+479	CD	"Congo	 The Democratic Republic of the"	HU	Haut-Uele	true
+480	CD	"Congo	 The Democratic Republic of the"	IT	Ituri	true
+481	CD	"Congo	 The Democratic Republic of the"	TO	Tshopo	true
+482	CF	Central African Republic	BB	Bamingui-Bangoran	true
+483	CF	Central African Republic	BK	Basse-Kotto	true
+484	CF	Central African Republic	HK	Haute-Kotto	true
+485	CF	Central African Republic	HS	Mambere-Kadei	true
+486	CF	Central African Republic	HM	Haut-Mbomou	true
+487	CF	Central African Republic	KG	Kemo	true
+488	CF	Central African Republic	LB	Lobaye	true
+489	CF	Central African Republic	MB	Mbomou	true
+490	CF	Central African Republic	NM	Nana-Mambere	true
+491	CF	Central African Republic	UK	Ouaka	true
+492	CF	Central African Republic	AC	Ouham	true
+493	CF	Central African Republic	OP	Ouham-Pende	true
+494	CF	Central African Republic	VK	Cuvette-Ouest	true
+495	CF	Central African Republic	KB	Nana-Grebizi	true
+496	CF	Central African Republic	SE	Sangha-Mbaere	true
+497	CF	Central African Republic	MP	Ombella-Mpoko	true
+498	CF	Central African Republic	BGF	Bangui	true
+499	CG	Congo	11	Bouenza	true
+500	CG	Congo	8	Cuvette	true
+501	CG	Congo	50	Kouilou	true
+502	CG	Congo	21	Lekoumou	true
+503	CG	Congo	7	Likouala	true
+504	CG	Congo	9	Niari	true
+505	CG	Congo	14	Plateaux	true
+506	CG	Congo	13	Sangha	true
+507	CG	Congo	12	Pool	true
+508	CG	Congo	BZV	Brazzaville	true
+509	CG	Congo	15	Cuvette-Ouest	true
+510	CH	Switzerland	AG	Aargau	true
+511	CH	Switzerland	AR	Ausser-Rhoden	true
+512	CH	Switzerland	BL	Basel-Landschaft	true
+513	CH	Switzerland	BS	Basel-Stadt	true
+514	CH	Switzerland	BE	Bern	true
+515	CH	Switzerland	FR	Fribourg	true
+516	CH	Switzerland	GE	Geneve	true
+517	CH	Switzerland	GL	Glarus	true
+518	CH	Switzerland	GR	Graubunden	true
+519	CH	Switzerland	AI	Inner-Rhoden	true
+520	CH	Switzerland	LU	Luzern	true
+521	CH	Switzerland	NE	Neuchatel	true
+522	CH	Switzerland	NW	Nidwalden	true
+523	CH	Switzerland	OW	Obwalden	true
+524	CH	Switzerland	SG	Sankt Gallen	true
+525	CH	Switzerland	SH	Schaffhausen	true
+526	CH	Switzerland	SZ	Schwyz	true
+527	CH	Switzerland	SO	Solothurn	true
+528	CH	Switzerland	TG	Thurgau	true
+529	CH	Switzerland	TI	Ticino	true
+530	CH	Switzerland	UR	Uri	true
+531	CH	Switzerland	VS	Valais	true
+532	CH	Switzerland	VD	Vaud	true
+533	CH	Switzerland	ZG	Zug	true
+534	CH	Switzerland	ZH	Zurich	true
+535	CH	Switzerland	JU	Jura	true
+536	CI	Cote d'Ivoire	16	Agneby	false
+537	CI	Cote d'Ivoire	17	Bafing	false
+538	CI	Cote d'Ivoire	09	Bas-Sassandra	false
+539	CI	Cote d'Ivoire	10	Denguele	false
+540	CI	Cote d'Ivoire	06	Dix-Huit Montagnes	false
+541	CI	Cote d'Ivoire	18	Fromager	false
+542	CI	Cote d'Ivoire	02	Haut-Sassandra	false
+543	CI	Cote d'Ivoire	07	Lacs	false
+544	CI	Cote d'Ivoire	01	Lagunes	false
+545	CI	Cote d'Ivoire	12	Marahoue	false
+546	CI	Cote d'Ivoire	19	Moyen-Cavally	false
+547	CI	Cote d'Ivoire	05	Moyen-Comoe	false
+548	CI	Cote d'Ivoire	11	N'zi-Comoe	false
+549	CI	Cote d'Ivoire	03	Savanes	false
+550	CI	Cote d'Ivoire	15	Sud-Bandama	false
+551	CI	Cote d'Ivoire	13	Sud-Comoe	false
+552	CI	Cote d'Ivoire	04	Vallee Du Bandama	false
+553	CI	Cote d'Ivoire	14	Worodougou	false
+554	CI	Cote d'Ivoire	08	Zanzan	false
+555	CI	Cote d'Ivoire	AB	Abidjan	true
+556	CI	Cote d'Ivoire	BS	Bas-Sassandra	true
+557	CI	Cote d'Ivoire	LG	Lagunes	true
+558	CI	Cote d'Ivoire	MG	Montagnes	true
+559	CI	Cote d'Ivoire	SM	Sassandra-Marahoue	true
+560	CI	Cote d'Ivoire	SV	Savanes	true
+561	CI	Cote d'Ivoire	VB	Vallee Du Bandama	true
+562	CI	Cote d'Ivoire	YM	Yamoussoukro	true
+563	CK	Cook Islands	XXX	Undefined	true
+564	CL	Chile	VS	Valparaiso	true
+565	CL	Chile	AI	Aisen Del General Carlos Ibanez Del Campo	true
+566	CL	Chile	AN	Antofagasta	true
+567	CL	Chile	AR	Araucania	true
+568	CL	Chile	AT	Atacama	true
+569	CL	Chile	BI	Bio-Bio	true
+570	CL	Chile	CO	Coquimbo	true
+571	CL	Chile	LI	Libertador General Bernardo O'higgins	true
+572	CL	Chile	MA	Magallanes Y De La Antartica Chilena	true
+573	CL	Chile	ML	Maule	true
+574	CL	Chile	RM	Region Metropolitana	true
+575	CM	Cameroon	ES	Est	true
+576	CM	Cameroon	LT	Littoral	true
+577	CM	Cameroon	NW	Nord-Ouest	true
+578	CM	Cameroon	OU	Ouest	true
+579	CM	Cameroon	SW	Sud-Ouest	true
+580	CM	Cameroon	AD	Adamaoua	true
+581	CM	Cameroon	CE	Centre	true
+582	CM	Cameroon	EN	Extreme-Nord	true
+583	CM	Cameroon	NO	Nord	true
+584	CM	Cameroon	SU	Sud	true
+585	CN	China	34	Anhui	false
+586	CN	China	33	Zhejiang	false
+587	CN	China	36	Jiangxi	false
+588	CN	China	32	Jiangsu	false
+589	CN	China	22	Jilin	false
+590	CN	China	63	Qinghai	false
+591	CN	China	35	Fujian	false
+592	CN	China	23	Heilongjiang	false
+593	CN	China	41	Henan	false
+594	CN	China	13	Hebei	false
+595	CN	China	43	Hunan	false
+596	CN	China	42	Hubei	false
+597	CN	China	65	Xinjiang	false
+598	CN	China	54	Xizang	false
+599	CN	China	62	Gansu	false
+600	CN	China	45	Guangxi	false
+601	CN	China	52	Guizhou	false
+602	CN	China	21	Liaoning	false
+603	CN	China	15	Nei Mongol	false
+604	CN	China	64	Ningxia	false
+605	CN	China	11	Beijing	false
+606	CN	China	31	Shanghai	false
+607	CN	China	14	Shanxi	false
+608	CN	China	37	Shandong	false
+609	CN	China	61	Shaanxi	false
+610	CN	China	12	Tianjin	false
+611	CN	China	53	Yunnan	false
+612	CN	China	44	Guangdong	false
+613	CN	China	46	Hainan	false
+614	CN	China	51	Sichuan	false
+615	CN	China	50	Chongqing	false
+616	CO	Colombia	AMA	Amazonas	true
+617	CO	Colombia	ANT	Antioquia	true
+618	CO	Colombia	ARA	Arauca	true
+619	CO	Colombia	ATL	Atlantico	true
+620	CO	Colombia	CAQ	Caqueta	true
+621	CO	Colombia	CAU	Cauca	true
+622	CO	Colombia	CES	Cesar	true
+623	CO	Colombia	CHO	Choco	true
+624	CO	Colombia	COR	Cordoba	true
+625	CO	Colombia	GUV	Guaviare	true
+626	CO	Colombia	GUA	Guainia	true
+627	CO	Colombia	HUI	Huila	true
+628	CO	Colombia	LAG	La Guajira	true
+629	CO	Colombia	MET	Meta	true
+630	CO	Colombia	NAR	Narino	true
+631	CO	Colombia	NSA	Norte De Santander	true
+632	CO	Colombia	PUT	Putumayo	true
+633	CO	Colombia	QUI	Quindio	true
+634	CO	Colombia	RIS	Risaralda	true
+635	CO	Colombia	SAP	San Andres Y Providencia	true
+636	CO	Colombia	SAN	Santander	true
+637	CO	Colombia	SUC	Sucre	true
+638	CO	Colombia	TOL	Tolima	true
+639	CO	Colombia	VAC	Valle Del Cauca	true
+640	CO	Colombia	VAU	Vaupes	true
+641	CO	Colombia	VID	Vichada	true
+642	CO	Colombia	CAS	Casanare	true
+643	CO	Colombia	CUN	Cundinamarca	true
+644	CO	Colombia	DC	Distrito Capital	true
+645	CO	Colombia	BOL	Bolivar	true
+646	CO	Colombia	BOY	Boyaca	true
+647	CO	Colombia	CAL	Caldas	true
+648	CO	Colombia	MAG	Magdalena	true
+649	CR	Costa Rica	A	Alajuela	true
+650	CR	Costa Rica	C	Cartago	true
+651	CR	Costa Rica	G	Guanacaste	true
+652	CR	Costa Rica	H	Heredia	true
+653	CR	Costa Rica	L	Limon	true
+654	CR	Costa Rica	P	Puntarenas	true
+655	CR	Costa Rica	SJ	San Jose	true
+656	CU	Cuba	01	Pinar Del Rio	true
+657	CU	Cuba	03	Ciudad De La Habana	true
+658	CU	Cuba	04	Matanzas	true
+659	CU	Cuba	09	Camaguey	true
+660	CU	Cuba	08	Ciego De Avila	true
+661	CU	Cuba	06	Cienfuegos	true
+662	CU	Cuba	12	Granma	true
+663	CU	Cuba	14	Guantanamo	true
+664	CU	Cuba	02	La Habana	true
+665	CU	Cuba	11	Holguin	true
+666	CU	Cuba	10	Las Tunas	true
+667	CU	Cuba	07	Sancti Spiritus	true
+668	CU	Cuba	13	Santiago De Cuba	true
+669	CU	Cuba	05	Villa Clara	true
+670	CU	Cuba	99	Isla De La Juventud	true
+671	CV	Cape Verde	S	Ilhas De Sotavento	true
+672	CV	Cape Verde	B	Ilhas De Barlavento	true
+673	CX	Christmas Island	XXX	Undefined	true
+674	CY	Cyprus	04	Famagusta	true
+675	CY	Cyprus	06	Kyrenia	true
+676	CY	Cyprus	03	Larnaca	true
+677	CY	Cyprus	01	Nicosia	true
+678	CY	Cyprus	02	Limassol	true
+679	CY	Cyprus	05	Paphos	true
+680	CZ	Czech Republic	10	Praha	true
+681	CZ	Czech Republic	31	Jihocesky Kraj	true
+682	CZ	Czech Republic	32	Plzensky Kraj	true
+683	CZ	Czech Republic	42	Ustecky Kraj	true
+684	CZ	Czech Republic	51	Liberecky Kraj	true
+685	CZ	Czech Republic	PR	Hlavni Mesto Praha	false
+686	CZ	Czech Republic	53	Pardubicky Kraj	true
+687	CZ	Czech Republic	63	Vysocina	true
+688	CZ	Czech Republic	64	Jihomoravsky Kraj	true
+689	CZ	Czech Republic	71	Olomoucky Kraj	true
+690	CZ	Czech Republic	72	Zlinsky Kraj	true
+691	CZ	Czech Republic	JM	Jihomoravsky Kraj	false
+692	CZ	Czech Republic	JC	Jihocesky Kraj	false
+693	CZ	Czech Republic	VY	Vysocina	false
+694	CZ	Czech Republic	KA	Karlovarsky Kraj	false
+695	CZ	Czech Republic	KR	Kralovehradecky Kraj	false
+696	CZ	Czech Republic	LI	Liberecky Kraj	false
+697	CZ	Czech Republic	OL	Olomoucky Kraj	false
+698	CZ	Czech Republic	MO	Moravskoslezsky Kraj	false
+699	CZ	Czech Republic	PA	Pardubicky Kraj	false
+700	CZ	Czech Republic	PL	Plzensky Kraj	false
+701	CZ	Czech Republic	ST	Stredocesky Kraj	false
+702	CZ	Czech Republic	US	Ustecky Kraj	false
+703	CZ	Czech Republic	ZL	Zlinsky Kraj	false
+704	DE	Germany	BW	Baden-Wurttemberg	true
+705	DE	Germany	BY	Bayern	true
+706	DE	Germany	HB	Bremen	true
+707	DE	Germany	HH	Hamburg	true
+708	DE	Germany	HE	Hessen	true
+709	DE	Germany	NI	Niedersachsen	true
+710	DE	Germany	NW	Nordrhein-Westfalen	true
+711	DE	Germany	RP	Rheinland-Pfalz	true
+712	DE	Germany	SL	Saarland	true
+713	DE	Germany	SH	Schleswig-Holstein	true
+714	DE	Germany	BB	Brandenburg	true
+715	DE	Germany	MV	Mecklenburg-Vorpommern	true
+716	DE	Germany	SN	Sachsen	true
+717	DE	Germany	ST	Sachsen-Anhalt	true
+718	DE	Germany	TH	Thuringen	true
+719	DE	Germany	BE	Berlin	true
+720	DJ	Djibouti	AS	Ali Sabieh	true
+721	DJ	Djibouti	OB	Obock	true
+722	DJ	Djibouti	TA	Tadjoura	true
+723	DJ	Djibouti	DI	Dikhil	true
+724	DJ	Djibouti	DJ	Djibouti	true
+725	DJ	Djibouti	AR	Arta	true
+726	DK	Denmark	84	Hovedstaden	true
+727	DK	Denmark	82	Midtjylland	true
+728	DK	Denmark	81	Nordjylland	true
+729	DK	Denmark	85	Sjelland	true
+730	DK	Denmark	83	Syddanmark	true
+731	DM	Dominica	02	Saint Andrew	true
+732	DM	Dominica	03	Saint David	true
+733	DM	Dominica	04	Saint George	true
+734	DM	Dominica	05	Saint John	true
+735	DM	Dominica	06	Saint Joseph	true
+736	DM	Dominica	07	Saint Luke	true
+737	DM	Dominica	08	Saint Mark	true
+738	DM	Dominica	09	Saint Patrick	true
+739	DM	Dominica	10	Saint Paul	true
+740	DM	Dominica	11	Saint Peter	true
+741	DO	Dominican Republic	02	Azua	true
+742	DO	Dominican Republic	03	Baoruco	true
+743	DO	Dominican Republic	04	Barahona	true
+744	DO	Dominican Republic	05	Dajabon	true
+745	DO	Dominican Republic	06	Duarte	true
+746	DO	Dominican Republic	09	Espaillat	true
+747	DO	Dominican Republic	10	Independencia	true
+748	DO	Dominican Republic	11	La Altagracia	true
+749	DO	Dominican Republic	07	Elias Pina	true
+750	DO	Dominican Republic	12	La Romana	true
+751	DO	Dominican Republic	14	Maria Trinidad Sanchez	true
+752	DO	Dominican Republic	15	Monte Cristi	true
+753	DO	Dominican Republic	16	Pedernales	true
+754	DO	Dominican Republic	18	Puerto Plata	true
+755	DO	Dominican Republic	19	Salcedo	true
+756	DO	Dominican Republic	20	Samana	true
+757	DO	Dominican Republic	24	Sanchez Ramirez	true
+758	DO	Dominican Republic	22	San Juan	true
+759	DO	Dominican Republic	23	San Pedro De Macoris	true
+760	DO	Dominican Republic	25	Santiago	true
+761	DO	Dominican Republic	26	Santiago Rodriguez	true
+762	DO	Dominican Republic	27	Valverde	true
+763	DO	Dominican Republic	30	Hato Mayor	true
+764	DO	Dominican Republic	13	La Vega	true
+765	DO	Dominican Republic	28	Monsenor Nouel	true
+766	DO	Dominican Republic	29	Monte Plata	true
+767	DO	Dominican Republic	21	San Cristobal	true
+768	DO	Dominican Republic	01	Distrito Nacional	true
+769	DO	Dominican Republic	17	Peravia	true
+770	DO	Dominican Republic	31	San Jose De Ocoa	true
+771	DO	Dominican Republic	32	Santo Domingo	true
+772	DO	Dominican Republic	08	El Seybo	true
+773	DZ	Algeria	16	Alger	true
+774	DZ	Algeria	05	Batna	true
+775	DZ	Algeria	25	Constantine	true
+776	DZ	Algeria	26	Medea	true
+777	DZ	Algeria	27	Mostaganem	true
+778	DZ	Algeria	31	Oran	true
+779	DZ	Algeria	20	Saida	true
+780	DZ	Algeria	19	Setif	true
+781	DZ	Algeria	14	Tiaret	true
+782	DZ	Algeria	15	Tizi Ouzou	true
+783	DZ	Algeria	13	Tlemcen	true
+784	DZ	Algeria	06	Bejaia	true
+785	DZ	Algeria	07	Biskra	true
+786	DZ	Algeria	09	Blida	true
+787	DZ	Algeria	10	Bouira	true
+788	DZ	Algeria	17	Djelfa	true
+789	DZ	Algeria	24	Guelma	true
+790	DZ	Algeria	18	Jijel	true
+791	DZ	Algeria	03	Laghouat	true
+792	DZ	Algeria	29	Mascara	true
+793	DZ	Algeria	28	Msila	true
+794	DZ	Algeria	04	Oum El Bouaghi	true
+795	DZ	Algeria	22	Sidi Bel Abbes	true
+796	DZ	Algeria	21	Skikda	true
+797	DZ	Algeria	12	Tebessa	true
+798	DZ	Algeria	01	Adrar	true
+799	DZ	Algeria	44	Ain Defla	true
+800	DZ	Algeria	46	Ain Temouchent	true
+801	DZ	Algeria	23	Annaba	true
+802	DZ	Algeria	08	Bechar	true
+803	DZ	Algeria	34	Bordj Bou Arreridj	true
+804	DZ	Algeria	35	Boumerdes	true
+805	DZ	Algeria	02	Chlef	true
+806	DZ	Algeria	32	El Bayadh	true
+807	DZ	Algeria	39	El Oued	true
+808	DZ	Algeria	36	El Tarf	true
+809	DZ	Algeria	47	Ghardaia	true
+810	DZ	Algeria	33	Illizi	true
+811	DZ	Algeria	40	Khenchela	true
+812	DZ	Algeria	43	Mila	true
+813	DZ	Algeria	45	Naama	true
+814	DZ	Algeria	30	Ouargla	true
+815	DZ	Algeria	48	Relizane	true
+816	DZ	Algeria	41	Souk Ahras	true
+817	DZ	Algeria	11	Tamanghasset	true
+818	DZ	Algeria	37	Tindouf	true
+819	DZ	Algeria	42	Tipaza	true
+820	DZ	Algeria	38	Tissemsilt	true
+821	EC	Ecuador	W	Galapagos	true
+822	EC	Ecuador	A	Azuay	true
+823	EC	Ecuador	B	Bolivar	true
+824	EC	Ecuador	F	Canar	true
+825	EC	Ecuador	C	Carchi	true
+826	EC	Ecuador	H	Chimborazo	true
+827	EC	Ecuador	X	Cotopaxi	true
+828	EC	Ecuador	O	El Oro	true
+829	EC	Ecuador	E	Esmeraldas	true
+830	EC	Ecuador	G	Guayas	true
+831	EC	Ecuador	I	Imbabura	true
+832	EC	Ecuador	L	Loja	true
+833	EC	Ecuador	R	Los Rios	true
+834	EC	Ecuador	M	Manabi	true
+835	EC	Ecuador	S	Morona-Santiago	true
+836	EC	Ecuador	Y	Pastaza	true
+837	EC	Ecuador	P	Pichincha	true
+838	EC	Ecuador	T	Tungurahua	true
+839	EC	Ecuador	Z	Zamora-Chinchipe	true
+840	EC	Ecuador	U	Sucumbios	true
+841	EC	Ecuador	N	Napo	true
+842	EC	Ecuador	D	Orellana	true
+843	EC	Ecuador	SD	Santo Domingo De Los Tsachila	true
+844	EC	Ecuador	SE	Santa Elena	true
+845	EE	Estonia	37	Harjumaa	true
+846	EE	Estonia	39	Hiiumaa	true
+847	EE	Estonia	44	Ida-Virumaa	true
+848	EE	Estonia	51	Jarvamaa	true
+849	EE	Estonia	49	Jogevamaa	true
+850	EE	Estonia	57	Laanemaa	true
+851	EE	Estonia	59	Laane-Virumaa	true
+852	EE	Estonia	67	Parnumaa	true
+853	EE	Estonia	65	Polvamaa	true
+854	EE	Estonia	70	Raplamaa	true
+855	EE	Estonia	74	Saaremaa	true
+856	EE	Estonia	78	Tartumaa	true
+857	EE	Estonia	82	Valgamaa	true
+858	EE	Estonia	84	Viljandimaa	true
+859	EE	Estonia	86	Vorumaa	true
+860	EG	Egypt	DK	Ad Daqahliyah	true
+861	EG	Egypt	BA	Al Bahr Al Ahmar	true
+862	EG	Egypt	BH	Al Buhayrah	true
+863	EG	Egypt	FYM	Al Fayyum	true
+864	EG	Egypt	GH	Al Gharbiyah	true
+865	EG	Egypt	ALX	Al Iskandariyah	true
+866	EG	Egypt	IS	Al Isma'iliyah	true
+867	EG	Egypt	GZ	Al Jizah	true
+868	EG	Egypt	MNF	Al Minufiyah	true
+869	EG	Egypt	MN	Al Minya	true
+870	EG	Egypt	C	Al Qahirah	true
+871	EG	Egypt	KB	Al Qalyubiyah	true
+872	EG	Egypt	WAD	Al Wadi Al Jadid	true
+873	EG	Egypt	SHR	Ash Sharqiyah	true
+874	EG	Egypt	SUZ	As Suways	true
+875	EG	Egypt	ASN	Aswan	true
+876	EG	Egypt	AST	Asyut	true
+877	EG	Egypt	BNS	Bani Suwayf	true
+878	EG	Egypt	PTS	Bur Sa'id	true
+879	EG	Egypt	DT	Dumyat	true
+880	EG	Egypt	KFS	Kafr Ash Shaykh	true
+881	EG	Egypt	MT	Matruh	true
+882	EG	Egypt	KN	Qina	true
+883	EG	Egypt	SHG	Suhaj	true
+884	EG	Egypt	JS	Janub Sina'	true
+885	EG	Egypt	SIN	Shamal Sina'	true
+886	EG	Egypt	LX	Al-Uqsur	true
+887	EG	Egypt	HU	Hulwan	true
+888	EG	Egypt	SU	As Sadis Min Uktubar	true
+889	EH	Western Sahara	XXX	Undefined	true
+890	ER	Eritrea	AN	Anseba	true
+891	ER	Eritrea	DU	Debub	true
+892	ER	Eritrea	DK	Debubawi K'eyih Bahri	true
+893	ER	Eritrea	GB	Gash Barka	true
+894	ER	Eritrea	SK	Semenawi K'eyih Bahri	true
+895	ER	Eritrea	MA	Al Awsat	true
+896	ER	Eritrea	AS	Asmara	false
+897	ES	Spain	PM	Islas Baleares	true
+898	ES	Spain	LO	La Rioja	true
+899	ES	Spain	M	Madrid	true
+900	ES	Spain	MU	Murcia	true
+901	ES	Spain	NA	Navarra	true
+902	ES	Spain	O	Asturias	true
+903	ES	Spain	S	Cantabria	true
+904	ES	Spain	GR	Granada	true
+905	ES	Spain	CA	Cadiz	true
+906	ES	Spain	MA	Malaga	true
+907	ES	Spain	J	Jaen	true
+908	ES	Spain	SE	Sevilla	true
+909	ES	Spain	H	Huelva	true
+910	ES	Spain	AL	Almeria	true
+911	ES	Spain	CO	Cordoba	true
+912	ES	Spain	HU	Huesca	true
+913	ES	Spain	Z	Zaragoza	true
+914	ES	Spain	TE	Teruel	true
+915	ES	Spain	GC	Las Palmas	true
+916	ES	Spain	TF	Santa Cruz De Tenerife	true
+917	ES	Spain	AB	Albacete	true
+918	ES	Spain	CR	Ciudad Real	true
+919	ES	Spain	GU	Guadalajara	true
+920	ES	Spain	TO	Toledo	true
+921	ES	Spain	CU	Cuenca	true
+922	ES	Spain	SA	Salamanca	true
+923	ES	Spain	LE	Leon	true
+924	ES	Spain	BU	Burgos	true
+925	ES	Spain	VA	Valladolid	true
+926	ES	Spain	SG	Segovia	true
+927	ES	Spain	SO	Soria	true
+928	ES	Spain	ZA	Zamora	true
+929	ES	Spain	P	Palencia	true
+930	ES	Spain	AV	Avila	true
+931	ES	Spain	GI	Girona	true
+932	ES	Spain	L	Lerida	true
+933	ES	Spain	B	Barcelona	true
+934	ES	Spain	T	Tarragona	true
+935	ES	Spain	CC	Caceres	true
+936	ES	Spain	BA	Badajoz	true
+937	ES	Spain	CE	Ceuta	true
+938	ES	Spain	LU	Lugo	true
+939	ES	Spain	C	La Coruna	true
+940	ES	Spain	PO	Pontevedra	true
+941	ES	Spain	OR	Orense	true
+942	ES	Spain	SS	Guipuzcoa	true
+943	ES	Spain	VI	Alava	true
+944	ES	Spain	BI	Vizcaya	true
+945	ES	Spain	CS	Castellon	true
+946	ES	Spain	V	Valencia	true
+947	ES	Spain	A	Alicante	true
+948	ES	Spain	ML	Melilla	true
+949	ET	Ethiopia	SO	Somali	true
+950	ET	Ethiopia	AA	Adis Abeba	true
+951	ET	Ethiopia	AF	Afar	true
+952	ET	Ethiopia	AM	Amara	true
+953	ET	Ethiopia	BE	Binshangul Gumuz	true
+954	ET	Ethiopia	DD	Dire Dawa	true
+955	ET	Ethiopia	GA	Gambela Hizboch	true
+956	ET	Ethiopia	HA	Hareri Hizb	true
+957	ET	Ethiopia	OR	Oromiya	true
+958	ET	Ethiopia	TI	Tigray	true
+959	ET	Ethiopia	SN	Yedebub Biheroch Bihereseboch Na Hizboch	true
+960	FI	Finland	03	Southern Ostrobothnia	true
+961	FI	Finland	04	Southern Savonia	true
+962	FI	Finland	05	Kainuu	true
+963	FI	Finland	10	Lapland	true
+964	FI	Finland	07	Central Ostrobothnia	true
+965	FI	Finland	09	Kymenlaakso	true
+966	FI	Finland	11	Pirkanmaa	true
+967	FI	Finland	12	Ostrobothnia	true
+968	FI	Finland	17	Satakunta	true
+969	FI	Finland	18	Uusimaa	true
+970	FI	Finland	19	Southwest Finland	true
+971	FI	Finland	02	South Karelia	true
+972	FI	Finland	16	P�ij�nne Tavastia	true
+973	FI	Finland	08	Central Finland	true
+974	FI	Finland	13	North Karelia	true
+975	FI	Finland	14	Northern Ostrobothnia	true
+976	FI	Finland	15	Northern Savonia	true
+977	FI	Finland	06	Tavastia Proper	true
+978	FJ	Fiji	C	Central	true
+979	FJ	Fiji	E	Eastern	true
+980	FJ	Fiji	N	Northern	true
+981	FJ	Fiji	R	Rotuma	true
+982	FJ	Fiji	W	Western	true
+983	FK	Falkland Islands (Malvinas)	XXX	Undefined	true
+984	FM	"Micronesia	 Federated States of"	PNI	Pohnpei	true
+985	FM	"Micronesia	 Federated States of"	TRK	Chuuk	true
+986	FM	"Micronesia	 Federated States of"	YAP	Yap	true
+987	FM	"Micronesia	 Federated States of"	KSA	Kosrae	true
+988	FO	Faroe Islands	XXX	Undefined	true
+989	FR	France	B	Aquitaine	true
+990	FR	France	C	Auvergne	true
+991	FR	France	P	Basse-Normandie	true
+992	FR	France	D	Bourgogne	true
+993	FR	France	E	Bretagne	true
+994	FR	France	F	Centre-Val De Loire	true
+995	FR	France	G	Champagne-Ardenne	true
+996	FR	France	H	Corse	true
+997	FR	France	I	Franche-Comte	true
+998	FR	France	Q	Haute-Normandie	true
+999	FR	France	J	Ile-De-France	true
+1000	FR	France	K	Languedoc-Roussillon	true
+1001	FR	France	ARA	Auvergne-Rhone-Alpes	false
+1002	FR	France	L	Limousin	true
+1003	FR	France	M	Lorraine	true
+1004	FR	France	N	Midi-Pyrenees	true
+1005	FR	France	O	Nord-Pas-De-Calais	true
+1006	FR	France	R	Pays De La Loire	true
+1007	FR	France	S	Picardie	true
+1008	FR	France	T	Poitou-Charentes	true
+1009	FR	France	U	Provence-Alpes-Cote D'azur	true
+1010	FR	France	V	Rhone-Alpes	true
+1011	FR	France	BFC	Bourgogne-Franche-Comte	false
+1012	FR	France	XX6	Bretagne	false
+1013	FR	France	A	Alsace	true
+1014	FR	France	XX3	Corse	false
+1015	FR	France	XX4	Centre-Val De Loire	false
+1016	FR	France	GES	Grand-Est	false
+1017	FR	France	HDF	Hauts-De-France	false
+1018	FR	France	XX2	Ile-De-France	false
+1019	FR	France	NAQ	Nouvelle-Aquitaine	false
+1020	FR	France	NOR	Normandie	false
+1021	FR	France	OCC	Occitanie	false
+1022	FR	France	XX1	Provence-Alpes-Cote-D'azur	false
+1023	FR	France	XX5	Pays-De-La-Loire	false
+1024	GA	Gabon	1	Estuaire	true
+1025	GA	Gabon	2	Haut-Ogooue	true
+1026	GA	Gabon	3	Moyen-Ogooue	true
+1027	GA	Gabon	4	Ngounie	true
+1028	GA	Gabon	5	Nyanga	true
+1029	GA	Gabon	6	Ogooue-Ivindo	true
+1030	GA	Gabon	7	Ogooue-Lolo	true
+1031	GA	Gabon	8	Ogooue-Maritime	true
+1032	GA	Gabon	9	Woleu-Ntem	true
+1033	GB	United Kingdom	BDG	Barking And Dagenham	true
+1034	GB	United Kingdom	BNE	Barnet	true
+1035	GB	United Kingdom	BNS	Barnsley	true
+1036	GB	United Kingdom	BAS	Bath And North East Somerset	true
+1037	GB	United Kingdom	BDF	Bedfordshire	true
+1038	GB	United Kingdom	BEX	Bexley	true
+1039	GB	United Kingdom	BIR	Birmingham	true
+1040	GB	United Kingdom	BBD	Blackburn With Darwen	true
+1041	GB	United Kingdom	BPL	Blackpool	true
+1042	GB	United Kingdom	ABC	Armagh Banbridge And Craigavon	false
+1043	GB	United Kingdom	AND	Ards And North Down	false
+1044	GB	United Kingdom	ANN	Antrim And Newtownabbey	false
+1045	GB	United Kingdom	BOL	Bolton	true
+1046	GB	United Kingdom	BMH	Bournemouth	true
+1047	GB	United Kingdom	BRC	Bracknell Forest	true
+1048	GB	United Kingdom	BRD	Bradford	true
+1049	GB	United Kingdom	BEN	Brent	true
+1050	GB	United Kingdom	BNH	Brighton And Hove	true
+1051	GB	United Kingdom	BST	"Bristol	 City Of"	true
+1052	GB	United Kingdom	BRY	Bromley	true
+1053	GB	United Kingdom	BKM	Buckinghamshire	true
+1054	GB	United Kingdom	BUR	Bury	true
+1055	GB	United Kingdom	CLD	Calderdale	true
+1056	GB	United Kingdom	CAM	Cambridgeshire	true
+1057	GB	United Kingdom	CMD	Camden	true
+1058	GB	United Kingdom	CON	Cornwall	true
+1059	GB	United Kingdom	COV	Coventry	true
+1060	GB	United Kingdom	CRY	Croydon	true
+1061	GB	United Kingdom	CMA	Cumbria	true
+1062	GB	United Kingdom	CCG	Causeway Coast And Glens	false
+1063	GB	United Kingdom	DAL	Darlington	true
+1064	GB	United Kingdom	DER	Derby	true
+1065	GB	United Kingdom	DBY	Derbyshire	true
+1066	GB	United Kingdom	DEV	Devon	true
+1067	GB	United Kingdom	DNC	Doncaster	true
+1068	GB	United Kingdom	DOR	Dorset	true
+1069	GB	United Kingdom	DUD	Dudley	true
+1070	GB	United Kingdom	DUR	Durham	true
+1071	GB	United Kingdom	EAL	Ealing	true
+1072	GB	United Kingdom	DRS	Derry And Strabane	false
+1073	GB	United Kingdom	ERY	East Riding Of Yorkshire	true
+1074	GB	United Kingdom	ESX	East Sussex	true
+1075	GB	United Kingdom	ENF	Enfield	true
+1076	GB	United Kingdom	ESS	Essex	true
+1077	GB	United Kingdom	GAT	Gateshead	true
+1078	GB	United Kingdom	GLS	Gloucestershire	true
+1079	GB	United Kingdom	GRE	Greenwich	true
+1080	GB	United Kingdom	HCK	Hackney	true
+1081	GB	United Kingdom	HAL	Halton	true
+1082	GB	United Kingdom	HMF	Hammersmith And Fulham	true
+1083	GB	United Kingdom	HAM	Hampshire	true
+1084	GB	United Kingdom	HRY	Haringey	true
+1085	GB	United Kingdom	HRW	Harrow	true
+1086	GB	United Kingdom	HPL	Hartlepool	true
+1087	GB	United Kingdom	HAV	Havering	true
+1088	GB	United Kingdom	HEF	Herefordshire	true
+1089	GB	United Kingdom	HRT	Hertford	true
+1090	GB	United Kingdom	HIL	Hillingdon	true
+1091	GB	United Kingdom	FMO	Fermanagh And Omagh	false
+1092	GB	United Kingdom	HNS	Hounslow	true
+1093	GB	United Kingdom	IOW	Isle Of Wight	true
+1094	GB	United Kingdom	ISL	Islington	true
+1095	GB	United Kingdom	KEC	Kensington And Chelsea	true
+1096	GB	United Kingdom	KEN	Kent	true
+1097	GB	United Kingdom	KHL	"Kingston Upon Hull	 City Of"	true
+1098	GB	United Kingdom	KTT	Kingston Upon Thames	true
+1099	GB	United Kingdom	KIR	Kirklees	true
+1100	GB	United Kingdom	KWL	Knowsley	true
+1101	GB	United Kingdom	LBH	Lambeth	true
+1102	GB	United Kingdom	LAN	Lancashire	true
+1103	GB	United Kingdom	LDS	Leeds	true
+1104	GB	United Kingdom	LCE	Leicester	true
+1105	GB	United Kingdom	LEC	Leicestershire	true
+1106	GB	United Kingdom	LEW	Lewisham	true
+1107	GB	United Kingdom	LIN	Lincolnshire	true
+1108	GB	United Kingdom	LIV	Liverpool	true
+1109	GB	United Kingdom	LND	"London	 City Of"	true
+1110	GB	United Kingdom	LUT	Luton	true
+1111	GB	United Kingdom	MAN	Manchester	true
+1112	GB	United Kingdom	MDW	Medway	true
+1113	GB	United Kingdom	MRT	Merton	true
+1114	GB	United Kingdom	MDB	Middlesbrough	true
+1115	GB	United Kingdom	MIK	Milton Keynes	true
+1116	GB	United Kingdom	NET	Newcastle Upon Tyne	true
+1117	GB	United Kingdom	NWM	Newham	true
+1118	GB	United Kingdom	NFK	Norfolk	true
+1119	GB	United Kingdom	NTH	Northamptonshire	true
+1120	GB	United Kingdom	NEL	North East Lincolnshire	true
+1121	GB	United Kingdom	NLN	North Lincolnshire	true
+1122	GB	United Kingdom	NSM	North Somerset	true
+1123	GB	United Kingdom	NTY	North Tyneside	true
+1124	GB	United Kingdom	NBL	Northumberland	true
+1125	GB	United Kingdom	NYK	North Yorkshire	true
+1126	GB	United Kingdom	NGM	Nottingham	true
+1127	GB	United Kingdom	NTT	Nottinghamshire	true
+1128	GB	United Kingdom	OLD	Oldham	true
+1129	GB	United Kingdom	OXF	Oxfordshire	true
+1130	GB	United Kingdom	PTE	Peterborough	true
+1131	GB	United Kingdom	PLY	Plymouth	true
+1132	GB	United Kingdom	POL	Poole	true
+1133	GB	United Kingdom	POR	Portsmouth	true
+1134	GB	United Kingdom	RDG	Reading	true
+1135	GB	United Kingdom	RDB	Redbridge	true
+1136	GB	United Kingdom	RCC	Redcar And Cleveland	true
+1137	GB	United Kingdom	RIC	Richmond Upon Thames	true
+1138	GB	United Kingdom	RCH	Rochdale	true
+1139	GB	United Kingdom	ROT	Rotherham	true
+1140	GB	United Kingdom	RUT	Rutland	true
+1141	GB	United Kingdom	SLF	Salford	true
+1142	GB	United Kingdom	SHR	Shropshire	true
+1143	GB	United Kingdom	SAW	Sandwell	true
+1144	GB	United Kingdom	SFT	Sefton	true
+1145	GB	United Kingdom	SHF	Sheffield	true
+1146	GB	United Kingdom	LBC	Lisburn And Castlereagh	false
+1147	GB	United Kingdom	SLG	Slough	true
+1148	GB	United Kingdom	SOL	Solihull	true
+1149	GB	United Kingdom	SOM	Somerset	true
+1150	GB	United Kingdom	STH	Southampton	true
+1151	GB	United Kingdom	SOS	Southend-On-Sea	true
+1152	GB	United Kingdom	SGC	South Gloucestershire	true
+1153	GB	United Kingdom	STY	South Tyneside	true
+1154	GB	United Kingdom	SWK	Southwark	true
+1155	GB	United Kingdom	STS	Staffordshire	true
+1156	GB	United Kingdom	MEA	Mid And East Antrim	false
+1157	GB	United Kingdom	MUL	Mid Ulster	false
+1158	GB	United Kingdom	SHN	St. Helens	true
+1159	GB	United Kingdom	SKP	Stockport	true
+1160	GB	United Kingdom	STT	Stockton-On-Tees	true
+1161	GB	United Kingdom	STE	Stoke-On-Trent	true
+1162	GB	United Kingdom	SFK	Suffolk	true
+1163	GB	United Kingdom	SND	Sunderland	true
+1164	GB	United Kingdom	SRY	Surrey	true
+1165	GB	United Kingdom	STN	Sutton	true
+1166	GB	United Kingdom	SWD	Swindon	true
+1167	GB	United Kingdom	NMD	Newry Mourne And Down	false
+1168	GB	United Kingdom	TAM	Tameside	true
+1169	GB	United Kingdom	TFW	Telford And Wrekin	true
+1170	GB	United Kingdom	THR	Thurrock	true
+1171	GB	United Kingdom	TOB	Torbay	true
+1172	GB	United Kingdom	TWH	Tower Hamlets	true
+1173	GB	United Kingdom	TRF	Trafford	true
+1174	GB	United Kingdom	WKF	Wakefield	true
+1175	GB	United Kingdom	WLL	Walsall	true
+1176	GB	United Kingdom	WFT	Waltham Forest	true
+1177	GB	United Kingdom	WND	Wandsworth	true
+1178	GB	United Kingdom	WRT	Warrington	true
+1179	GB	United Kingdom	WAR	Warwickshire	true
+1180	GB	United Kingdom	WBK	West Berkshire	true
+1181	GB	United Kingdom	WSM	Westminster	true
+1182	GB	United Kingdom	WSX	West Sussex	true
+1183	GB	United Kingdom	WGN	Wigan	true
+1184	GB	United Kingdom	WIL	Wiltshire	true
+1185	GB	United Kingdom	WNM	Windsor And Maidenhead	true
+1186	GB	United Kingdom	WRL	Wirral	true
+1187	GB	United Kingdom	WOK	Wokingham	true
+1188	GB	United Kingdom	WLV	Wolverhampton	true
+1189	GB	United Kingdom	WOR	Worcestershire	true
+1190	GB	United Kingdom	YOR	York	true
+1191	GB	United Kingdom	ANT	Antrim	true
+1192	GB	United Kingdom	ARD	Ards	true
+1193	GB	United Kingdom	ARM	Armagh	true
+1194	GB	United Kingdom	BLA	Ballymena	true
+1195	GB	United Kingdom	BLY	Ballymoney	true
+1196	GB	United Kingdom	BNB	Banbridge	true
+1197	GB	United Kingdom	BFS	Belfast	true
+1198	GB	United Kingdom	CKF	Carrickfergus	true
+1199	GB	United Kingdom	CSR	Castlereagh	true
+1200	GB	United Kingdom	CLR	Coleraine	true
+1201	GB	United Kingdom	CKT	Cookstown	true
+1202	GB	United Kingdom	CGV	Craigavon	true
+1203	GB	United Kingdom	DOW	Down	true
+1204	GB	United Kingdom	DGN	Dungannon	true
+1205	GB	United Kingdom	FER	Fermanagh	true
+1206	GB	United Kingdom	LRN	Larne	true
+1207	GB	United Kingdom	LMV	Limavady	true
+1208	GB	United Kingdom	LSB	Lisburn	true
+1209	GB	United Kingdom	DRY	Derry	true
+1210	GB	United Kingdom	MFT	Magherafelt	true
+1211	GB	United Kingdom	MYL	Moyle	true
+1212	GB	United Kingdom	NYM	Newry And Mourne	true
+1213	GB	United Kingdom	NTA	Newtownabbey	true
+1214	GB	United Kingdom	NDN	North Down	true
+1215	GB	United Kingdom	OMH	Omagh	true
+1216	GB	United Kingdom	STB	Strabane	true
+1217	GB	United Kingdom	ABE	Aberdeen City	true
+1218	GB	United Kingdom	ABD	Aberdeenshire	true
+1219	GB	United Kingdom	ANS	Angus	true
+1220	GB	United Kingdom	AGB	Argyll And Bute	true
+1221	GB	United Kingdom	SCB	"Scottish Borders	 The"	true
+1222	GB	United Kingdom	CLK	Clackmannanshire	true
+1223	GB	United Kingdom	DGY	Dumfries And Galloway	true
+1224	GB	United Kingdom	DND	Dundee City	true
+1225	GB	United Kingdom	EAY	East Ayrshire	true
+1226	GB	United Kingdom	EDU	East Dunbartonshire	true
+1227	GB	United Kingdom	ELN	East Lothian	true
+1228	GB	United Kingdom	ERW	East Renfrewshire	true
+1229	GB	United Kingdom	EDH	"Edinburgh	 City Of"	true
+1230	GB	United Kingdom	FAL	Falkirk	true
+1231	GB	United Kingdom	FIF	Fife	true
+1232	GB	United Kingdom	GLG	Glasgow City	true
+1233	GB	United Kingdom	HLD	Highland	true
+1234	GB	United Kingdom	IVC	Inverclyde	true
+1235	GB	United Kingdom	MLN	Midlothian	true
+1236	GB	United Kingdom	MRY	Moray	true
+1237	GB	United Kingdom	NAY	North Ayrshire	true
+1238	GB	United Kingdom	NLK	North Lanarkshire	true
+1239	GB	United Kingdom	ORK	Orkney	true
+1240	GB	United Kingdom	PKN	Perth And Kinross	true
+1241	GB	United Kingdom	RFW	Renfrewshire	true
+1242	GB	United Kingdom	ZET	Shetland Islands	true
+1243	GB	United Kingdom	SAY	South Ayrshire	true
+1244	GB	United Kingdom	SLK	South Lanarkshire	true
+1245	GB	United Kingdom	STG	Stirling	true
+1246	GB	United Kingdom	WDU	West Dunbartonshire	true
+1247	GB	United Kingdom	ELS	Eilean Siar	true
+1248	GB	United Kingdom	WLN	West Lothian	true
+1249	GB	United Kingdom	AGY	Isle Of Anglesey	true
+1250	GB	United Kingdom	BGW	Blaenau Gwent	true
+1251	GB	United Kingdom	BGE	Bridgend	true
+1252	GB	United Kingdom	CAY	Caerphilly	true
+1253	GB	United Kingdom	CRF	Cardiff	true
+1254	GB	United Kingdom	CGN	Ceredigion	true
+1255	GB	United Kingdom	CMN	Carmarthenshire	true
+1256	GB	United Kingdom	CWY	Conwy	true
+1257	GB	United Kingdom	DEN	Denbighshire	true
+1258	GB	United Kingdom	FLN	Flintshire	true
+1259	GB	United Kingdom	GWN	Gwynedd	true
+1260	GB	United Kingdom	MTY	Merthyr Tydfil	true
+1261	GB	United Kingdom	MON	Monmouthshire	true
+1262	GB	United Kingdom	NTL	Neath Port Talbot	true
+1263	GB	United Kingdom	NWP	Newport	true
+1264	GB	United Kingdom	PEM	Pembrokeshire	true
+1265	GB	United Kingdom	POW	Powys	true
+1266	GB	United Kingdom	RCT	Rhondda Cynon Taff	true
+1267	GB	United Kingdom	SWA	Swansea	true
+1268	GB	United Kingdom	TOF	Torfaen	true
+1269	GB	United Kingdom	VGL	"Vale Of Glamorgan	 The"	true
+1270	GB	United Kingdom	WRX	Wrexham	true
+1271	GB	United Kingdom	CBF	Central Bedfordshire	true
+1272	GB	United Kingdom	CHE	Cheshire East	true
+1273	GB	United Kingdom	CHW	Cheshire West And Chester	true
+1274	GD	Grenada	01	Saint Andrew	true
+1275	GD	Grenada	02	Saint David	true
+1276	GD	Grenada	03	Saint George	true
+1277	GD	Grenada	04	Saint John	true
+1278	GD	Grenada	05	Saint Mark	true
+1279	GD	Grenada	06	Saint Patrick	true
+1280	GD	Grenada	10	Southern Grenadine Islands	true
+1281	GE	Georgia	AB	Abkhazia	true
+1282	GE	Georgia	AJ	Ajaria	true
+1283	GE	Georgia	TB	T'bilisi	true
+1284	GE	Georgia	IM	Imereti	true
+1285	GE	Georgia	KK	Kvemo Kartli	true
+1286	GE	Georgia	SK	Shida Kartli	true
+1287	GE	Georgia	SZ	Samegrelo-Zemo Svaneti	true
+1288	GE	Georgia	GU	Guria	true
+1289	GE	Georgia	KA	Kakheti	true
+1290	GE	Georgia	MM	Mtskheta-Mtianeti	true
+1291	GE	Georgia	RL	Racha-Lechkhumi-Kvemo Svaneti	true
+1292	GE	Georgia	SJ	Samtskhe-Javakheti	true
+1293	GF	French Guiana	XXX	Undefined	true
+1294	GG	Guernsey	XXX	Undefined	true
+1295	GH	Ghana	AA	Greater Accra	true
+1296	GH	Ghana	AH	Ashanti	true
+1297	GH	Ghana	BA	Brong-Ahafo	true
+1298	GH	Ghana	CP	Central	true
+1299	GH	Ghana	EP	Eastern	true
+1300	GH	Ghana	NP	Northern	true
+1301	GH	Ghana	TV	Volta	true
+1302	GH	Ghana	WP	Western	true
+1303	GH	Ghana	UE	Upper East	true
+1304	GH	Ghana	UW	Upper West	true
+1305	GI	Gibraltar	XXX	Undefined	true
+1306	GL	Greenland	KU	Kommune Kujalleq	true
+1307	GL	Greenland	QA	Qaasuitsup Kommunia	true
+1308	GL	Greenland	QE	Qeqqata Kommunia	true
+1309	GL	Greenland	SM	Kommuneqarfik Sermersooq	true
+1310	GM	Gambia	B	Banjul	true
+1311	GM	Gambia	L	Lower River	true
+1312	GM	Gambia	M	Central River	true
+1313	GM	Gambia	U	Upper River	true
+1314	GM	Gambia	W	Western	true
+1315	GM	Gambia	N	North Bank	true
+1316	GN	Guinea	B	Boke	true
+1317	GN	Guinea	C	Conakry	true
+1318	GN	Guinea	F	Faranah	true
+1319	GN	Guinea	D	Kindia	true
+1320	GN	Guinea	M	Mamou	true
+1321	GN	Guinea	K	Kankan	true
+1322	GN	Guinea	L	Labe	true
+1323	GN	Guinea	N	Nzerekore	true
+1324	GP	Guadeloupe	XXX	Undefined	true
+1325	GQ	Equatorial Guinea	C	Region Continental	true
+1326	GQ	Equatorial Guinea	I	Region Insular	true
+1327	GR	Greece	71	Evros	false
+1328	GR	Greece	73	Rodhopi	false
+1329	GR	Greece	72	Xanthi	false
+1330	GR	Greece	52	Drama	false
+1331	GR	Greece	62	Serrai	false
+1332	GR	Greece	57	Kilkis	false
+1333	GR	Greece	59	Pella	false
+1334	GR	Greece	63	Florina	false
+1335	GR	Greece	56	Kastoria	false
+1336	GR	Greece	A	Anatoliki Makedonia Kai Thraki	true
+1337	GR	Greece	I	Attiki	true
+1338	GR	Greece	51	Grevena	false
+1339	GR	Greece	58	Kozani	false
+1340	GR	Greece	53	Imathia	false
+1341	GR	Greece	54	Thessaloniki	false
+1342	GR	Greece	55	Kavala	false
+1343	GR	Greece	64	Chalkidiki	false
+1344	GR	Greece	61	Pieria	false
+1345	GR	Greece	33	Ioannina	false
+1346	GR	Greece	32	Thesprotia	false
+1347	GR	Greece	34	Preveza	false
+1348	GR	Greece	31	Arta	false
+1349	GR	Greece	42	Larisa	false
+1350	GR	Greece	44	Trikala	false
+1351	GR	Greece	41	Kardhitsa	false
+1352	GR	Greece	43	Magnisia	false
+1353	GR	Greece	22	Kerkira	false
+1354	GR	Greece	24	Levkas	false
+1355	GR	Greece	23	Kefallinia	false
+1356	GR	Greece	21	Zakinthos	false
+1357	GR	Greece	06	Fthiotis	false
+1358	GR	Greece	05	Evritania	false
+1359	GR	Greece	01	Aitolia Kai Akarnania	false
+1360	GR	Greece	07	Fokis	false
+1361	GR	Greece	03	Voiotia	false
+1362	GR	Greece	04	Evvoia	false
+1363	GR	Greece	A1	Attiki	false
+1364	GR	Greece	11	Argolis	false
+1365	GR	Greece	15	Korinthia	false
+1366	GR	Greece	13	Akhaia	false
+1367	GR	Greece	14	Ilia	false
+1368	GR	Greece	17	Messinia	false
+1369	GR	Greece	12	Arkadhia	false
+1370	GR	Greece	16	Lakonia	false
+1371	GR	Greece	94	Khania	false
+1372	GR	Greece	93	Rethimni	false
+1373	GR	Greece	91	Iraklion	false
+1374	GR	Greece	92	Lasithi	false
+1375	GR	Greece	81	Dhodhekanisos	false
+1376	GR	Greece	84	Samos	false
+1377	GR	Greece	82	Kikladhes	false
+1378	GR	Greece	85	Khios	false
+1379	GR	Greece	83	Lesvos	false
+1380	GR	Greece	69	Agion Oros	false
+1381	GR	Greece	G	Dytiki Ellada	true
+1382	GR	Greece	C	Dytiki Makedonia	true
+1383	GR	Greece	F	Ionia Nisia	true
+1384	GR	Greece	D	Ipeiros	true
+1385	GR	Greece	B	Kentriki Makedonia	true
+1386	GR	Greece	M	Kriti	true
+1387	GR	Greece	L	Notio Aigaio	true
+1388	GR	Greece	J	Peloponnisos	true
+1389	GR	Greece	H	Sterea Ellada	true
+1390	GR	Greece	E	Thessalia	true
+1391	GR	Greece	K	Voreio Aigaio	true
+1392	GS	South Georgia and the South Sandwich Islands	XXX	Undefined	true
+1393	GT	Guatemala	AV	Alta Verapaz	true
+1394	GT	Guatemala	BV	Baja Verapaz	true
+1395	GT	Guatemala	CM	Chimaltenango	true
+1396	GT	Guatemala	CQ	Chiquimula	true
+1397	GT	Guatemala	PR	El Progreso	true
+1398	GT	Guatemala	ES	Escuintla	true
+1399	GT	Guatemala	GU	Guatemala	true
+1400	GT	Guatemala	HU	Huehuetenango	true
+1401	GT	Guatemala	IZ	Izabal	true
+1402	GT	Guatemala	JA	Jalapa	true
+1403	GT	Guatemala	JU	Jutiapa	true
+1404	GT	Guatemala	PE	Peten	true
+1405	GT	Guatemala	QZ	Quetzaltenango	true
+1406	GT	Guatemala	QC	Quiche	true
+1407	GT	Guatemala	RE	Retalhuleu	true
+1408	GT	Guatemala	SA	Sacatepequez	true
+1409	GT	Guatemala	SM	San Marcos	true
+1410	GT	Guatemala	SR	Santa Rosa	true
+1411	GT	Guatemala	SO	Solola	true
+1412	GT	Guatemala	SU	Suchitepequez	true
+1413	GT	Guatemala	TO	Totonicapan	true
+1414	GT	Guatemala	ZA	Zacapa	true
+1415	GU	Guam	XXX	Undefined	true
+1416	GW	Guinea-Bissau	BA	Bafata	true
+1417	GW	Guinea-Bissau	QU	Quinara	true
+1418	GW	Guinea-Bissau	OI	Oio	true
+1419	GW	Guinea-Bissau	BL	Bolama	true
+1420	GW	Guinea-Bissau	CA	Cacheu	true
+1421	GW	Guinea-Bissau	TO	Tombali	true
+1422	GW	Guinea-Bissau	GA	Gabu	true
+1423	GW	Guinea-Bissau	BS	Bissau	true
+1424	GW	Guinea-Bissau	BM	Biombo	true
+1425	GY	Guyana	BA	Barima-Waini	true
+1426	GY	Guyana	CU	Cuyuni-Mazaruni	true
+1427	GY	Guyana	DE	Demerara-Mahaica	true
+1428	GY	Guyana	EB	East Berbice-Corentyne	true
+1429	GY	Guyana	ES	Essequibo Islands-West Demerara	true
+1430	GY	Guyana	MA	Mahaica-Berbice	true
+1431	GY	Guyana	PM	Pomeroon-Supenaam	true
+1432	GY	Guyana	PT	Potaro-Siparuni	true
+1433	GY	Guyana	UD	Upper Demerara-Berbice	true
+1434	GY	Guyana	UT	Upper Takutu-Upper Essequibo	true
+1435	HK	Hong Kong	XXX	Undefined	true
+1436	HN	Honduras	AT	Atlantida	true
+1437	HN	Honduras	CH	Choluteca	true
+1438	HN	Honduras	CL	Colon	true
+1439	HN	Honduras	CM	Comayagua	true
+1440	HN	Honduras	CP	Copan	true
+1441	HN	Honduras	CR	Cortes	true
+1442	HN	Honduras	EP	El Paraiso	true
+1443	HN	Honduras	FM	Francisco Morazan	true
+1444	HN	Honduras	GD	Gracias A Dios	true
+1445	HN	Honduras	IN	Intibuca	true
+1446	HN	Honduras	IB	Islas De La Bahia	true
+1447	HN	Honduras	LP	La Paz	true
+1448	HN	Honduras	LE	Lempira	true
+1449	HN	Honduras	OL	Olancho	true
+1450	HN	Honduras	SB	Santa Barbara	true
+1451	HN	Honduras	VA	Valle	true
+1452	HN	Honduras	YO	Yoro	true
+1453	HN	Honduras	OC	Ocotepeque	true
+1454	HR	Croatia	07	Bjelovarsko-Bilogorska	true
+1455	HR	Croatia	12	Brodsko-Posavska	true
+1456	HR	Croatia	19	Dubrovacko-Neretvanska	true
+1457	HR	Croatia	18	Istarska	true
+1458	HR	Croatia	04	Karlovacka	true
+1459	HR	Croatia	06	Koprivnicko-Krizevacka	true
+1460	HR	Croatia	02	Krapinsko-Zagorska	true
+1461	HR	Croatia	09	Licko-Senjska	true
+1462	HR	Croatia	20	Medimurska	true
+1463	HR	Croatia	14	Osjecko-Baranjska	true
+1464	HR	Croatia	11	Pozesko-Slavonska	true
+1465	HR	Croatia	08	Primorsko-Goranska	true
+1466	HR	Croatia	15	Sibensko-Kninska	true
+1467	HR	Croatia	03	Sisacko-Moslavacka	true
+1468	HR	Croatia	17	Splitsko-Dalmatinska	true
+1469	HR	Croatia	05	Varazdinska	true
+1470	HR	Croatia	10	Viroviticko-Podravska	true
+1471	HR	Croatia	16	Vukovarsko-Srijemska	true
+1472	HR	Croatia	13	Zadarska	true
+1473	HR	Croatia	01	Zagrebacka	true
+1474	HR	Croatia	21	Grad Zagreb	true
+1475	HT	Haiti	AR	Artibonite	true
+1476	HT	Haiti	CE	Centre	true
+1477	HT	Haiti	ND	Nord	true
+1478	HT	Haiti	OU	Ouest	true
+1479	HT	Haiti	SD	Sud	true
+1480	HT	Haiti	SE	Sud-Est	true
+1481	HT	Haiti	GA	Grande-Anse	true
+1482	HT	Haiti	NE	Nord-Est	true
+1483	HT	Haiti	NI	Nippes	true
+1484	HT	Haiti	NO	Nord-Ouest	true
+1485	HU	Hungary	BK	Bacs-Kiskun	true
+1486	HU	Hungary	BA	Baranya	true
+1487	HU	Hungary	BE	Bekes	true
+1488	HU	Hungary	BZ	Borsod-Abauj-Zemplen	true
+1489	HU	Hungary	BU	Budapest	true
+1490	HU	Hungary	CS	Csongrad	true
+1491	HU	Hungary	DE	Debrecen	true
+1492	HU	Hungary	FE	Fejer	true
+1493	HU	Hungary	GS	Gyor-Moson-Sopron	true
+1494	HU	Hungary	HB	Hajdu-Bihar	true
+1495	HU	Hungary	HE	Heves	true
+1496	HU	Hungary	KE	Komarom-Esztergom	true
+1497	HU	Hungary	MI	Miskolc	true
+1498	HU	Hungary	NO	Nograd	true
+1499	HU	Hungary	PS	Pecs	true
+1500	HU	Hungary	PE	Pest	true
+1501	HU	Hungary	SO	Somogy	true
+1502	HU	Hungary	SZ	Szabolcs-Szatmar-Bereg	true
+1503	HU	Hungary	SD	Szeged	true
+1504	HU	Hungary	JN	Jasz-Nagykun-Szolnok	true
+1505	HU	Hungary	TO	Tolna	true
+1506	HU	Hungary	VA	Vas	true
+1507	HU	Hungary	VE	Veszprem	true
+1508	HU	Hungary	ZA	Zala	true
+1509	HU	Hungary	GY	Gyor	true
+1510	HU	Hungary	BC	Bekescsaba	true
+1511	HU	Hungary	DU	Dunaujvaros	true
+1512	HU	Hungary	EG	Eger	true
+1513	HU	Hungary	HV	Hodmezovasarhely	true
+1514	HU	Hungary	KV	Kaposvar	true
+1515	HU	Hungary	KM	Kecskemet	true
+1516	HU	Hungary	NK	Nagykanizsa	true
+1517	HU	Hungary	NY	Nyiregyhaza	true
+1518	HU	Hungary	SN	Sopron	true
+1519	HU	Hungary	SF	Szekesfehervar	true
+1520	HU	Hungary	SK	Szolnok	true
+1521	HU	Hungary	SH	Szombathely	true
+1522	HU	Hungary	TB	Tatabanya	true
+1523	HU	Hungary	VM	Veszprem	true
+1524	HU	Hungary	ZE	Zalaegerszeg	true
+1525	HU	Hungary	ST	Salgotarjan	true
+1526	HU	Hungary	SS	Szekszard	true
+1527	HU	Hungary	ER	Erd	true
+1528	ID	Indonesia	AC	Aceh	true
+1529	ID	Indonesia	BA	Bali	true
+1530	ID	Indonesia	BE	Bengkulu	true
+1531	ID	Indonesia	JK	Jakarta Raya	true
+1532	ID	Indonesia	JA	Jambi	true
+1533	ID	Indonesia	JT	Jawa Tengah	true
+1534	ID	Indonesia	JI	Jawa Timur	true
+1535	ID	Indonesia	YO	Yogyakarta	true
+1536	ID	Indonesia	KB	Kalimantan Barat	true
+1537	ID	Indonesia	KS	Kalimantan Selatan	true
+1538	ID	Indonesia	KT	Kalimantan Tengah	true
+1539	ID	Indonesia	KI	Kalimantan Timur	true
+1540	ID	Indonesia	LA	Lampung	true
+1541	ID	Indonesia	NB	Nusa Tenggara Barat	true
+1542	ID	Indonesia	NT	Nusa Tenggara Timur	true
+1543	ID	Indonesia	ST	Sulawesi Tengah	true
+1544	ID	Indonesia	SG	Sulawesi Tenggara	true
+1545	ID	Indonesia	SB	Sumatera Barat	true
+1546	ID	Indonesia	SU	Sumatera Utara	true
+1547	ID	Indonesia	MA	Maluku	true
+1548	ID	Indonesia	MU	Maluku Utara	true
+1549	ID	Indonesia	JB	Jawa Barat	true
+1550	ID	Indonesia	SA	Sulawesi Utara	true
+1551	ID	Indonesia	SS	Sumatera Selatan	true
+1552	ID	Indonesia	BT	Banten	true
+1553	ID	Indonesia	GO	Gorontalo	true
+1554	ID	Indonesia	PA	Papua	true
+1555	ID	Indonesia	RI	Riau	true
+1556	ID	Indonesia	SN	Sulawesi Selatan	true
+1557	ID	Indonesia	KR	Kepulauan Riau	true
+1558	ID	Indonesia	SR	Sulawesi Barat	true
+1559	ID	Indonesia	BB	Kepulauan Bangka Belitung	true
+1560	ID	Indonesia	KU	Kalimantan Utara	true
+1561	ID	Indonesia	PB	Papua Barat	true
+1562	IE	Ireland	CW	Carlow	true
+1563	IE	Ireland	CN	Cavan	true
+1564	IE	Ireland	CE	Clare	true
+1565	IE	Ireland	CO	Cork	true
+1566	IE	Ireland	DL	Donegal	true
+1567	IE	Ireland	D	Dublin	true
+1568	IE	Ireland	G	Galway	true
+1569	IE	Ireland	KY	Kerry	true
+1570	IE	Ireland	KE	Kildare	true
+1571	IE	Ireland	KK	Kilkenny	true
+1572	IE	Ireland	LM	Leitrim	true
+1573	IE	Ireland	LS	Laois	true
+1574	IE	Ireland	LK	Limerick	true
+1575	IE	Ireland	LD	Longford	true
+1576	IE	Ireland	LH	Louth	true
+1577	IE	Ireland	MO	Mayo	true
+1578	IE	Ireland	MH	Meath	true
+1579	IE	Ireland	MN	Monaghan	true
+1580	IE	Ireland	OY	Offaly	true
+1581	IE	Ireland	RN	Roscommon	true
+1582	IE	Ireland	SO	Sligo	true
+1583	IE	Ireland	TA	Tipperary	true
+1584	IE	Ireland	WD	Waterford	true
+1585	IE	Ireland	WH	Westmeath	true
+1586	IE	Ireland	WX	Wexford	true
+1587	IE	Ireland	WW	Wicklow	true
+1588	IL	Israel	D	Hadarom	true
+1589	IL	Israel	M	Hamerkaz	true
+1590	IL	Israel	Z	Hazafon	true
+1591	IL	Israel	HA	Hefa	true
+1592	IL	Israel	TA	Tel Aviv	true
+1593	IL	Israel	JM	Yerushalayim	true
+1594	IM	Isle of Man	XXX	Undefined	true
+1595	IN	India	AN	Andaman And Nicobar Islands	true
+1596	IN	India	AP	Andhra Pradesh	true
+1597	IN	India	AS	Assam	true
+1598	IN	India	CH	Chandigarh	true
+1599	IN	India	DN	Dadra And Nagar Haveli	true
+1600	IN	India	DL	Delhi	true
+1601	IN	India	GJ	Gujarat	true
+1602	IN	India	HR	Haryana	true
+1603	IN	India	HP	Himachal Pradesh	true
+1604	IN	India	JK	Jammu And Kashmir	true
+1605	IN	India	KL	Kerala	true
+1606	IN	India	LD	Lakshadweep	true
+1607	IN	India	MH	Maharashtra	true
+1608	IN	India	MN	Manipur	true
+1609	IN	India	ML	Meghalaya	true
+1610	IN	India	KA	Karnataka	true
+1611	IN	India	NL	Nagaland	true
+1612	IN	India	OR	Orissa	true
+1613	IN	India	PY	Puducherry	true
+1614	IN	India	PB	Punjab	true
+1615	IN	India	RJ	Rajasthan	true
+1616	IN	India	TN	Tamil Nadu	true
+1617	IN	India	TR	Tripura	true
+1618	IN	India	WB	West Bengal	true
+1619	IN	India	SK	Sikkim	true
+1620	IN	India	AR	Arunachal Pradesh	true
+1621	IN	India	MZ	Mizoram	true
+1622	IN	India	DD	Daman And Diu	true
+1623	IN	India	GA	Goa	true
+1624	IN	India	BR	Bihar	true
+1625	IN	India	MP	Madhya Pradesh	true
+1626	IN	India	UP	Uttar Pradesh	true
+1627	IN	India	CT	Chhattisgarh	true
+1628	IN	India	JH	Jharkhand	true
+1629	IN	India	UT	Uttarakhand	true
+1630	IN	India	TG	Telangana	true
+1631	IO	British Indian Ocean Territory	XXX	Undefined	true
+1632	IQ	Iraq	AN	Al Anbar	true
+1633	IQ	Iraq	BA	Al Basrah	true
+1634	IQ	Iraq	MU	Al Muthanna	true
+1635	IQ	Iraq	QA	Al Qadisiyah	true
+1636	IQ	Iraq	SU	As Sulaymaniyah	true
+1637	IQ	Iraq	BB	Babil	true
+1638	IQ	Iraq	BG	Baghdad	true
+1639	IQ	Iraq	DA	Dahuk	true
+1640	IQ	Iraq	DQ	Dhi Qar	true
+1641	IQ	Iraq	DI	Al Diyala	true
+1642	IQ	Iraq	AR	Arbil	true
+1643	IQ	Iraq	KA	Karbala'	true
+1644	IQ	Iraq	TS	At Ta'mim	true
+1645	IQ	Iraq	MA	Maysan	true
+1646	IQ	Iraq	NI	Ninawa	true
+1647	IQ	Iraq	WA	Wasit	true
+1648	IQ	Iraq	NA	An Najaf	true
+1649	IQ	Iraq	SD	Salah Ad Din	true
+1650	IR	"Iran	 Islamic Republic of"	02	Azarbayjan-E Bakhtari	true
+1651	IR	"Iran	 Islamic Republic of"	08	Chahar Mahall Va Bakhtiari	true
+1652	IR	"Iran	 Islamic Republic of"	13	Sistan Va Baluchestan	true
+1653	IR	"Iran	 Islamic Republic of"	18	Kohkiluyeh Va Buyer Ahmadi	true
+1654	IR	"Iran	 Islamic Republic of"	14	Fars	true
+1655	IR	"Iran	 Islamic Republic of"	19	Gilan	true
+1656	IR	"Iran	 Islamic Republic of"	24	Hamadan	true
+1657	IR	"Iran	 Islamic Republic of"	05	Ilam	true
+1658	IR	"Iran	 Islamic Republic of"	23	Hormozgan	true
+1659	IR	"Iran	 Islamic Republic of"	17	Kermanshah	true
+1660	IR	"Iran	 Islamic Republic of"	10	Khuzestan	true
+1661	IR	"Iran	 Islamic Republic of"	16	Kordestan	true
+1662	IR	"Iran	 Islamic Republic of"	06	Bushehr	true
+1663	IR	"Iran	 Islamic Republic of"	20	Lorestan	true
+1664	IR	"Iran	 Islamic Republic of"	12	Semnan	true
+1665	IR	"Iran	 Islamic Republic of"	07	Tehran	true
+1666	IR	"Iran	 Islamic Republic of"	04	Esfahan	true
+1667	IR	"Iran	 Islamic Republic of"	15	Kerman	true
+1668	IR	"Iran	 Islamic Republic of"	09	Khorasan	false
+1669	IR	"Iran	 Islamic Republic of"	03	Ardabil	true
+1670	IR	"Iran	 Islamic Republic of"	01	East Azarbaijan	true
+1671	IR	"Iran	 Islamic Republic of"	22	Markazi	true
+1672	IR	"Iran	 Islamic Republic of"	21	Mazandaran	true
+1673	IR	"Iran	 Islamic Republic of"	11	Zanjan	true
+1674	IR	"Iran	 Islamic Republic of"	27	Golestan	true
+1675	IR	"Iran	 Islamic Republic of"	26	Qom	true
+1676	IR	"Iran	 Islamic Republic of"	25	Yazd	true
+1677	IR	"Iran	 Islamic Republic of"	29	Khorasan-E Janubi	true
+1678	IR	"Iran	 Islamic Republic of"	30	Khorasan-E Razavi	true
+1679	IR	"Iran	 Islamic Republic of"	31	Khorasan-E Shemali	true
+1680	IR	"Iran	 Islamic Republic of"	32	Alborz	true
+1681	IR	"Iran	 Islamic Republic of"	28	Qazvin	true
+1682	IS	Iceland	07	Austurland	true
+1683	IS	Iceland	01	Hofudborgarsvaedi	true
+1684	IS	Iceland	06	Norourland Eystra	true
+1685	IS	Iceland	05	Norourland Vestra	true
+1686	IS	Iceland	08	Suourland	true
+1687	IS	Iceland	02	Suournes	true
+1688	IS	Iceland	03	Vesturland	true
+1689	IS	Iceland	04	Vestfirdir	true
+1690	IS	Iceland	00	Reykjavik	false
+1691	IT	Italy	AO	Valle D'aosta	true
+1692	IT	Italy	CH	Chieti	true
+1693	IT	Italy	PE	Pescara	true
+1694	IT	Italy	AQ	L'aquila	true
+1695	IT	Italy	TE	Teramo	true
+1696	IT	Italy	MT	Matera	true
+1697	IT	Italy	PZ	Potenza	true
+1698	IT	Italy	CS	Cosenza	true
+1699	IT	Italy	CZ	Catanzaro	true
+1700	IT	Italy	KR	Crotone	true
+1701	IT	Italy	VV	Viba Valentia	true
+1702	IT	Italy	RC	Reggio Calabria	true
+1703	IT	Italy	SA	Salerno	true
+1704	IT	Italy	BN	Benevento	true
+1705	IT	Italy	NA	Napoli	true
+1706	IT	Italy	CE	Caserta	true
+1707	IT	Italy	AV	Avellino	true
+1708	IT	Italy	PR	Parma	true
+1709	IT	Italy	FC	Forli-Cesena	true
+1710	IT	Italy	RE	Reggio Emilia	true
+1711	IT	Italy	BO	Bologna	true
+1712	IT	Italy	RA	Ravenna	true
+1713	IT	Italy	FE	Ferrara	true
+1714	IT	Italy	PC	Piacenza	true
+1715	IT	Italy	RN	Rimini	true
+1716	IT	Italy	MO	Modena	true
+1717	IT	Italy	GO	Gorizia	true
+1718	IT	Italy	UD	Udine	true
+1719	IT	Italy	TS	Trieste	true
+1720	IT	Italy	PN	Pordenone	true
+1721	IT	Italy	VT	Viterbo	true
+1722	IT	Italy	RM	Roma	true
+1723	IT	Italy	FR	Frosinone	true
+1724	IT	Italy	RI	Rieti	true
+1725	IT	Italy	LT	Latina	true
+1726	IT	Italy	SV	Savona	true
+1727	IT	Italy	IM	Imperia	true
+1728	IT	Italy	SP	La Spezia	true
+1729	IT	Italy	GE	Genova	true
+1730	IT	Italy	MN	Mantova	true
+1731	IT	Italy	VA	Varese	true
+1732	IT	Italy	CR	Cremona	true
+1733	IT	Italy	PV	Pavia	true
+1734	IT	Italy	SO	Sondrio	true
+1735	IT	Italy	MB	Monza And Brianza	true
+1736	IT	Italy	BS	Brescia	true
+1737	IT	Italy	CO	Como	true
+1738	IT	Italy	BG	Bergamo	true
+1739	IT	Italy	LC	Lecco	true
+1740	IT	Italy	LO	Lodi	true
+1741	IT	Italy	MI	Milano	true
+1742	IT	Italy	PU	Pesaro And Urbino	true
+1743	IT	Italy	AP	Ascoli Piceno	true
+1744	IT	Italy	MC	Macerata	true
+1745	IT	Italy	AN	Ancona	true
+1746	IT	Italy	FM	Fermo	true
+1747	IT	Italy	CB	Campobasso	true
+1748	IT	Italy	IS	Isernia	true
+1749	IT	Italy	AL	Alessandria	true
+1750	IT	Italy	VB	Verbano-Cusio-Ossola	true
+1751	IT	Italy	AT	Asti	true
+1752	IT	Italy	TO	Torino	true
+1753	IT	Italy	BI	Biella	true
+1754	IT	Italy	CN	Cuneo	true
+1755	IT	Italy	NO	Novara	true
+1756	IT	Italy	VC	Vercelli	true
+1757	IT	Italy	LE	Lecce	true
+1758	IT	Italy	BA	Bari	true
+1759	IT	Italy	FG	Foggia	true
+1760	IT	Italy	BT	Barletta-Andria-Trani	true
+1761	IT	Italy	TA	Taranto	true
+1762	IT	Italy	BR	Brindisi	true
+1763	IT	Italy	CA	Cagliari	true
+1764	IT	Italy	OR	Oristano	true
+1765	IT	Italy	OT	Olbia-Tempio	true
+1766	IT	Italy	OG	Ogliastra	true
+1767	IT	Italy	SS	Sassari	true
+1768	IT	Italy	NU	Nuoro	true
+1769	IT	Italy	CI	Carbonia-Iglesias	true
+1770	IT	Italy	VS	Medio Campidano	true
+1771	IT	Italy	CL	Caltanissetta	true
+1772	IT	Italy	SR	Siracusa	true
+1773	IT	Italy	TP	Trapani	true
+1774	IT	Italy	ME	Messina	true
+1775	IT	Italy	EN	Enna	true
+1776	IT	Italy	CT	Catania	true
+1777	IT	Italy	RG	Ragusa	true
+1778	IT	Italy	AG	Agrigento	true
+1779	IT	Italy	PA	Palermo	true
+1780	IT	Italy	GR	Grosseto	true
+1781	IT	Italy	LI	Livorno	true
+1782	IT	Italy	PT	Pistoia	true
+1783	IT	Italy	PO	Prato	true
+1784	IT	Italy	FI	Firenze	true
+1785	IT	Italy	PI	Pisa	true
+1786	IT	Italy	SI	Siena	true
+1787	IT	Italy	LU	Lucca	true
+1788	IT	Italy	MS	Massa	true
+1789	IT	Italy	AR	Arezzo	true
+1790	IT	Italy	TN	Trento	true
+1791	IT	Italy	BZ	Bolzano	true
+1792	IT	Italy	TR	Terni	true
+1793	IT	Italy	PG	Perugia	true
+1794	IT	Italy	VI	Vicenza	true
+1795	IT	Italy	VR	Verona	true
+1796	IT	Italy	BL	Belluno	true
+1797	IT	Italy	TV	Treviso	true
+1798	IT	Italy	VE	Venezia	true
+1799	IT	Italy	RO	Rovigo	true
+1800	IT	Italy	PD	Padova	true
+1801	JE	Jersey	XXX	Undefined	true
+1802	JM	Jamaica	13	Clarendon	true
+1803	JM	Jamaica	09	Hanover	true
+1804	JM	Jamaica	12	Manchester	true
+1805	JM	Jamaica	02	Saint Andrew	true
+1806	JM	Jamaica	06	Saint Ann	true
+1807	JM	Jamaica	14	Saint Catherine	true
+1808	JM	Jamaica	11	Saint Elizabeth	true
+1809	JM	Jamaica	08	Saint James	true
+1810	JM	Jamaica	05	Saint Mary	true
+1811	JM	Jamaica	03	Saint Thomas	true
+1812	JM	Jamaica	07	Trelawny	true
+1813	JM	Jamaica	10	Westmoreland	true
+1814	JM	Jamaica	01	Kingston	true
+1815	JM	Jamaica	04	Portland	true
+1816	JO	Jordan	BA	Al Balqa'	true
+1817	JO	Jordan	KA	Al Karak	true
+1818	JO	Jordan	MA	Al Mafraq	true
+1819	JO	Jordan	AT	At Tafilah	true
+1820	JO	Jordan	AZ	Az Zarqa	true
+1821	JO	Jordan	IR	Irbid	true
+1822	JO	Jordan	AM	Amman	true
+1823	JO	Jordan	MN	Maan	true
+1824	JO	Jordan	AJ	Ajlun	true
+1825	JO	Jordan	AQ	Al Aqabah	true
+1826	JO	Jordan	JA	Jarash	true
+1827	JO	Jordan	MD	Madaba	true
+1828	JP	Japan	23	Aichi	true
+1829	JP	Japan	05	Akita	true
+1830	JP	Japan	02	Aomori	true
+1831	JP	Japan	12	Chiba	true
+1832	JP	Japan	38	Ehime	true
+1833	JP	Japan	18	Fukui	true
+1834	JP	Japan	40	Fukuoka	true
+1835	JP	Japan	07	Fukushima	true
+1836	JP	Japan	21	Gifu	true
+1837	JP	Japan	10	Gumma	true
+1838	JP	Japan	34	Hiroshima	true
+1839	JP	Japan	01	Hokkaido	true
+1840	JP	Japan	28	Hyogo	true
+1841	JP	Japan	08	Ibaraki	true
+1842	JP	Japan	17	Ishikawa	true
+1843	JP	Japan	03	Iwate	true
+1844	JP	Japan	37	Kagawa	true
+1845	JP	Japan	46	Kagoshima	true
+1846	JP	Japan	14	Kanagawa	true
+1847	JP	Japan	39	Kochi	true
+1848	JP	Japan	43	Kumamoto	true
+1849	JP	Japan	26	Kyoto	true
+1850	JP	Japan	24	Mie	true
+1851	JP	Japan	04	Miyagi	true
+1852	JP	Japan	45	Miyazaki	true
+1853	JP	Japan	20	Nagano	true
+1854	JP	Japan	42	Nagasaki	true
+1855	JP	Japan	29	Nara	true
+1856	JP	Japan	15	Niigata	true
+1857	JP	Japan	44	Oita	true
+1858	JP	Japan	33	Okayama	true
+1859	JP	Japan	27	Osaka	true
+1860	JP	Japan	41	Saga	true
+1861	JP	Japan	11	Saitama	true
+1862	JP	Japan	25	Shiga	true
+1863	JP	Japan	32	Shimane	true
+1864	JP	Japan	22	Shizuoka	true
+1865	JP	Japan	09	Tochigi	true
+1866	JP	Japan	36	Tokushima	true
+1867	JP	Japan	13	Tokyo	true
+1868	JP	Japan	31	Tottori	true
+1869	JP	Japan	16	Toyama	true
+1870	JP	Japan	30	Wakayama	true
+1871	JP	Japan	06	Yamagata	true
+1872	JP	Japan	35	Yamaguchi	true
+1873	JP	Japan	19	Yamanashi	true
+1874	JP	Japan	47	Okinawa	true
+1875	KE	Kenya	200	Central	true
+1876	KE	Kenya	300	Coast	true
+1877	KE	Kenya	400	Eastern	true
+1878	KE	Kenya	110	Nairobi Area	true
+1879	KE	Kenya	500	North-Eastern	true
+1880	KE	Kenya	600	Nyanza	true
+1881	KE	Kenya	700	Rift Valley	true
+1882	KE	Kenya	800	Western	true
+1883	KE	Kenya	08	Homa Bay	false
+1884	KE	Kenya	13	Kiambu	false
+1885	KE	Kenya	14	Kilifi	false
+1886	KE	Kenya	17	Kisumu	false
+1887	KE	Kenya	28	Mombasa	false
+1888	KE	Kenya	20	Laikipia	false
+1889	KE	Kenya	27	Migori	false
+1890	KE	Kenya	31	Nakuru	false
+1891	KE	Kenya	44	Uasin Gishu	false
+1892	KG	Kyrgyzstan	GB	Bishkek	true
+1893	KG	Kyrgyzstan	C	Chuy	true
+1894	KG	Kyrgyzstan	J	Jalal-Abad	true
+1895	KG	Kyrgyzstan	N	Naryn	true
+1896	KG	Kyrgyzstan	T	Talas	true
+1897	KG	Kyrgyzstan	Y	Ysyk-Kol	true
+1898	KG	Kyrgyzstan	OS	Osh	true
+1899	KG	Kyrgyzstan	B	Batken	true
+1900	KH	Cambodia	4	Kampong Chhnang	true
+1901	KH	Cambodia	5	Kampong Speu	true
+1902	KH	Cambodia	6	Kampong Thum	true
+1903	KH	Cambodia	7	Kampot	true
+1904	KH	Cambodia	8	Kandal	true
+1905	KH	Cambodia	9	Koh Kong	true
+1906	KH	Cambodia	10	Kracheh	true
+1907	KH	Cambodia	11	Mondulkiri	true
+1908	KH	Cambodia	12	Phnum Penh	true
+1909	KH	Cambodia	13	Preah Vihear	true
+1910	KH	Cambodia	14	Prey Veng	true
+1911	KH	Cambodia	19	Stung Treng	true
+1912	KH	Cambodia	20	Svay Rieng	true
+1913	KH	Cambodia	21	Takeo	true
+1914	KH	Cambodia	16	Rotanak Kiri	true
+1915	KH	Cambodia	23	Krong Kaeb	true
+1916	KH	Cambodia	22	Otdar Mean Chey	true
+1917	KH	Cambodia	2	Batdambang	true
+1918	KH	Cambodia	24	Krong Pailin	true
+1919	KH	Cambodia	15	Pousaat	true
+1920	KH	Cambodia	3	Kampong Chaam	true
+1921	KH	Cambodia	25	Tbong Khmum	true
+1922	KH	Cambodia	17	Siem Reab	true
+1923	KH	Cambodia	18	Krong Preah Sihanouk	true
+1924	KI	Kiribati	G	Gilbert Islands	true
+1925	KI	Kiribati	L	Line Islands	true
+1926	KI	Kiribati	P	Phoenix Islands	true
+1927	KM	Comoros	A	Anjouan	true
+1928	KM	Comoros	G	Grande Comore	true
+1929	KN	Saint Kitts and Nevis	K	Saint Kitts	true
+1930	KN	Saint Kitts and Nevis	N	Nevis	true
+1931	KP	"Korea	 Democratic People's Republic of"	04	Chagang-Do	true
+1932	KP	"Korea	 Democratic People's Republic of"	08	Hamgyong-Namdo	true
+1933	KP	"Korea	 Democratic People's Republic of"	05	Hwanghae-Namdo	true
+1934	KP	"Korea	 Democratic People's Republic of"	06	Hwanghae-Bukto	true
+1935	KP	"Korea	 Democratic People's Republic of"	07	Kangwon-Do	true
+1936	KP	"Korea	 Democratic People's Republic of"	03	P'yongan-Bukto	true
+1937	KP	"Korea	 Democratic People's Republic of"	01	P'yongyang-Si	true
+1938	KP	"Korea	 Democratic People's Republic of"	10	Yanggang-Do	true
+1939	KP	"Korea	 Democratic People's Republic of"	02	P'yongan-Namdo	true
+1940	KP	"Korea	 Democratic People's Republic of"	09	Hamgyong-Bukto	true
+1941	KP	"Korea	 Democratic People's Republic of"	13	Najin Sonbong-Si	true
+1942	KR	"Korea	 Republic of"	49	Cheju-Do	true
+1943	KR	"Korea	 Republic of"	45	Cholla-Bukto	true
+1944	KR	"Korea	 Republic of"	43	Ch'ungch'ong-Bukto	true
+1945	KR	"Korea	 Republic of"	42	Kangwon-Do	true
+1946	KR	"Korea	 Republic of"	26	Pusan-Jikhalsi	true
+1947	KR	"Korea	 Republic of"	11	Seoul-T'ukpyolsi	true
+1948	KR	"Korea	 Republic of"	28	Inch'on-Jikhalsi	true
+1949	KR	"Korea	 Republic of"	41	Kyonggi-Do	true
+1950	KR	"Korea	 Republic of"	47	Kyongsang-Bukto	true
+1951	KR	"Korea	 Republic of"	27	Taegu-Jikhalsi	true
+1952	KR	"Korea	 Republic of"	46	Cholla-Namdo	true
+1953	KR	"Korea	 Republic of"	44	Ch'ungch'ong-Namdo	true
+1954	KR	"Korea	 Republic of"	29	Kwangju-Jikhalsi	true
+1955	KR	"Korea	 Republic of"	30	Taejon-Jikhalsi	true
+1956	KR	"Korea	 Republic of"	48	Kyongsang-Namdo	true
+1957	KR	"Korea	 Republic of"	31	Ulsan-Gwangyoksi	true
+1958	KW	Kuwait	AH	Al Ahmadi	true
+1959	KW	Kuwait	KU	Al Kuwayt	true
+1960	KW	Kuwait	JA	Al Jahra	true
+1961	KW	Kuwait	FA	Al Farwaniyah	true
+1962	KW	Kuwait	HA	Hawalli	true
+1963	KW	Kuwait	MU	Mubarak Al Kabir	true
+1964	KY	Cayman Islands	XXX	Undefined	true
+1965	KZ	Kazakhstan	ALM	Almaty Oblysy	true
+1966	KZ	Kazakhstan	AKM	Aqmola	true
+1967	KZ	Kazakhstan	AKT	Aqtobe	true
+1968	KZ	Kazakhstan	AST	Astana	true
+1969	KZ	Kazakhstan	ATY	Atyrau	true
+1970	KZ	Kazakhstan	ZAP	West Kazakhstan	true
+1971	KZ	Kazakhstan	MAN	Mangghystau	true
+1972	KZ	Kazakhstan	YUZ	South Kazakhstan	true
+1973	KZ	Kazakhstan	PAV	Pavlodar	true
+1974	KZ	Kazakhstan	KAR	Qaraghandy	true
+1975	KZ	Kazakhstan	KUS	Qostanay	true
+1976	KZ	Kazakhstan	KZY	Qyzylorda	true
+1977	KZ	Kazakhstan	VOS	East Kazakhstan	true
+1978	KZ	Kazakhstan	SEV	North Kazakhstan	true
+1979	KZ	Kazakhstan	ZHA	Zhambyl	true
+1980	KZ	Kazakhstan	ALA	Almaty	true
+1981	LA	Lao People's Democratic Republic	AT	Attapu	true
+1982	LA	Lao People's Democratic Republic	CH	Champasak	true
+1983	LA	Lao People's Democratic Republic	HO	Houaphan	true
+1984	LA	Lao People's Democratic Republic	KH	Khammouan	true
+1985	LA	Lao People's Democratic Republic	LM	Louang Namtha	true
+1986	LA	Lao People's Democratic Republic	OU	Oudomxai	true
+1987	LA	Lao People's Democratic Republic	PH	Phongsali	true
+1988	LA	Lao People's Democratic Republic	SV	Savannakhet	true
+1989	LA	Lao People's Democratic Republic	VT	Vientiane	true
+1990	LA	Lao People's Democratic Republic	XA	Xaignabouri	true
+1991	LA	Lao People's Democratic Republic	XI	Xiangkhoang	true
+1992	LA	Lao People's Democratic Republic	LP	Louangphrabang	true
+1993	LA	Lao People's Democratic Republic	SL	Salavan	true
+1994	LA	Lao People's Democratic Republic	BK	Bokeo	true
+1995	LA	Lao People's Democratic Republic	BL	Bolikhamxai	true
+1996	LA	Lao People's Democratic Republic	XN	Xaisomboun	true
+1997	LA	Lao People's Democratic Republic	XE	Xekong	true
+1998	LA	Lao People's Democratic Republic	VI	Vientiane Province	true
+1999	LB	Lebanon	BA	Beyrouth	true
+2000	LB	Lebanon	JL	Mont-Liban	true
+2001	LB	Lebanon	JA	Liban-Sud	true
+2002	LB	Lebanon	NA	Nabatiye	true
+2003	LB	Lebanon	BI	Beqaa	true
+2004	LB	Lebanon	AS	Liban-Nord	true
+2005	LB	Lebanon	AK	Aakk	true
+2006	LB	Lebanon	BH	Baalbek-Hermel	true
+2007	LC	Saint Lucia	01	Anse-La-Raye	true
+2008	LC	Saint Lucia	04	Dauphin	false
+2009	LC	Saint Lucia	02	Castries	true
+2010	LC	Saint Lucia	03	Choiseul	true
+2011	LC	Saint Lucia	05	Dennery	true
+2012	LC	Saint Lucia	06	Gros-Islet	true
+2013	LC	Saint Lucia	07	Laborie	true
+2014	LC	Saint Lucia	08	Micoud	true
+2015	LC	Saint Lucia	10	Soufriere	true
+2016	LC	Saint Lucia	11	Vieux-Fort	true
+2017	LC	Saint Lucia	09	Praslin	false
+2018	LI	Liechtenstein	01	Balzers	true
+2019	LI	Liechtenstein	02	Eschen	true
+2020	LI	Liechtenstein	03	Gamprin	true
+2021	LI	Liechtenstein	04	Mauren	true
+2022	LI	Liechtenstein	05	Planken	true
+2023	LI	Liechtenstein	06	Ruggell	true
+2024	LI	Liechtenstein	07	Schaan	true
+2025	LI	Liechtenstein	08	Schellenberg	true
+2026	LI	Liechtenstein	09	Triesen	true
+2027	LI	Liechtenstein	10	Triesenberg	true
+2028	LI	Liechtenstein	11	Vaduz	true
+2029	LK	Sri Lanka	2	Central	true
+2030	LK	Sri Lanka	7	North Central	true
+2031	LK	Sri Lanka	4	Northern	true
+2032	LK	Sri Lanka	6	North Western	true
+2033	LK	Sri Lanka	9	Sabaragamuwa	true
+2034	LK	Sri Lanka	3	Southern	true
+2035	LK	Sri Lanka	8	Uva	true
+2036	LK	Sri Lanka	1	Western	true
+2037	LK	Sri Lanka	5	Eastern Province	true
+2038	LR	Liberia	BG	Bong	true
+2039	LR	Liberia	MY	Maryland	true
+2040	LR	Liberia	NI	Nimba	true
+2041	LR	Liberia	SI	Sino	true
+2042	LR	Liberia	GB	Grand Bassa	true
+2043	LR	Liberia	CM	Grand Cape Mount	true
+2044	LR	Liberia	MO	Montserrado	true
+2045	LR	Liberia	BM	Bomi	true
+2046	LR	Liberia	GK	Grand Kru	true
+2047	LR	Liberia	MG	Margibi	true
+2048	LR	Liberia	RI	River Cess	true
+2049	LR	Liberia	GG	Grand Gedeh	true
+2050	LR	Liberia	LO	Lofa	true
+2051	LR	Liberia	GP	Gbarpolu	true
+2052	LR	Liberia	RG	River Gee	true
+2053	LS	Lesotho	D	Berea	true
+2054	LS	Lesotho	B	Butha-Buthe	true
+2055	LS	Lesotho	C	Leribe	true
+2056	LS	Lesotho	E	Mafeteng	true
+2057	LS	Lesotho	A	Maseru	true
+2058	LS	Lesotho	F	Mohales Hoek	true
+2059	LS	Lesotho	J	Mokhotlong	true
+2060	LS	Lesotho	H	Qachas Nek	true
+2061	LS	Lesotho	G	Quthing	true
+2062	LS	Lesotho	K	Thaba-Tseka	true
+2063	LT	Lithuania	AL	Alytaus Apskritis	true
+2064	LT	Lithuania	KU	Kauno Apskritis	true
+2065	LT	Lithuania	KL	Klaipedos Apskritis	true
+2066	LT	Lithuania	MR	Marijampoles Apskritis	true
+2067	LT	Lithuania	PN	Panevezio Apskritis	true
+2068	LT	Lithuania	SA	Siauliu Apskritis	true
+2069	LT	Lithuania	TA	Taurages Apskritis	true
+2070	LT	Lithuania	TE	Telsiu Apskritis	true
+2071	LT	Lithuania	UT	Utenos Apskritis	true
+2072	LT	Lithuania	VL	Vilniaus Apskritis	true
+2073	LU	Luxembourg	D	Diekirch	true
+2074	LU	Luxembourg	G	Grevenmacher	true
+2075	LU	Luxembourg	L	Luxembourg	true
+2076	LU	Luxembourg	CA	Capellen	false
+2077	LU	Luxembourg	CL	Clerf	false
+2078	LU	Luxembourg	DI	Diekirch	false
+2079	LU	Luxembourg	EC	Echternach	false
+2080	LU	Luxembourg	ES	Esch An Der Alzette	false
+2081	LU	Luxembourg	GR	Grevenmacher	false
+2082	LU	Luxembourg	LU	Luxemburg	false
+2083	LU	Luxembourg	ME	Mersch	false
+2084	LU	Luxembourg	RD	Redingen	false
+2085	LU	Luxembourg	RM	Remich	false
+2086	LU	Luxembourg	VD	Vianden	false
+2087	LU	Luxembourg	WI	Wiltz	false
+2088	LV	Latvia	XXX	Undefined	true
+2089	LV	Latvia	002	Aizkraukles	true
+2090	LV	Latvia	007	Aluksnes	true
+2091	LV	Latvia	015	Balvu	true
+2092	LV	Latvia	016	Bauskas	true
+2093	LV	Latvia	022	Cesu	true
+2094	LV	Latvia	025	Daugavpils	true
+2095	LV	Latvia	DGV	Daugavpils	true
+2096	LV	Latvia	026	Dobeles	true
+2097	LV	Latvia	033	Gulbenes	true
+2098	LV	Latvia	020	Carnikavas Novads	true
+2099	LV	Latvia	JKB	Jekabpils	true
+2100	LV	Latvia	041	Jelgavas Novads	true
+2101	LV	Latvia	JUR	Jurmala	true
+2102	LV	Latvia	047	Kraslavas	true
+2103	LV	Latvia	050	Kuldigas	true
+2104	LV	Latvia	LPX	Liepaja	true
+2105	LV	Latvia	054	Limbazu	true
+2106	LV	Latvia	058	Ludzas	true
+2107	LV	Latvia	059	Madonas	true
+2108	LV	Latvia	067	Ogres	true
+2109	LV	Latvia	073	Preilu	true
+2110	LV	Latvia	REZ	Rezekne	true
+2111	LV	Latvia	RIX	Riga	true
+2112	LV	Latvia	088	Saldus	true
+2113	LV	Latvia	097	Talsu	true
+2114	LV	Latvia	099	Tukuma	true
+2115	LV	Latvia	101	Valkas	true
+2116	LV	Latvia	VMR	Valmieras	true
+2117	LV	Latvia	VEN	Ventspils	true
+2118	LV	Latvia	034	Iecavas Novads	true
+2119	LV	Latvia	035	Ikskiles Novads	true
+2120	LV	Latvia	013	Baldones Novads	true
+2121	LV	Latvia	043	Kandavas Novads	true
+2122	LV	Latvia	044	Karsavas Novads	true
+2123	LV	Latvia	048	Krimuldas Novads	true
+2124	LV	Latvia	051	Keguma Novads	true
+2125	LV	Latvia	052	Kekavas Novads	true
+2126	LV	Latvia	053	Lielvardes Novads	true
+2127	LV	Latvia	055	Ligatnes Novads	true
+2128	LV	Latvia	056	Livanu Novads	true
+2129	LV	Latvia	075	Priekulu Novads	true
+2130	LV	Latvia	061	Malpils Novads	true
+2131	LV	Latvia	062	Marupes Novads	true
+2132	LV	Latvia	068	Olaines Novads	true
+2133	LV	Latvia	037	Incukalna Novads	true
+2134	LV	Latvia	057	Iubanas Novads	true
+2135	LV	Latvia	076	Raunas Novads	true
+2136	LV	Latvia	080	Ropazu Novads	true
+2137	LV	Latvia	084	Rujienas Novads	true
+2138	LV	Latvia	086	Salacgrivas Novads	true
+2139	LV	Latvia	087	Salaspils Novads	true
+2140	LV	Latvia	108	Vilakas Novads	true
+2141	LV	Latvia	091	Siguldas Novads	true
+2142	LV	Latvia	092	Skriveru Novads	true
+2143	LV	Latvia	093	Skrundas Novads	true
+2144	LV	Latvia	094	Smiltenes Novads	true
+2145	LV	Latvia	095	Stopinu Novads	true
+2146	LV	Latvia	069	Ozolnieku Novads	true
+2147	LV	Latvia	079	Rojas Novads	true
+2148	LV	Latvia	089	Saulkrastu Novads	true
+2149	LV	Latvia	096	Strencu Novads	true
+2150	LV	Latvia	098	Tervetes Novads	true
+2151	LV	Latvia	029	Engures Novads	true
+2152	LV	Latvia	045	Kocenu Novads	true
+2153	LV	Latvia	030	Erglu Novads	true
+2154	LV	Latvia	036	Ilukstes Novads	true
+2155	LV	Latvia	039	Jaunpiebalgas Novads	true
+2156	LV	Latvia	JEL	Jelgava	true
+2157	LV	Latvia	010	Auces Novads	true
+2158	LV	Latvia	100	Vainodes Novads	true
+2159	LV	Latvia	031	Garkalnes Novads	true
+2160	LV	Latvia	107	Viesites Novads	true
+2161	LV	Latvia	011	Adazu Novads	true
+2162	LV	Latvia	012	Babites Novads	true
+2163	LV	Latvia	003	Aizputes Novads	true
+2164	LV	Latvia	014	Baltinavas Novads	true
+2165	LV	Latvia	105	Vecumnieku Novads	true
+2166	LV	Latvia	017	Beverinas Novads	true
+2167	LV	Latvia	018	Brocenu Novads	true
+2168	LV	Latvia	109	Vilanu Novads	true
+2169	LV	Latvia	024	Dagdas Novads	true
+2170	LV	Latvia	028	Durbes Novads	true
+2171	LV	Latvia	104	Vecpiebalgas Novads	true
+2172	LV	Latvia	042	Jekabpils Novads	true
+2173	LV	Latvia	106	Ventspils Novads	true
+2174	LV	Latvia	004	Aknistes Novads	true
+2175	LV	Latvia	005	Alojas Novads	true
+2176	LV	Latvia	006	Alsungas Novads	true
+2177	LV	Latvia	008	Amatas Novads	true
+2178	LV	Latvia	009	Apes Novads	true
+2179	LV	Latvia	102	Varaklanu Novads	true
+2180	LV	Latvia	103	Varkavas Novads	true
+2181	LV	Latvia	110	Zilupes Novads	true
+2182	LV	Latvia	019	Burtnieku Novads	true
+2183	LV	Latvia	021	Cesvaines Novads	true
+2184	LV	Latvia	023	Ciblas Novads	true
+2185	LV	Latvia	027	Dundagas Novads	true
+2186	LV	Latvia	032	Grobinas Novads	true
+2187	LV	Latvia	038	Jaunjelgavas Novads	true
+2188	LV	Latvia	040	Jaunpils Novads	true
+2189	LV	Latvia	046	Kokneses Novads	true
+2190	LV	Latvia	049	Krustpils Novads	true
+2191	LV	Latvia	060	Mazsalacas Novads	true
+2192	LV	Latvia	063	Mersraga Novads	true
+2193	LV	Latvia	064	Nauksenu Novads	true
+2194	LV	Latvia	065	Neretas Novads	true
+2195	LV	Latvia	066	Nicas Novads	true
+2196	LV	Latvia	070	Pargaujas Novads	true
+2197	LV	Latvia	071	Pavilostas Novads	true
+2198	LV	Latvia	072	Plavinu Novads	true
+2199	LV	Latvia	074	Priekules Novads	true
+2200	LV	Latvia	077	Rezeknes Novads	true
+2201	LV	Latvia	078	Riebinu Novads	true
+2202	LV	Latvia	081	Rucavas Novads	true
+2203	LV	Latvia	082	Rugaju Novads	true
+2204	LV	Latvia	083	Rundales Novads	true
+2205	LV	Latvia	085	Salas Novads	true
+2206	LV	Latvia	090	Sejas Novads	true
+2207	LY	Libyan Arab Jamahiriya	JU	Al Jufrah	true
+2208	LY	Libyan Arab Jamahiriya	KF	Al Kufrah	true
+2209	LY	Libyan Arab Jamahiriya	MQ	Murzuq	true
+2210	LY	Libyan Arab Jamahiriya	SB	Sabha	true
+2211	LY	Libyan Arab Jamahiriya	BU	Tubruq	true
+2212	LY	Libyan Arab Jamahiriya	JA	Al Jabal Al Akhdar	true
+2213	LY	Libyan Arab Jamahiriya	NQ	An Nuqat Al Khams	true
+2214	LY	Libyan Arab Jamahiriya	ZA	Az Zawiyah	true
+2215	LY	Libyan Arab Jamahiriya	BA	Banghazi	true
+2216	LY	Libyan Arab Jamahiriya	DR	Darnah	true
+2217	LY	Libyan Arab Jamahiriya	MI	Misratah	true
+2218	LY	Libyan Arab Jamahiriya	SR	Surt	true
+2219	LY	Libyan Arab Jamahiriya	TB	Tarabulus	true
+2220	LY	Libyan Arab Jamahiriya	GT	Ghat	true
+2221	LY	Libyan Arab Jamahiriya	JG	Al Jabal Al Gharbi	true
+2222	LY	Libyan Arab Jamahiriya	JI	Al Jifarah	true
+2223	LY	Libyan Arab Jamahiriya	MB	Al Marqab	true
+2224	LY	Libyan Arab Jamahiriya	MJ	Al Marj	true
+2225	LY	Libyan Arab Jamahiriya	NL	Nalut	true
+2226	LY	Libyan Arab Jamahiriya	WA	Al Wahat	true
+2227	LY	Libyan Arab Jamahiriya	WD	Wadi Al Hayat	true
+2228	LY	Libyan Arab Jamahiriya	WS	Wadi Ash Shati	true
+2229	MA	Morocco	08	Grand Casablanca	true
+2230	MA	Morocco	05	Fes-Boulemane	true
+2231	MA	Morocco	11	Marrakech-Tensift-Al Haouz	true
+2232	MA	Morocco	06	Meknes-Tafilalet	true
+2233	MA	Morocco	07	Rabat-Sale-Zemmour-Zaer	true
+2234	MA	Morocco	09	Chaouia-Ouardigha	true
+2235	MA	Morocco	10	Doukkala-Abda	true
+2236	MA	Morocco	02	Gharb-Chrarda-Beni Hssen	true
+2237	MA	Morocco	14	Guelmim-Es Smara	false
+2238	MA	Morocco	04	Oriental	true
+2239	MA	Morocco	13	"Souss-Massa-Dr	A"	false
+2240	MA	Morocco	12	Tadla-Azilal	true
+2241	MA	Morocco	01	Tanger-Tetouan	true
+2242	MA	Morocco	03	Taza-Al Hoceima-Taounate	true
+2243	MA	Morocco	15	La	false
+2244	MA	Morocco	16	Oued Ed Dahab-Lagouira	false
+2245	MC	Monaco	CO	La Condamine	true
+2246	MC	Monaco	MO	Monaco	true
+2247	MC	Monaco	MC	Monte-Carlo	true
+2248	MC	Monaco	CL	La Colle	true
+2249	MC	Monaco	FO	Fontvieille	true
+2250	MC	Monaco	GA	La Gare	true
+2251	MC	Monaco	JE	Jardin Exotique	true
+2252	MC	Monaco	LA	Larvotto	true
+2253	MC	Monaco	MA	Malbousquet	true
+2254	MC	Monaco	MG	Moneghetti	true
+2255	MC	Monaco	MU	Moulins	true
+2256	MC	Monaco	PH	Port-Hercule	true
+2257	MC	Monaco	SD	Sainte-Devote	true
+2258	MC	Monaco	SO	La Source	true
+2259	MC	Monaco	SP	Spelugues	true
+2260	MC	Monaco	SR	Saint-Roman	true
+2261	MC	Monaco	VR	Vallon De La Rousse	true
+2262	MD	"Moldova	 Republic of"	CU	Chisinau	true
+2263	MD	"Moldova	 Republic of"	GA	Gagauzia	true
+2264	MD	"Moldova	 Republic of"	OR	Orhei	true
+2265	MD	"Moldova	 Republic of"	SN	Stinga Nistrului	true
+2266	MD	"Moldova	 Republic of"	AN	Anenii Noi	true
+2267	MD	"Moldova	 Republic of"	BA	Balti	true
+2268	MD	"Moldova	 Republic of"	BS	Basarabeasca	true
+2269	MD	"Moldova	 Republic of"	BD	Bender	true
+2270	MD	"Moldova	 Republic of"	BR	Briceni	true
+2271	MD	"Moldova	 Republic of"	CA	Cahul	true
+2272	MD	"Moldova	 Republic of"	CT	Cantemir	true
+2273	MD	"Moldova	 Republic of"	CL	Calarasi	true
+2274	MD	"Moldova	 Republic of"	CS	Causeni	true
+2275	MD	"Moldova	 Republic of"	CM	Cimislia	true
+2276	MD	"Moldova	 Republic of"	CR	Criuleni	true
+2277	MD	"Moldova	 Republic of"	DO	Donduseni	true
+2278	MD	"Moldova	 Republic of"	DR	Drochia	true
+2279	MD	"Moldova	 Republic of"	DU	Dubasari	true
+2280	MD	"Moldova	 Republic of"	ED	Edinet	true
+2281	MD	"Moldova	 Republic of"	FA	Falesti	true
+2282	MD	"Moldova	 Republic of"	FL	Floresti	true
+2283	MD	"Moldova	 Republic of"	GL	Glodeni	true
+2284	MD	"Moldova	 Republic of"	HI	Hincesti	true
+2285	MD	"Moldova	 Republic of"	IA	Ialoveni	true
+2286	MD	"Moldova	 Republic of"	LE	Leova	true
+2287	MD	"Moldova	 Republic of"	NI	Nisporeni	true
+2288	MD	"Moldova	 Republic of"	OC	Ocnita	true
+2289	MD	"Moldova	 Republic of"	RE	Rezina	true
+2290	MD	"Moldova	 Republic of"	RI	Riscani	true
+2291	MD	"Moldova	 Republic of"	SI	Singerei	true
+2292	MD	"Moldova	 Republic of"	SD	Soldanesti	true
+2293	MD	"Moldova	 Republic of"	SO	Soroca	true
+2294	MD	"Moldova	 Republic of"	SV	Stefan-Voda	true
+2295	MD	"Moldova	 Republic of"	ST	Straseni	true
+2296	MD	"Moldova	 Republic of"	TA	Taraclia	true
+2297	MD	"Moldova	 Republic of"	TE	Telenesti	true
+2298	MD	"Moldova	 Republic of"	UN	Ungheni	true
+2299	ME	Montenegro	02	Bar	true
+2300	ME	Montenegro	04	Bijelo Polje	true
+2301	ME	Montenegro	05	Budva	true
+2302	ME	Montenegro	06	Cetinje	true
+2303	ME	Montenegro	08	Herceg Novi	true
+2304	ME	Montenegro	10	Kotor	true
+2305	ME	Montenegro	12	Niksic	true
+2306	ME	Montenegro	14	Pljevlja	true
+2307	ME	Montenegro	16	Podgorica	true
+2308	ME	Montenegro	20	Ulcinj	true
+2309	ME	Montenegro	21	Zabljak	true
+2310	ME	Montenegro	01	Andrijevica	true
+2311	ME	Montenegro	03	Berane	true
+2312	ME	Montenegro	07	Danilovgrad	true
+2313	ME	Montenegro	073	Arhangay	false
+2314	ME	Montenegro	09	Kolasin	true
+2315	ME	Montenegro	11	Mojkovac	true
+2316	ME	Montenegro	13	Plav	true
+2317	ME	Montenegro	15	Pluzine	true
+2318	ME	Montenegro	17	Rozaje	true
+2319	ME	Montenegro	18	Savnik	true
+2320	ME	Montenegro	19	Tivat	true
+2321	MG	Madagascar	D	Antsiranana	true
+2322	MG	Madagascar	F	Fianarantsoa	true
+2323	MG	Madagascar	M	Mahajanga	true
+2324	MG	Madagascar	A	Toamasina	true
+2325	MG	Madagascar	T	Antananarivo	true
+2326	MG	Madagascar	U	Toliara	true
+2327	MH	Marshall Islands	MAJ	Majuro	true
+2328	MH	Marshall Islands	ALK	Ailuk	true
+2329	MH	Marshall Islands	ALL	Ailinglaplap	true
+2330	MH	Marshall Islands	ARN	Arno	true
+2331	MH	Marshall Islands	AUR	Aur	true
+2332	MH	Marshall Islands	EBO	Ebon	true
+2333	MH	Marshall Islands	ENI	Enewetak	true
+2334	MH	Marshall Islands	JAB	Jabat	true
+2335	MH	Marshall Islands	JAL	Jaluit	true
+2336	MH	Marshall Islands	KIL	Kili	true
+2337	MH	Marshall Islands	KWA	Kwajalein	true
+2338	MH	Marshall Islands	LAE	Lae	true
+2339	MH	Marshall Islands	LIB	Lib	true
+2340	MH	Marshall Islands	LIK	Likiep	true
+2341	MH	Marshall Islands	MAL	Maloelap	true
+2342	MH	Marshall Islands	MEJ	Mejit	true
+2343	MH	Marshall Islands	MIL	Mili	true
+2344	MH	Marshall Islands	NMK	Namdrik	true
+2345	MH	Marshall Islands	NMU	Namu	true
+2346	MH	Marshall Islands	RON	Rongelap	true
+2347	MH	Marshall Islands	UJA	Ujae	true
+2348	MH	Marshall Islands	UJL	Ujelang	false
+2349	MH	Marshall Islands	UTI	Utirik	true
+2350	MH	Marshall Islands	WTH	Wotho	true
+2351	MH	Marshall Islands	WTJ	Wotje	true
+2352	MK	Macedonia	02	Aracinovo	true
+2353	MK	Macedonia	03	Berovo	true
+2354	MK	Macedonia	04	Bitola	true
+2355	MK	Macedonia	05	Bogdanci	true
+2356	MK	Macedonia	06	Bogovinje	true
+2357	MK	Macedonia	07	Bosilovo	true
+2358	MK	Macedonia	08	Brvenica	true
+2359	MK	Macedonia	79	Cair	false
+2360	MK	Macedonia	80	Caska	true
+2361	MK	Macedonia	77	Centar	false
+2362	MK	Macedonia	78	Centar Zupa	true
+2363	MK	Macedonia	81	Cesinovo	true
+2364	MK	Macedonia	82	Cucer-Sandevo	true
+2365	MK	Macedonia	21	Debar	true
+2366	MK	Macedonia	23	Delcevo	true
+2367	MK	Macedonia	25	Demir Hisar	true
+2368	MK	Macedonia	24	Demir Kapija	true
+2369	MK	Macedonia	27	Dolneni	true
+2370	MK	Macedonia	28	Drugovo	true
+2371	MK	Macedonia	17	Gazi Baba	false
+2372	MK	Macedonia	18	Gevgelija	true
+2373	MK	Macedonia	19	Gostivar	true
+2374	MK	Macedonia	20	Gradsko	true
+2375	MK	Macedonia	34	Ilinden	true
+2376	MK	Macedonia	35	Jegunovce	true
+2377	MK	Macedonia	37	Karbinci	true
+2378	MK	Macedonia	38	Karpos	false
+2379	MK	Macedonia	36	Kavadarci	true
+2380	MK	Macedonia	40	Kicevo	true
+2381	MK	Macedonia	39	Kisela Voda	false
+2382	MK	Macedonia	42	Kocani	true
+2383	MK	Macedonia	41	Konce	true
+2384	MK	Macedonia	43	Kratovo	true
+2385	MK	Macedonia	44	Kriva Palanka	true
+2386	MK	Macedonia	45	Krivogastani	true
+2387	MK	Macedonia	46	Krusevo	true
+2388	MK	Macedonia	47	Kumanovo	true
+2389	MK	Macedonia	48	Lipkovo	true
+2390	MK	Macedonia	49	Lozovo	true
+2391	MK	Macedonia	51	Makedonska Kamenica	true
+2392	MK	Macedonia	52	Makedonski Brod	true
+2393	MK	Macedonia	53	Mogila	true
+2394	MK	Macedonia	54	Negotino	true
+2395	MK	Macedonia	55	Novaci	true
+2396	MK	Macedonia	56	Novo Selo	true
+2397	MK	Macedonia	58	Ohrid	true
+2398	MK	Macedonia	75	Tearce	true
+2399	MK	Macedonia	57	Oslomej	false
+2400	MK	Macedonia	60	Pehcevo	true
+2401	MK	Macedonia	59	Petrovec	true
+2402	MK	Macedonia	61	Plasnica	true
+2403	MK	Macedonia	62	Prilep	true
+2404	MK	Macedonia	63	Probistip	true
+2405	MK	Macedonia	64	Radovis	true
+2406	MK	Macedonia	65	Rankovce	true
+2407	MK	Macedonia	66	Resen	true
+2408	MK	Macedonia	67	Rosoman	true
+2409	MK	Macedonia	68	Saraj	false
+2410	MK	Macedonia	70	Sopiste	true
+2411	MK	Macedonia	71	Staro Nagoricane	true
+2412	MK	Macedonia	83	Stip	true
+2413	MK	Macedonia	72	Struga	true
+2414	MK	Macedonia	73	Strumica	true
+2415	MK	Macedonia	74	Studenicani	true
+2416	MK	Macedonia	84	Suto Orizari	false
+2417	MK	Macedonia	69	Sveti Nikole	true
+2418	MK	Macedonia	76	Tetovo	true
+2419	MK	Macedonia	10	Valandovo	true
+2420	MK	Macedonia	11	Vasilevo	true
+2421	MK	Macedonia	13	Veles	true
+2422	MK	Macedonia	12	Vevcani	true
+2423	MK	Macedonia	14	Vinica	true
+2424	MK	Macedonia	15	Vranestica	false
+2425	MK	Macedonia	16	Vrapciste	true
+2426	MK	Macedonia	31	Zajas	false
+2427	MK	Macedonia	32	Zelenikovo	true
+2428	MK	Macedonia	30	Zelino	true
+2429	MK	Macedonia	33	Zrnovci	true
+2430	MK	Macedonia	01	Aerodrom	false
+2431	MK	Macedonia	09	Butel	false
+2432	MK	Macedonia	22	Debarca	true
+2433	MK	Macedonia	26	Dojran	true
+2434	MK	Macedonia	29	Gjorce Petrov	false
+2435	MK	Macedonia	50	Mavrovo And Rostusa	true
+2436	MK	Macedonia	85	Skopje	true
+2437	ML	Mali	BKO	Bamako	true
+2438	ML	Mali	1	Kayes	true
+2439	ML	Mali	5	Mopti	true
+2440	ML	Mali	4	Segou	true
+2441	ML	Mali	3	Sikasso	true
+2442	ML	Mali	2	Koulikoro	true
+2443	ML	Mali	6	Tombouctou	true
+2444	ML	Mali	7	Gao	true
+2445	ML	Mali	8	Kidal	true
+2446	MM	Myanmar	16	Rakhine State	true
+2447	MM	Myanmar	07	Irrawaddy	true
+2448	MM	Myanmar	11	Kachin State	true
+2449	MM	Myanmar	13	Karan State	true
+2450	MM	Myanmar	12	Kayah State	true
+2451	MM	Myanmar	04	Mandalay	true
+2452	MM	Myanmar	01	Sagaing	true
+2453	MM	Myanmar	17	Shan State	true
+2454	MM	Myanmar	05	Tenasserim	true
+2455	MM	Myanmar	15	Mon State	true
+2456	MM	Myanmar	03	Magway	true
+2457	MM	Myanmar	02	Bago	true
+2458	MM	Myanmar	06	Yangon	true
+2459	MN	Mongolia	073	Arhangay	true
+2460	MN	Mongolia	069	Bayanhongor	true
+2461	MN	Mongolia	071	Bayan-Olgiy	true
+2462	MN	Mongolia	061	Dornod	true
+2463	MN	Mongolia	063	Dornogovi	true
+2464	MN	Mongolia	059	Dundgovi	true
+2465	MN	Mongolia	057	Dzavhan	true
+2466	MN	Mongolia	065	Govi-Altay	true
+2467	MN	Mongolia	039	Hentiy	true
+2468	MN	Mongolia	043	Hovd	true
+2469	MN	Mongolia	041	Hovsgol	true
+2470	MN	Mongolia	053	Omnogovi	true
+2471	MN	Mongolia	055	Ovorhangay	true
+2472	MN	Mongolia	049	Selenge	true
+2473	MN	Mongolia	051	Suhbaatar	true
+2474	MN	Mongolia	047	Tov	true
+2475	MN	Mongolia	046	Uvs	true
+2476	MN	Mongolia	1	Ulaanbaatar	true
+2477	MN	Mongolia	067	Bulgan	true
+2478	MN	Mongolia	037	Darhan-Uul	true
+2479	MN	Mongolia	064	Govisumber	true
+2480	MN	Mongolia	035	Orhon	true
+2481	MO	Macao	XXX	Undefined	true
+2482	MP	Northern Mariana Islands	XXX	Undefined	true
+2483	MQ	Martinique	XXX	Undefined	true
+2484	MR	Mauritania	01	Hodh Ech Chargui	true
+2485	MR	Mauritania	02	Hodh El Gharbi	true
+2486	MR	Mauritania	03	Assaba	true
+2487	MR	Mauritania	04	Gorgol	true
+2488	MR	Mauritania	05	Brakna	true
+2489	MR	Mauritania	06	Trarza	true
+2490	MR	Mauritania	07	Adrar	true
+2491	MR	Mauritania	08	Dakhlet Nouadhibou	true
+2492	MR	Mauritania	09	Tagant	true
+2493	MR	Mauritania	10	Guidimaka	true
+2494	MR	Mauritania	11	Tiris Zemmour	true
+2495	MR	Mauritania	12	Inchiri	true
+2496	MR	Mauritania	13	Nouakchott Ouest	true
+2497	MR	Mauritania	14	Nouakchott Nord	true
+2498	MS	Montserrat	XXX	Undefined	true
+2499	MT	Malta	01	Attard	true
+2500	MT	Malta	02	Balzan	true
+2501	MT	Malta	03	Birgu	true
+2502	MT	Malta	04	Birkirkara	true
+2503	MT	Malta	05	Birzebbuga	true
+2504	MT	Malta	06	Bormla	true
+2505	MT	Malta	07	Dingli	true
+2506	MT	Malta	08	Fgura	true
+2507	MT	Malta	09	Floriana	true
+2508	MT	Malta	11	Gudja	true
+2509	MT	Malta	12	Gzira	true
+2510	MT	Malta	13	Ghajnsielem	true
+2511	MT	Malta	14	Gharb	true
+2512	MT	Malta	15	Gharghur	true
+2513	MT	Malta	17	Ghaxaq	true
+2514	MT	Malta	18	Hamrun	true
+2515	MT	Malta	19	Iklin	true
+2516	MT	Malta	20	Isla	true
+2517	MT	Malta	21	Kalkara	true
+2518	MT	Malta	22	Kercem	true
+2519	MT	Malta	23	Kirkop	true
+2520	MT	Malta	24	Lija	true
+2521	MT	Malta	26	Marsa	true
+2522	MT	Malta	27	Marsaskala	true
+2523	MT	Malta	28	Marsaxlokk	true
+2524	MT	Malta	29	Mdina	true
+2525	MT	Malta	30	Mellieha	true
+2526	MT	Malta	31	Mgarr	true
+2527	MT	Malta	32	Mosta	true
+2528	MT	Malta	33	Mqabba	true
+2529	MT	Malta	34	Msida	true
+2530	MT	Malta	37	Nadur	true
+2531	MT	Malta	38	Naxxar	true
+2532	MT	Malta	39	Paola	true
+2533	MT	Malta	40	Pembroke	true
+2534	MT	Malta	41	Pieta	true
+2535	MT	Malta	43	Qormi	true
+2536	MT	Malta	44	Qrendi	true
+2537	MT	Malta	46	Rabat Malta	true
+2538	MT	Malta	48	San Giljan	true
+2539	MT	Malta	49	San Gwann	true
+2540	MT	Malta	51	San Pawl Il Bahar	true
+2541	MT	Malta	52	Sannat	true
+2542	MT	Malta	54	Santa Venera	true
+2543	MT	Malta	55	Siggiewi	true
+2544	MT	Malta	56	Sliema	true
+2545	MT	Malta	57	Swieqi	true
+2546	MT	Malta	58	Ta Xbiex	true
+2547	MT	Malta	59	Tarxien	true
+2548	MT	Malta	60	Valletta	true
+2549	MT	Malta	61	Xaghra	true
+2550	MT	Malta	62	Xewkija	true
+2551	MT	Malta	63	Xghajra	true
+2552	MT	Malta	64	Zabbar	true
+2553	MT	Malta	65	Zebbug Ghawdex	true
+2554	MT	Malta	66	Zebbug Malta	true
+2555	MT	Malta	67	Zejtun	true
+2556	MT	Malta	68	Zurrieq	true
+2557	MT	Malta	10	Fontana	true
+2558	MT	Malta	16	Ghasri	true
+2559	MT	Malta	25	Luqa	true
+2560	MT	Malta	35	Mtarfa	true
+2561	MT	Malta	36	Munxar	true
+2562	MT	Malta	42	Qala	true
+2563	MT	Malta	45	Rabat Gozo	true
+2564	MT	Malta	47	Safi	true
+2565	MT	Malta	50	San Lawrenz	true
+2566	MT	Malta	53	Santa Lucija	true
+2567	MU	Mauritius	BL	Black River	true
+2568	MU	Mauritius	FL	Flacq	true
+2569	MU	Mauritius	GP	Grand Port	true
+2570	MU	Mauritius	MO	Moka	true
+2571	MU	Mauritius	PA	Pamplemousses	true
+2572	MU	Mauritius	PW	Plaines Wilhems	true
+2573	MU	Mauritius	PU	Port Louis	true
+2574	MU	Mauritius	RR	Riviere Du Rempart	true
+2575	MU	Mauritius	SA	Savanne	true
+2576	MU	Mauritius	AG	Agalega Islands	true
+2577	MU	Mauritius	RO	Rodrigues	true
+2578	MU	Mauritius	CU	Curepipe	true
+2579	MU	Mauritius	QB	Quatre Bornes	true
+2580	MU	Mauritius	BR	Beau Bassin-Rose Hill	true
+2581	MU	Mauritius	CC	Cargados Carajos Shoals	true
+2582	MU	Mauritius	PL	Port Louis City	true
+2583	MU	Mauritius	VP	Vacoas-Phoenix	true
+2584	MV	Maldives	MLE	Male	true
+2585	MV	Maldives	NO	North	true
+2586	MV	Maldives	CE	Central	true
+2587	MV	Maldives	NC	North Central	true
+2588	MV	Maldives	XXX	Undefined	true
+2589	MV	Maldives	SU	South	true
+2590	MV	Maldives	UN	Upper North	true
+2591	MV	Maldives	US	Upper South	true
+2592	MW	Malawi	C	Central Region	true
+2593	MW	Malawi	N	Northern Region	true
+2594	MW	Malawi	S	Southern Region	true
+2595	MX	Mexico	AGU	Aguascalientes	true
+2596	MX	Mexico	BCN	Baja California	true
+2597	MX	Mexico	BCS	Baja California Sur	true
+2598	MX	Mexico	CAM	Campeche	true
+2599	MX	Mexico	CHP	Chiapas	true
+2600	MX	Mexico	CHH	Chihuahua	true
+2601	MX	Mexico	COA	Coahuila De Zaragoza	true
+2602	MX	Mexico	COL	Colima	true
+2603	MX	Mexico	CMX	Distrito Federal	true
+2604	MX	Mexico	DUR	Durango	true
+2605	MX	Mexico	GUA	Guanajuato	true
+2606	MX	Mexico	GRO	Guerrero	true
+2607	MX	Mexico	HID	Hidalgo	true
+2608	MX	Mexico	JAL	Jalisco	true
+2609	MX	Mexico	MEX	Mexico	true
+2610	MX	Mexico	MIC	Michoacan De Ocampo	true
+2611	MX	Mexico	MOR	Morelos	true
+2612	MX	Mexico	NAY	Nayarit	true
+2613	MX	Mexico	NLE	Nuevo Leon	true
+2614	MX	Mexico	OAX	Oaxaca	true
+2615	MX	Mexico	PUE	Puebla	true
+2616	MX	Mexico	QUE	Queretaro De Arteaga	true
+2617	MX	Mexico	ROO	Quintana Roo	true
+2618	MX	Mexico	SLP	San Luis Potosi	true
+2619	MX	Mexico	SIN	Sinaloa	true
+2620	MX	Mexico	SON	Sonora	true
+2621	MX	Mexico	TAB	Tabasco	true
+2622	MX	Mexico	TAM	Tamaulipas	true
+2623	MX	Mexico	TLA	Tlaxcala	true
+2624	MX	Mexico	VER	Veracruz-Llave	true
+2625	MX	Mexico	YUC	Yucatan	true
+2626	MX	Mexico	ZAC	Zacatecas	true
+2627	MY	Malaysia	01	Johor	true
+2628	MY	Malaysia	02	Kedah	true
+2629	MY	Malaysia	03	Kelantan	true
+2630	MY	Malaysia	04	Melaka	true
+2631	MY	Malaysia	05	Negeri Sembilan	true
+2632	MY	Malaysia	06	Pahang	true
+2633	MY	Malaysia	08	Perak	true
+2634	MY	Malaysia	09	Perlis	true
+2635	MY	Malaysia	07	Pulau Pinang	true
+2636	MY	Malaysia	13	Sarawak	true
+2637	MY	Malaysia	10	Selangor	true
+2638	MY	Malaysia	11	Terengganu	true
+2639	MY	Malaysia	14	Kuala Lumpur	true
+2640	MY	Malaysia	15	Labuan	true
+2641	MY	Malaysia	12	Sabah	true
+2642	MY	Malaysia	16	Wilayah Persekutuan Putrajaya	true
+2643	MZ	Mozambique	P	Cabo Delgado	true
+2644	MZ	Mozambique	G	Gaza	true
+2645	MZ	Mozambique	I	Inhambane	true
+2646	MZ	Mozambique	L	Maputo	true
+2647	MZ	Mozambique	S	Sofala	true
+2648	MZ	Mozambique	N	Nampula	true
+2649	MZ	Mozambique	A	Niassa	true
+2650	MZ	Mozambique	T	Tete	true
+2651	MZ	Mozambique	Q	Zambezia	true
+2652	MZ	Mozambique	B	Manica	true
+2653	MZ	Mozambique	MPM	Maputo	true
+2654	NA	Namibia	KH	Khomas	true
+2655	NA	Namibia	CA	Zambezi	true
+2656	NA	Namibia	ER	Erongo	true
+2657	NA	Namibia	HA	Hardap	true
+2658	NA	Namibia	KA	Karas	true
+2659	NA	Namibia	KU	Kunene	true
+2660	NA	Namibia	OW	Ohangwena	true
+2661	NA	Namibia	OK	Okavango	false
+2662	NA	Namibia	OH	Omaheke	true
+2663	NA	Namibia	OS	Omusati	true
+2664	NA	Namibia	ON	Oshana	true
+2665	NA	Namibia	OT	Oshikoto	true
+2666	NA	Namibia	OD	Otjozondjupa	true
+2667	NA	Namibia	KE	Kavango East	true
+2668	NA	Namibia	KW	Kavango West	true
+2669	NC	New Caledonia	XXX	Undefined	true
+2670	NE	Niger	1	Agadez	true
+2671	NE	Niger	2	Diffa	true
+2672	NE	Niger	3	Dosso	true
+2673	NE	Niger	4	Maradi	true
+2674	NE	Niger	5	Tahoua	true
+2675	NE	Niger	07	Zinder	true
+2676	NE	Niger	08	Niamey	true
+2677	NE	Niger	6	Tillaberi	true
+2678	NG	Nigeria	LA	Lagos	true
+2679	NG	Nigeria	FC	Federal Capital Territory	true
+2680	NG	Nigeria	OG	Ogun	true
+2681	NG	Nigeria	AK	Akwa Ibom	true
+2682	NG	Nigeria	CR	Cross River	true
+2683	NG	Nigeria	KD	Kaduna	true
+2684	NG	Nigeria	KT	Katsina	true
+2685	NG	Nigeria	AN	Anambra	true
+2686	NG	Nigeria	BE	Benue	true
+2687	NG	Nigeria	BO	Borno	true
+2688	NG	Nigeria	IM	Imo	true
+2689	NG	Nigeria	KN	Kano	true
+2690	NG	Nigeria	KW	Kwara	true
+2691	NG	Nigeria	NI	Niger	true
+2692	NG	Nigeria	OY	Oyo	true
+2693	NG	Nigeria	AD	Adamawa	true
+2694	NG	Nigeria	DE	Delta	true
+2695	NG	Nigeria	ED	Edo	true
+2696	NG	Nigeria	JI	Jigawa	true
+2697	NG	Nigeria	KE	Kebbi	true
+2698	NG	Nigeria	KO	Kogi	true
+2699	NG	Nigeria	OS	Osun	true
+2700	NG	Nigeria	TA	Taraba	true
+2701	NG	Nigeria	YO	Yobe	true
+2702	NG	Nigeria	AB	Abia	true
+2703	NG	Nigeria	BA	Bauchi	true
+2704	NG	Nigeria	EN	Enugu	true
+2705	NG	Nigeria	ON	Ondo	true
+2706	NG	Nigeria	PL	Plateau	true
+2707	NG	Nigeria	RI	Rivers	true
+2708	NG	Nigeria	SO	Sokoto	true
+2709	NG	Nigeria	BY	Bayelsa	true
+2710	NG	Nigeria	EB	Ebonyi	true
+2711	NG	Nigeria	EK	Ekiti	true
+2712	NG	Nigeria	GO	Gombe	true
+2713	NG	Nigeria	NA	Nassarawa	true
+2714	NG	Nigeria	ZA	Zamfara	true
+2715	NI	Nicaragua	BO	Boaco	true
+2716	NI	Nicaragua	CA	Carazo	true
+2717	NI	Nicaragua	CI	Chinandega	true
+2718	NI	Nicaragua	CO	Chontales	true
+2719	NI	Nicaragua	ES	Esteli	true
+2720	NI	Nicaragua	GR	Granada	true
+2721	NI	Nicaragua	JI	Jinotega	true
+2722	NI	Nicaragua	LE	Leon	true
+2723	NI	Nicaragua	MD	Madriz	true
+2724	NI	Nicaragua	MN	Managua	true
+2725	NI	Nicaragua	MT	Matagalpa	true
+2726	NI	Nicaragua	NS	Nueva Segovia	true
+2727	NI	Nicaragua	SJ	Rio San Juan	true
+2728	NI	Nicaragua	RI	Rivas	true
+2729	NI	Nicaragua	AN	Autonoma Atlantico Norte	true
+2730	NI	Nicaragua	AS	Region Autonoma Atlantico Sur	true
+2731	NI	Nicaragua	MS	Masaya	true
+2732	NL	Netherlands	DR	Drenthe	true
+2733	NL	Netherlands	FR	Friesland	true
+2734	NL	Netherlands	GE	Gelderland	true
+2735	NL	Netherlands	GR	Groningen	true
+2736	NL	Netherlands	LI	Limburg	true
+2737	NL	Netherlands	NB	Noord-Brabant	true
+2738	NL	Netherlands	NH	Noord-Holland	true
+2739	NL	Netherlands	UT	Utrecht	true
+2740	NL	Netherlands	ZE	Zeeland	true
+2741	NL	Netherlands	ZH	Zuid-Holland	true
+2742	NL	Netherlands	OV	Overijssel	true
+2743	NL	Netherlands	FL	Flevoland	true
+2744	NO	Norway	02	Akershus	true
+2745	NO	Norway	09	Aust-Agder	true
+2746	NO	Norway	06	Buskerud	true
+2747	NO	Norway	20	Finnmark	true
+2748	NO	Norway	04	Hedmark	true
+2749	NO	Norway	12	Hordaland	true
+2750	NO	Norway	15	More Og Romsdal	true
+2751	NO	Norway	18	Nordland	true
+2752	NO	Norway	17	Nord-Trondelag	true
+2753	NO	Norway	05	Oppland	true
+2754	NO	Norway	03	Oslo	true
+2755	NO	Norway	01	Ostfold	true
+2756	NO	Norway	11	Rogaland	true
+2757	NO	Norway	14	Sogn Og Fjordane	true
+2758	NO	Norway	16	Sor-Trondelag	true
+2759	NO	Norway	08	Telemark	true
+2760	NO	Norway	19	Troms	true
+2761	NO	Norway	10	Vest-Agder	true
+2762	NO	Norway	07	Vestfold	true
+2763	NO	Norway	21	Svalbard	true
+2764	NO	Norway	22	Jan Mayen	true
+2765	NP	Nepal	BA	Bagmati	true
+2766	NP	Nepal	BH	Bheri	true
+2767	NP	Nepal	DH	Dhawalagiri	true
+2768	NP	Nepal	GA	Gandaki	true
+2769	NP	Nepal	JA	Janakpur	true
+2770	NP	Nepal	KA	Karnali	true
+2771	NP	Nepal	KO	Kosi	true
+2772	NP	Nepal	LU	Lumbini	true
+2773	NP	Nepal	MA	Mahakali	true
+2774	NP	Nepal	ME	Mechi	true
+2775	NP	Nepal	NA	Narayani	true
+2776	NP	Nepal	RA	Rapti	true
+2777	NP	Nepal	SA	Sagarmatha	true
+2778	NP	Nepal	SE	Seti	true
+2779	NR	Nauru	01	Aiwo	true
+2780	NR	Nauru	02	Anabar	true
+2781	NR	Nauru	03	Anetan	true
+2782	NR	Nauru	04	Anibare	true
+2783	NR	Nauru	05	Baiti	true
+2784	NR	Nauru	06	Boe	true
+2785	NR	Nauru	07	Buada	true
+2786	NR	Nauru	08	Denigomodu	true
+2787	NR	Nauru	09	Ewa	true
+2788	NR	Nauru	10	Ijuw	true
+2789	NR	Nauru	11	Meneng	true
+2790	NR	Nauru	12	Nibok	true
+2791	NR	Nauru	13	Uaboe	true
+2792	NR	Nauru	14	Yaren	true
+2793	NU	Niue	XXX	Undefined	true
+2794	NZ	New Zealand	WKO	Waikato	true
+2795	NZ	New Zealand	CIT	Chatham Islands Territory	true
+2796	NZ	New Zealand	AUK	Auckland	true
+2797	NZ	New Zealand	BOP	Bay Of Plenty	true
+2798	NZ	New Zealand	CAN	Canterbury	true
+2799	NZ	New Zealand	GIS	Gisborne	true
+2800	NZ	New Zealand	HKB	Hawke's Bay	true
+2801	NZ	New Zealand	MWT	Manawatu-Wanganui	true
+2802	NZ	New Zealand	MBH	Marlborough	true
+2803	NZ	New Zealand	NSN	Nelson	true
+2804	NZ	New Zealand	NTL	Northland	true
+2805	NZ	New Zealand	OTA	Otago	true
+2806	NZ	New Zealand	STL	Southland	true
+2807	NZ	New Zealand	TKI	Taranaki	true
+2808	NZ	New Zealand	WGN	Wellington	true
+2809	NZ	New Zealand	WTC	West Coast	true
+2810	NZ	New Zealand	TAS	Tasman	true
+2811	OM	Oman	DA	Ad Dakhiliyah	true
+2812	OM	Oman	BA	Al Batinah	false
+2813	OM	Oman	WU	Al Wusta	true
+2814	OM	Oman	SH	Ash Sharqiyah	false
+2815	OM	Oman	ZA	Az Zahirah	true
+2816	OM	Oman	MA	Masqat	true
+2817	OM	Oman	MU	Musandam	true
+2818	OM	Oman	ZU	Zufar	true
+2819	OM	Oman	BU	Al Buraymi	true
+2820	OM	Oman	BJ	Janub Al Batinah	true
+2821	OM	Oman	BS	Shamal Al Batinah	true
+2822	OM	Oman	SJ	Janub Ash Sharqiyah	true
+2823	OM	Oman	SS	Shamal Ash Sharqiyah	true
+2824	PA	Panama	1	Bocas Del Toro	true
+2825	PA	Panama	4	Chiriqui	true
+2826	PA	Panama	2	Cocle	true
+2827	PA	Panama	3	Colon	true
+2828	PA	Panama	5	Darien	true
+2829	PA	Panama	6	Herrera	true
+2830	PA	Panama	7	Los Santos	true
+2831	PA	Panama	8	Panama	true
+2832	PA	Panama	KY	San Blas	true
+2833	PA	Panama	9	Veraguas	true
+2834	PA	Panama	EM	Embera	true
+2835	PA	Panama	NB	Ngabe-Bugle	true
+2836	PA	Panama	10	Panama Oeste	true
+2837	PE	Peru	AMA	Amazonas	true
+2838	PE	Peru	ANC	Ancash	true
+2839	PE	Peru	APU	Apurimac	true
+2840	PE	Peru	ARE	Arequipa	true
+2841	PE	Peru	AYA	Ayacucho	true
+2842	PE	Peru	CAJ	Cajamarca	true
+2843	PE	Peru	CAL	Callao	true
+2844	PE	Peru	CUS	Cusco	true
+2845	PE	Peru	HUV	Huancavelica	true
+2846	PE	Peru	HUC	Huanuco	true
+2847	PE	Peru	ICA	Ica	true
+2848	PE	Peru	JUN	Junin	true
+2849	PE	Peru	LAL	La Libertad	true
+2850	PE	Peru	LAM	Lambayeque	true
+2851	PE	Peru	LIM	Lima	true
+2852	PE	Peru	LOR	Loreto	true
+2853	PE	Peru	MDD	Madre De Dios	true
+2854	PE	Peru	MOQ	Moquegua	true
+2855	PE	Peru	PAS	Pasco	true
+2856	PE	Peru	PIU	Piura	true
+2857	PE	Peru	PUN	Puno	true
+2858	PE	Peru	SAM	San Martin	true
+2859	PE	Peru	TAC	Tacna	true
+2860	PE	Peru	TUM	Tumbes	true
+2861	PE	Peru	UCA	Ucayali	true
+2862	PE	Peru	LMA	Metropolitana De Lima	true
+2863	PF	French Polynesia	XXX	Undefined	true
+2864	PG	Papua New Guinea	CPM	Central	true
+2865	PG	Papua New Guinea	GPK	Gulf	true
+2866	PG	Papua New Guinea	MBA	Milne Bay	true
+2867	PG	Papua New Guinea	NPP	Northern	true
+2868	PG	Papua New Guinea	SHM	Southern Highlands	true
+2869	PG	Papua New Guinea	WPD	Western	true
+2870	PG	Papua New Guinea	NSB	Bougainville	true
+2871	PG	Papua New Guinea	CPK	Chimbu	true
+2872	PG	Papua New Guinea	EHG	Eastern Highlands	true
+2873	PG	Papua New Guinea	EBR	East New Britain	true
+2874	PG	Papua New Guinea	ESW	East Sepik	true
+2875	PG	Papua New Guinea	MPM	Madang	true
+2876	PG	Papua New Guinea	MRL	Manus	true
+2877	PG	Papua New Guinea	MPL	Morobe	true
+2878	PG	Papua New Guinea	NIK	New Ireland	true
+2879	PG	Papua New Guinea	WHM	Western Highlands	true
+2880	PG	Papua New Guinea	WBK	West New Britain	true
+2881	PG	Papua New Guinea	SAN	Sandaun	true
+2882	PG	Papua New Guinea	EPW	Enga	true
+2883	PG	Papua New Guinea	NCD	National Capital	true
+2884	PH	Philippines	ABR	Abra	true
+2885	PH	Philippines	AGN	Agusan Del Norte	true
+2886	PH	Philippines	AGS	Agusan Del Sur	true
+2887	PH	Philippines	AKL	Aklan	true
+2888	PH	Philippines	ALB	Albay	true
+2889	PH	Philippines	ANT	Antique	true
+2890	PH	Philippines	BAN	Bataan	true
+2891	PH	Philippines	BTN	Batanes	true
+2892	PH	Philippines	BTG	Batangas	true
+2893	PH	Philippines	BEN	Benguet	true
+2894	PH	Philippines	BOH	Bohol	true
+2895	PH	Philippines	BUK	Bukidnon	true
+2896	PH	Philippines	BUL	Bulacan	true
+2897	PH	Philippines	CAG	Cagayan	true
+2898	PH	Philippines	CAN	Camarines Norte	true
+2899	PH	Philippines	CAS	Camarines Sur	true
+2900	PH	Philippines	CAM	Camiguin	true
+2901	PH	Philippines	CAP	Capiz	true
+2902	PH	Philippines	CAT	Catanduanes	true
+2903	PH	Philippines	CAV	Cavite	true
+2904	PH	Philippines	CEB	Cebu	true
+2905	PH	Philippines	BAS	Basilan	true
+2906	PH	Philippines	EAS	Eastern Samar	true
+2907	PH	Philippines	DAV	Davao	true
+2908	PH	Philippines	DAS	Davao Del Sur	true
+2909	PH	Philippines	DAO	Davao Oriental	true
+2910	PH	Philippines	IFU	Ifugao	true
+2911	PH	Philippines	ILN	Ilocos Norte	true
+2912	PH	Philippines	ILS	Ilocos Sur	true
+2913	PH	Philippines	ILI	Iloilo	true
+2914	PH	Philippines	ISA	Isabela	true
+2915	PH	Philippines	KAL	Kalinga-Apayao	true
+2916	PH	Philippines	LAG	Laguna	true
+2917	PH	Philippines	LAN	Lanao Del Norte	true
+2918	PH	Philippines	LAS	Lanao Del Sur	true
+2919	PH	Philippines	LUN	La Union	true
+2920	PH	Philippines	LEY	Leyte	true
+2921	PH	Philippines	MAD	Marinduque	true
+2922	PH	Philippines	MAS	Masbate	true
+2923	PH	Philippines	MDC	Mindoro Occidental	true
+2924	PH	Philippines	MDR	Mindoro Oriental	true
+2925	PH	Philippines	MSC	Misamis Occidental	true
+2926	PH	Philippines	MSR	Misamis Oriental	true
+2927	PH	Philippines	NEC	Negros Occidental	true
+2928	PH	Philippines	NER	Negros Oriental	true
+2929	PH	Philippines	NUE	Nueva Ecija	true
+2930	PH	Philippines	NUV	Nueva Vizcaya	true
+2931	PH	Philippines	PLW	Palawan	true
+2932	PH	Philippines	PAM	Pampanga	true
+2933	PH	Philippines	PAN	Pangasinan	true
+2934	PH	Philippines	RIZ	Rizal	true
+2935	PH	Philippines	ROM	Romblon	true
+2936	PH	Philippines	WSA	Samar	true
+2937	PH	Philippines	MAG	Maguindanao	true
+2938	PH	Philippines	NCO	North Cotabato	true
+2939	PH	Philippines	SOR	Sorsogon	true
+2940	PH	Philippines	SLE	Southern Leyte	true
+2941	PH	Philippines	SLU	Sulu	true
+2942	PH	Philippines	SUN	Surigao Del Norte	true
+2943	PH	Philippines	SUR	Surigao Del Sur	true
+2944	PH	Philippines	TAR	Tarlac	true
+2945	PH	Philippines	ZMB	Zambales	true
+2946	PH	Philippines	ZAN	Zamboanga Del Norte	true
+2947	PH	Philippines	ZAS	Zamboanga Del Sur	true
+2948	PH	Philippines	NSA	Northern Samar	true
+2949	PH	Philippines	QUI	Quirino	true
+2950	PH	Philippines	SIG	Siquijor	true
+2951	PH	Philippines	SCO	South Cotabato	true
+2952	PH	Philippines	SUK	Sultan Kudarat	true
+2953	PH	Philippines	APA	Apayao	true
+2954	PH	Philippines	BIL	Biliran	true
+2955	PH	Philippines	COM	Compostela Valley	true
+2956	PH	Philippines	MAN	Manila	true
+2957	PH	Philippines	DIN	Dinagat Islands	true
+2958	PH	Philippines	AUR	Aurora	true
+2959	PH	Philippines	GUI	Guimaras	true
+2960	PH	Philippines	QUE	Quezon	true
+2961	PH	Philippines	MOU	Mountain Province	true
+2962	PH	Philippines	SAR	Sarangani	true
+2963	PH	Philippines	TAW	Tawi-Tawi	true
+2964	PH	Philippines	ZSI	Zamboanga Sibugay	true
+2965	PK	Pakistan	BA	Balochistan	true
+2966	PK	Pakistan	KP	North-West Frontier	true
+2967	PK	Pakistan	PB	Punjab	true
+2968	PK	Pakistan	SD	Sindh	true
+2969	PK	Pakistan	JK	Azad Kashmir	true
+2970	PK	Pakistan	IS	Islamabad	true
+2971	PK	Pakistan	GB	Gilgit-Baltistan	true
+2972	PK	Pakistan	TA	Fed Administered Tribal Areas	true
+2973	PL	Poland	02	Dolnoslaskie	true
+2974	PL	Poland	04	Kujawsko-Pomorskie	true
+2975	PL	Poland	10	Lodzkie	true
+2976	PL	Poland	06	Lubelskie	true
+2977	PL	Poland	08	Lubuskie	true
+2978	PL	Poland	12	Malopolskie	true
+2979	PL	Poland	14	Mazowieckie	true
+2980	PL	Poland	16	Opolskie	true
+2981	PL	Poland	18	Podkarpackie	true
+2982	PL	Poland	20	Podlaskie	true
+2983	PL	Poland	22	Pomorskie	true
+2984	PL	Poland	24	Slaskie	true
+2985	PL	Poland	26	Swietokrzyskie	true
+2986	PL	Poland	28	Warminsko-Mazurskie	true
+2987	PL	Poland	30	Wielkopolskie	true
+2988	PL	Poland	32	Zachodniopomorskie	true
+2989	PM	Saint Pierre and Miquelon	XXX	Undefined	true
+2990	PN	Pitcairn	XXX	Undefined	true
+2991	PR	Puerto Rico	XXX	Undefined	true
+2992	PS	Palestinian Territory	HBN	Hebron	true
+2993	PS	Palestinian Territory	BTH	Bethlehem	true
+2994	PS	Palestinian Territory	RBH	Ramallah	true
+2995	PS	Palestinian Territory	NBS	Nablus	true
+2996	PS	Palestinian Territory	GZA	Gaza	true
+2997	PS	Palestinian Territory	DEB	Deir El Balah	true
+2998	PS	Palestinian Territory	JEM	Jerusalem	true
+2999	PS	Palestinian Territory	JEN	Jenin	true
+3000	PS	Palestinian Territory	JRH	Jericho	true
+3001	PS	Palestinian Territory	KYS	Khan Yunis	true
+3002	PS	Palestinian Territory	NGZ	North Gaza	true
+3003	PS	Palestinian Territory	QQA	Qalqilya	true
+3004	PS	Palestinian Territory	RFH	Rafah	true
+3005	PS	Palestinian Territory	SLT	Salfit	true
+3006	PS	Palestinian Territory	TBS	Tubas	true
+3007	PS	Palestinian Territory	TKM	Tulkarm	true
+3008	PT	Portugal	01	Aveiro	true
+3009	PT	Portugal	02	Beja	true
+3010	PT	Portugal	03	Braga	true
+3011	PT	Portugal	04	Braganca	true
+3012	PT	Portugal	05	Castelo Branco	true
+3013	PT	Portugal	06	Coimbra	true
+3014	PT	Portugal	07	Evora	true
+3015	PT	Portugal	08	Faro	true
+3016	PT	Portugal	30	Madeira	true
+3017	PT	Portugal	09	Guarda	true
+3018	PT	Portugal	10	Leiria	true
+3019	PT	Portugal	11	Lisboa	true
+3020	PT	Portugal	12	Portalegre	true
+3021	PT	Portugal	13	Porto	true
+3022	PT	Portugal	14	Santarem	true
+3023	PT	Portugal	15	Setubal	true
+3024	PT	Portugal	16	Viana Do Castelo	true
+3025	PT	Portugal	17	Vila Real	true
+3026	PT	Portugal	18	Viseu	true
+3027	PT	Portugal	20	Azores	true
+3028	PW	Palau	002	Aimelik	true
+3029	PW	Palau	004	Airai	true
+3030	PW	Palau	010	Angaur	true
+3031	PW	Palau	050	Hatohobei	true
+3032	PW	Palau	100	Kayangel	true
+3033	PW	Palau	350	Peleliu	true
+3034	PW	Palau	212	Melekeok	true
+3035	PW	Palau	214	Ngaraard	true
+3036	PW	Palau	218	Ngarchelong	true
+3037	PW	Palau	222	Ngardmau	true
+3038	PW	Palau	224	Ngatpang	true
+3039	PW	Palau	226	Ngchesar	true
+3040	PW	Palau	227	Ngeremlengui	true
+3041	PW	Palau	228	Ngiwal	true
+3042	PW	Palau	150	Koror	true
+3043	PW	Palau	370	Sonsorol	true
+3044	PY	Paraguay	10	Alto Parana	true
+3045	PY	Paraguay	13	Amambay	true
+3046	PY	Paraguay	19	Boqueron	true
+3047	PY	Paraguay	5	Caaguazu	true
+3048	PY	Paraguay	6	Caazapa	true
+3049	PY	Paraguay	11	Central	true
+3050	PY	Paraguay	1	Concepcion	true
+3051	PY	Paraguay	3	Cordillera	true
+3052	PY	Paraguay	4	Guaira	true
+3053	PY	Paraguay	7	Itapua	true
+3054	PY	Paraguay	8	Misiones	true
+3055	PY	Paraguay	12	Neembucu	true
+3056	PY	Paraguay	9	Paraguari	true
+3057	PY	Paraguay	15	Presidente Hayes	true
+3058	PY	Paraguay	2	San Pedro	true
+3059	PY	Paraguay	14	Canindeyu	true
+3060	PY	Paraguay	ASU	Asuncion	true
+3061	PY	Paraguay	16	Alto Paraguay	true
+3062	QA	Qatar	DA	Ad Dawhah	true
+3063	QA	Qatar	KH	Al Khawr	true
+3064	QA	Qatar	RA	Ar Rayyan	true
+3065	QA	Qatar	MS	Madinat Ach Shamal	true
+3066	QA	Qatar	US	Umm Salal	true
+3067	QA	Qatar	WA	Al Wakrah	true
+3068	QA	Qatar	ZA	Az Zaayin	true
+3069	RE	Reunion	XXX	Undefined	true
+3070	RO	Romania	AB	Alba	true
+3071	RO	Romania	AR	Arad	true
+3072	RO	Romania	AG	Arges	true
+3073	RO	Romania	BC	Bacau	true
+3074	RO	Romania	BH	Bihor	true
+3075	RO	Romania	BN	Bistrita-Nasaud	true
+3076	RO	Romania	BT	Botosani	true
+3077	RO	Romania	BR	Braila	true
+3078	RO	Romania	BV	Brasov	true
+3079	RO	Romania	B	Bucuresti	true
+3080	RO	Romania	BZ	Buzau	true
+3081	RO	Romania	CS	Caras-Severin	true
+3082	RO	Romania	CJ	Cluj	true
+3083	RO	Romania	CT	Constanta	true
+3084	RO	Romania	CV	Covasna	true
+3085	RO	Romania	DB	Dambovita	true
+3086	RO	Romania	DJ	Dolj	true
+3087	RO	Romania	GL	Galati	true
+3088	RO	Romania	GJ	Gorj	true
+3089	RO	Romania	HR	Harghita	true
+3090	RO	Romania	HD	Hunedoara	true
+3091	RO	Romania	IL	Ialomita	true
+3092	RO	Romania	IS	Iasi	true
+3093	RO	Romania	MM	Maramures	true
+3094	RO	Romania	MH	Mehedinti	true
+3095	RO	Romania	MS	Mures	true
+3096	RO	Romania	NT	Neamt	true
+3097	RO	Romania	OT	Olt	true
+3098	RO	Romania	PH	Prahova	true
+3099	RO	Romania	SJ	Salaj	true
+3100	RO	Romania	SM	Satu Mare	true
+3101	RO	Romania	SB	Sibiu	true
+3102	RO	Romania	SV	Suceava	true
+3103	RO	Romania	TR	Teleorman	true
+3104	RO	Romania	TM	Timis	true
+3105	RO	Romania	TL	Tulcea	true
+3106	RO	Romania	VS	Vaslui	true
+3107	RO	Romania	VL	Valcea	true
+3108	RO	Romania	VN	Vrancea	true
+3109	RO	Romania	CL	Calarasi	true
+3110	RO	Romania	GR	Giurgiu	true
+3111	RO	Romania	IF	Ilfov	true
+3112	RS	Serbia	XXX	Undefined	true
+3113	RS	Serbia	03	Severnobanatski Okrug	true
+3114	RS	Serbia	04	Juznobanatski Okrug	true
+3115	RS	Serbia	05	Zapadnobacki Okrug	true
+3116	RS	Serbia	06	Juznobanatcki Okrug	true
+3117	RS	Serbia	07	Sremski Okrug	true
+3118	RS	Serbia	08	Macvanski Okrug	true
+3119	RS	Serbia	09	Kolubarski Okrug	true
+3120	RS	Serbia	10	Podunavski Okrug	true
+3121	RS	Serbia	11	Branicevski Okrug	true
+3122	RS	Serbia	12	Sumadijski Okrug	true
+3123	RS	Serbia	14	Borski Okrug	true
+3124	RS	Serbia	15	Zajecarski Okrug	true
+3125	RS	Serbia	16	Zlatiborski Okrug	true
+3126	RS	Serbia	17	Moravicki Okrug	true
+3127	RS	Serbia	18	Raska Okrug	true
+3128	RS	Serbia	19	Rasinski Okrug	true
+3129	RS	Serbia	20	Nisavski Okrug	true
+3130	RS	Serbia	21	Toplicki Okrug	true
+3131	RS	Serbia	22	Pirotski Okrug	true
+3132	RS	Serbia	25	Kosovski Okrug	true
+3133	RS	Serbia	26	Pecki Okrug	true
+3134	RS	Serbia	27	Prizrenski Okrug	true
+3135	RS	Serbia	28	Kosovsko-Mitrovacki Okrug	true
+3136	RS	Serbia	13	Pomoravski Okrug	true
+3137	RS	Serbia	23	Jablanicki Okrug	true
+3138	RS	Serbia	24	Pcinjski Okrug	true
+3139	RS	Serbia	01	Severnobacki Okrug	true
+3140	RS	Serbia	02	Srednjebanatski Okrug	true
+3141	RS	Serbia	29	Kosovsko-Pomoravski Okrug	true
+3142	RU	Russian Federation	AD	"Adygeya	 Republic Of"	true
+3143	RU	Russian Federation	AL	Gorno-Altay	true
+3144	RU	Russian Federation	ALT	Altaisky Krai	true
+3145	RU	Russian Federation	AMU	Amur	true
+3146	RU	Russian Federation	ARR	Arkhangel'sk	true
+3147	RU	Russian Federation	AST	Astrakhan'	true
+3148	RU	Russian Federation	BA	Bashkortostan	true
+3149	RU	Russian Federation	BEL	Belgorod	true
+3150	RU	Russian Federation	BRY	Bryansk	true
+3151	RU	Russian Federation	BU	Buryat	true
+3152	RU	Russian Federation	CE	Chechnya	true
+3153	RU	Russian Federation	CHE	Chelyabinsk	true
+3154	RU	Russian Federation	CHU	Chukot	true
+3155	RU	Russian Federation	CU	Chuvashia	true
+3156	RU	Russian Federation	DA	Dagestan	true
+3157	RU	Russian Federation	IN	Ingush	true
+3158	RU	Russian Federation	IRR	Irkutsk	true
+3159	RU	Russian Federation	IVA	Ivanovo	true
+3160	RU	Russian Federation	KB	Kabardin-Balkar	true
+3161	RU	Russian Federation	KGD	Kaliningrad	true
+3162	RU	Russian Federation	KL	Kalmyk	true
+3163	RU	Russian Federation	KLU	Kaluga	true
+3164	RU	Russian Federation	KC	Karachay-Cherkess	true
+3165	RU	Russian Federation	KR	Karelia	true
+3166	RU	Russian Federation	KEM	Kemerovo	true
+3167	RU	Russian Federation	KHA	Khabarovsk	true
+3168	RU	Russian Federation	KK	Khakass	true
+3169	RU	Russian Federation	KHM	Khanty-Mansiy	true
+3170	RU	Russian Federation	KIR	Kirov	true
+3171	RU	Russian Federation	KO	Komi	true
+3172	RU	Russian Federation	KOS	Kostroma	true
+3173	RU	Russian Federation	KDA	Krasnodar	true
+3174	RU	Russian Federation	KGN	Kurgan	true
+3175	RU	Russian Federation	KRS	Kursk	true
+3176	RU	Russian Federation	LEN	Leningrad	true
+3177	RU	Russian Federation	LIP	Lipetsk	true
+3178	RU	Russian Federation	MAG	Magadan	true
+3179	RU	Russian Federation	ME	Mariy-El	true
+3180	RU	Russian Federation	MO	Mordovia	true
+3181	RU	Russian Federation	MOW	Moskva	true
+3182	RU	Russian Federation	MUR	Murmansk	true
+3183	RU	Russian Federation	NEN	Nenets	true
+3184	RU	Russian Federation	NIZ	Nizhegorod	true
+3185	RU	Russian Federation	NGR	Novgorod	true
+3186	RU	Russian Federation	NVS	Novosibirsk	true
+3187	RU	Russian Federation	OMS	Omsk	true
+3188	RU	Russian Federation	ORE	Orenburg	true
+3189	RU	Russian Federation	ORL	Orel	true
+3190	RU	Russian Federation	PNZ	Penza	true
+3191	RU	Russian Federation	PRI	Primor'ye	true
+3192	RU	Russian Federation	PSK	Pskov	true
+3193	RU	Russian Federation	ROS	Rostov	true
+3194	RU	Russian Federation	RYA	Ryazan'	true
+3195	RU	Russian Federation	SA	Sakha	true
+3196	RU	Russian Federation	SAK	Sakhalin	true
+3197	RU	Russian Federation	SAM	Samara	true
+3198	RU	Russian Federation	SPE	Saint Petersburg City	true
+3199	RU	Russian Federation	SAR	Saratov	true
+3200	RU	Russian Federation	SE	North Ossetia	true
+3201	RU	Russian Federation	SMO	Smolensk	true
+3202	RU	Russian Federation	STA	Stavropol'	true
+3203	RU	Russian Federation	SVE	Sverdlovsk	true
+3204	RU	Russian Federation	TAM	Tambovskaya Oblast	true
+3205	RU	Russian Federation	TA	Tatarstan	true
+3206	RU	Russian Federation	TOM	Tomsk	true
+3207	RU	Russian Federation	TUL	Tula	true
+3208	RU	Russian Federation	TVE	Tver'	true
+3209	RU	Russian Federation	TYU	Tyumen'	true
+3210	RU	Russian Federation	TY	Tuva	true
+3211	RU	Russian Federation	UD	Udmurt	true
+3212	RU	Russian Federation	ULY	Ul'yanovsk	true
+3213	RU	Russian Federation	VLA	Vladimir	true
+3214	RU	Russian Federation	VGG	Volgograd	true
+3215	RU	Russian Federation	VLG	Vologda	true
+3216	RU	Russian Federation	VOR	Voronezh	true
+3217	RU	Russian Federation	YAN	Yamal-Nenets	true
+3218	RU	Russian Federation	YAR	Yaroslavl'	true
+3219	RU	Russian Federation	YEV	Yevrey	true
+3220	RU	Russian Federation	PER	Permskiy Kray	true
+3221	RU	Russian Federation	KYA	Krasnoyarskiy Kray	true
+3222	RU	Russian Federation	KAM	Kamchatskiy Kray	true
+3223	RU	Russian Federation	ZAB	Zabaykal'skiy Kray	true
+3224	RU	Russian Federation	MOS	Moskovskaya Oblast	true
+3225	RW	Rwanda	02	Est	true
+3226	RW	Rwanda	01	Kigali	true
+3227	RW	Rwanda	03	Nord	true
+3228	RW	Rwanda	04	Ouest	true
+3229	RW	Rwanda	05	Sud	true
+3230	SA	Saudi Arabia	11	Al Bahah	true
+3231	SA	Saudi Arabia	03	Al Madinah	true
+3232	SA	Saudi Arabia	04	Ash Sharqiyah	true
+3233	SA	Saudi Arabia	05	Al Qasim	true
+3234	SA	Saudi Arabia	01	Ar Riyad	true
+3235	SA	Saudi Arabia	14	Asir	true
+3236	SA	Saudi Arabia	06	Ha'il	true
+3237	SA	Saudi Arabia	02	Makkah	true
+3238	SA	Saudi Arabia	08	Al Hudud Ash Shamaliyah	true
+3239	SA	Saudi Arabia	10	Najran	true
+3240	SA	Saudi Arabia	09	Jizan	true
+3241	SA	Saudi Arabia	07	Tabuk	true
+3242	SA	Saudi Arabia	12	Al Jawf	true
+3243	SB	Solomon Islands	ML	Malaita	true
+3244	SB	Solomon Islands	GU	Guadalcanal	true
+3245	SB	Solomon Islands	IS	Isabel	true
+3246	SB	Solomon Islands	MK	Makira	true
+3247	SB	Solomon Islands	TE	Temotu	true
+3248	SB	Solomon Islands	CE	Central	true
+3249	SB	Solomon Islands	WE	Western	true
+3250	SB	Solomon Islands	CH	Choiseul	true
+3251	SB	Solomon Islands	RB	Rennell And Bellona	true
+3252	SB	Solomon Islands	CT	Capital Territory (Honiara)	true
+3253	SC	Seychelles	01	Anse Aux Pins	true
+3254	SC	Seychelles	02	Anse Boileau	true
+3255	SC	Seychelles	03	Anse Etoile	true
+3256	SC	Seychelles	05	Anse Royale	true
+3257	SC	Seychelles	06	Baie Lazare	true
+3258	SC	Seychelles	07	Baie Sainte Anne	true
+3259	SC	Seychelles	08	Beau Vallon	true
+3260	SC	Seychelles	09	Bel Air	true
+3261	SC	Seychelles	10	Bel Ombre	true
+3262	SC	Seychelles	11	Cascade	true
+3263	SC	Seychelles	12	Glacis	true
+3264	SC	Seychelles	13	Grand' Anse	true
+3265	SC	Seychelles	14	Grand' Anse	true
+3266	SC	Seychelles	15	La Digue	true
+3267	SC	Seychelles	16	La Riviere Anglaise	true
+3268	SC	Seychelles	17	Mont Buxton	true
+3269	SC	Seychelles	18	Mont Fleuri	true
+3270	SC	Seychelles	19	Plaisance	true
+3271	SC	Seychelles	20	Pointe La Rue	true
+3272	SC	Seychelles	21	Port Glaud	true
+3273	SC	Seychelles	22	Saint Louis	true
+3274	SC	Seychelles	23	Takamaka	true
+3275	SC	Seychelles	04	Au Cap	true
+3276	SC	Seychelles	24	Les Mamelles	true
+3277	SC	Seychelles	25	Roche Caiman	true
+3278	SD	Sudan	KH	Al Khartum	true
+3279	SD	Sudan	NO	Ash Shamaliyah	true
+3280	SD	Sudan	RS	Al Bahr Al Ahmar	true
+3281	SD	Sudan	GZ	Al Jazirah	true
+3282	SD	Sudan	GD	Al Qadarif	true
+3283	SD	Sudan	NW	An Nil Al Abyad	true
+3284	SD	Sudan	KS	Janub Kurdufan	true
+3285	SD	Sudan	KA	Kassala	true
+3286	SD	Sudan	NR	Nahr An Nil	true
+3287	SD	Sudan	KN	Shamal Kurdufan	true
+3288	SD	Sudan	SI	Sinnar	true
+3289	SD	Sudan	DC	Zalingei	true
+3290	SD	Sudan	DE	Sharq Darfur	true
+3291	SD	Sudan	DN	Shamal Darfur	true
+3292	SD	Sudan	DS	Janub Darfur	true
+3293	SD	Sudan	DW	Gharb Darfur	true
+3294	SD	Sudan	NB	An Nil Al Azraq	true
+3295	SD	Sudan	GK	Gharb Kurdufan	true
+3296	SE	Sweden	K	Blekinge Lan	true
+3297	SE	Sweden	X	Gavleborgs Lan	true
+3298	SE	Sweden	I	Gotlands Lan	true
+3299	SE	Sweden	N	Hallands Lan	true
+3300	SE	Sweden	Z	Jamtlands Lan	true
+3301	SE	Sweden	F	Jonkopings Lan	true
+3302	SE	Sweden	H	Kalmar Lan	true
+3303	SE	Sweden	W	Dalarnas Lan	true
+3304	SE	Sweden	G	Kronobergs Lan	true
+3305	SE	Sweden	BD	Norrbottens Lan	true
+3306	SE	Sweden	T	Orebro Lan	true
+3307	SE	Sweden	E	Ostergotlands Lan	true
+3308	SE	Sweden	D	Sodermanlands Lan	true
+3309	SE	Sweden	C	Uppsala Lan	true
+3310	SE	Sweden	S	Varmlands Lan	true
+3311	SE	Sweden	AC	Vasterbottens Lan	true
+3312	SE	Sweden	Y	Vasternorrlands Lan	true
+3313	SE	Sweden	U	Vastmanlands Lan	true
+3314	SE	Sweden	AB	Stockholms Lan	true
+3315	SE	Sweden	M	Skane Lan	true
+3316	SE	Sweden	O	Vastra Gotaland	true
+3317	SG	Singapore	01	Central Singapore	true
+3318	SG	Singapore	03	North West	true
+3319	SG	Singapore	02	North East	true
+3320	SG	Singapore	04	South East	true
+3321	SG	Singapore	05	South West	true
+3322	SH	Saint Helena	AC	Ascension	true
+3323	SH	Saint Helena	HL	Saint Helena	true
+3324	SH	Saint Helena	TA	Tristan Da Cunha	true
+3325	SI	Slovenia	001	Ajdovscina	true
+3326	SI	Slovenia	002	Beltinci	true
+3327	SI	Slovenia	003	Bled	true
+3328	SI	Slovenia	004	Bohinj	true
+3329	SI	Slovenia	005	Borovnica	true
+3330	SI	Slovenia	006	Bovec	true
+3331	SI	Slovenia	007	Brda	true
+3332	SI	Slovenia	009	Brezice	true
+3333	SI	Slovenia	008	Brezovica	true
+3334	SI	Slovenia	011	Celje	true
+3335	SI	Slovenia	012	Cerklje Na Gorenjskem	true
+3336	SI	Slovenia	013	Cerknica	true
+3337	SI	Slovenia	014	Cerkno	true
+3338	SI	Slovenia	015	Crensovci	true
+3339	SI	Slovenia	016	Crna Na Koroskem	true
+3340	SI	Slovenia	017	Crnomelj	true
+3341	SI	Slovenia	181	Sveta Ana	true
+3342	SI	Slovenia	019	Divaca	true
+3343	SI	Slovenia	160	Hoce-Slivnica	true
+3344	SI	Slovenia	020	Dobrepolje	true
+3345	SI	Slovenia	022	Dol Pri Ljubljani	true
+3346	SI	Slovenia	024	Dornava	true
+3347	SI	Slovenia	025	Dravograd	true
+3348	SI	Slovenia	026	Duplek	true
+3349	SI	Slovenia	027	Gorenja Vas-Poljane	true
+3350	SI	Slovenia	028	Gorisnica	true
+3351	SI	Slovenia	029	Gornja Radgona	true
+3352	SI	Slovenia	207	Gorje	true
+3353	SI	Slovenia	030	Gornji Grad	true
+3354	SI	Slovenia	031	Gornji Petrovci	true
+3355	SI	Slovenia	032	Grosuplje	true
+3356	SI	Slovenia	034	Hrastnik	true
+3357	SI	Slovenia	035	Hrpelje-Kozina	true
+3358	SI	Slovenia	036	Idrija	true
+3359	SI	Slovenia	037	Ig	true
+3360	SI	Slovenia	038	Ilirska Bistrica	true
+3361	SI	Slovenia	039	Ivancna Gorica	true
+3362	SI	Slovenia	040	Izola-Isola	true
+3363	SI	Slovenia	042	Jursinci	true
+3364	SI	Slovenia	044	Kanal	true
+3365	SI	Slovenia	045	Kidricevo	true
+3366	SI	Slovenia	046	Kobarid	true
+3367	SI	Slovenia	047	Kobilje	true
+3368	SI	Slovenia	049	Komen	true
+3369	SI	Slovenia	174	Prebold	true
+3370	SI	Slovenia	202	Sredisce Ob Dravi	true
+3371	SI	Slovenia	050	Koper-Capodistria	true
+3372	SI	Slovenia	051	Kozje	true
+3373	SI	Slovenia	052	Kranj	true
+3374	SI	Slovenia	053	Kranjska Gora	true
+3375	SI	Slovenia	054	Krsko	true
+3376	SI	Slovenia	055	Kungota	true
+3377	SI	Slovenia	057	Lasko	true
+3378	SI	Slovenia	205	Sveti Tomaz	true
+3379	SI	Slovenia	061	Ljubljana	true
+3380	SI	Slovenia	062	Ljubno	true
+3381	SI	Slovenia	064	Logatec	true
+3382	SI	Slovenia	066	Loski Potok	true
+3383	SI	Slovenia	068	Lukovica	true
+3384	SI	Slovenia	183	Sempeter-Vrtojba	true
+3385	SI	Slovenia	071	Medvode	true
+3386	SI	Slovenia	072	Menges	true
+3387	SI	Slovenia	073	Metlika	true
+3388	SI	Slovenia	074	Mezica	true
+3389	SI	Slovenia	076	Mislinja	true
+3390	SI	Slovenia	077	Moravce	true
+3391	SI	Slovenia	078	Moravske Toplice	true
+3392	SI	Slovenia	079	Mozirje	true
+3393	SI	Slovenia	151	Braslovce	true
+3394	SI	Slovenia	199	Mokronog-Trebelno	true
+3395	SI	Slovenia	080	Murska Sobota	true
+3396	SI	Slovenia	081	Muta	true
+3397	SI	Slovenia	082	Naklo	true
+3398	SI	Slovenia	083	Nazarje	true
+3399	SI	Slovenia	084	Nova Gorica	true
+3400	SI	Slovenia	086	Odranci	true
+3401	SI	Slovenia	087	Ormoz	true
+3402	SI	Slovenia	088	Osilnica	true
+3403	SI	Slovenia	089	Pesnica	true
+3404	SI	Slovenia	164	Komenda	true
+3405	SI	Slovenia	091	Pivka	true
+3406	SI	Slovenia	092	Podcetrtek	true
+3407	SI	Slovenia	094	Postojna	true
+3408	SI	Slovenia	097	Puconci	true
+3409	SI	Slovenia	098	Racam	true
+3410	SI	Slovenia	099	Radece	true
+3411	SI	Slovenia	195	Apace	true
+3412	SI	Slovenia	100	Radenci	true
+3413	SI	Slovenia	101	Radlje Ob Dravi	true
+3414	SI	Slovenia	102	Radovljica	true
+3415	SI	Slovenia	105	Rogasovci	true
+3416	SI	Slovenia	106	Rogaska Slatina	true
+3417	SI	Slovenia	107	Rogatec	true
+3418	SI	Slovenia	109	Semic	true
+3419	SI	Slovenia	117	Sencur	true
+3420	SI	Slovenia	118	Sentilj	true
+3421	SI	Slovenia	119	Sentjernej	true
+3422	SI	Slovenia	110	Sevnica	true
+3423	SI	Slovenia	111	Sezana	true
+3424	SI	Slovenia	121	Skocjan	true
+3425	SI	Slovenia	122	Skofja Loka	true
+3426	SI	Slovenia	123	Skofljica	true
+3427	SI	Slovenia	112	Slovenj Gradec	true
+3428	SI	Slovenia	114	Slovenske Konjice	true
+3429	SI	Slovenia	124	Smarje Pri Jelsah	true
+3430	SI	Slovenia	125	Smartno Ob Paki	true
+3431	SI	Slovenia	126	Sostanj	true
+3432	SI	Slovenia	115	Starse	true
+3433	SI	Slovenia	127	Store	true
+3434	SI	Slovenia	153	Cerkvenjak	true
+3435	SI	Slovenia	116	Sveti Jurij	true
+3436	SI	Slovenia	128	Tolmin	true
+3437	SI	Slovenia	129	Trbovlje	true
+3438	SI	Slovenia	130	Trebnje	true
+3439	SI	Slovenia	131	Trzic	true
+3440	SI	Slovenia	132	Turnisce	true
+3441	SI	Slovenia	133	Velenje	true
+3442	SI	Slovenia	134	Velike Lasce	true
+3443	SI	Slovenia	136	Vipava	true
+3444	SI	Slovenia	137	Vitanje	true
+3445	SI	Slovenia	138	Vodice	true
+3446	SI	Slovenia	140	Vrhnika	true
+3447	SI	Slovenia	141	Vuzenica	true
+3448	SI	Slovenia	142	Zagorje Ob Savi	true
+3449	SI	Slovenia	143	Zavrc	true
+3450	SI	Slovenia	146	Zelezniki	true
+3451	SI	Slovenia	147	Ziri	true
+3452	SI	Slovenia	144	Zrece	true
+3453	SI	Slovenia	148	Benedikt	true
+3454	SI	Slovenia	150	Bloke	true
+3455	SI	Slovenia	152	Cankova	true
+3456	SI	Slovenia	018	Destrnik	true
+3457	SI	Slovenia	154	Dobje	true
+3458	SI	Slovenia	155	Dobrna	true
+3459	SI	Slovenia	021	Dobrova-Horjul-Polhov Gradec	true
+3460	SI	Slovenia	157	Dolenjske Toplice	true
+3461	SI	Slovenia	023	Domzale	true
+3462	SI	Slovenia	158	Grad	true
+3463	SI	Slovenia	159	Hajdina	true
+3464	SI	Slovenia	041	Jesenice	true
+3465	SI	Slovenia	163	Jezersko	true
+3466	SI	Slovenia	043	Kamnik	true
+3467	SI	Slovenia	048	Kocevje	true
+3468	SI	Slovenia	165	Kostel	true
+3469	SI	Slovenia	056	Kuzma	true
+3470	SI	Slovenia	058	Lenart	true
+3471	SI	Slovenia	059	Lendava-Lendva	true
+3472	SI	Slovenia	060	Litija	true
+3473	SI	Slovenia	063	Ljutomer	true
+3474	SI	Slovenia	065	Loska Dolina	true
+3475	SI	Slovenia	167	Lovrenc Na Pohorju	true
+3476	SI	Slovenia	067	Luce	true
+3477	SI	Slovenia	069	Majsperk	true
+3478	SI	Slovenia	070	Maribor	true
+3479	SI	Slovenia	156	Dobrovnik/Dobronak	true
+3480	SI	Slovenia	075	Miren-Kostanjevica	true
+3481	SI	Slovenia	170	Mirna Pec	true
+3482	SI	Slovenia	085	Novo Mesto	true
+3483	SI	Slovenia	171	Oplotnica	true
+3484	SI	Slovenia	090	Piran	true
+3485	SI	Slovenia	093	Podvelka	true
+3486	SI	Slovenia	173	Polzela	true
+3487	SI	Slovenia	095	Preddvor	true
+3488	SI	Slovenia	175	Prevalje	true
+3489	SI	Slovenia	096	Ptuj	true
+3490	SI	Slovenia	103	Ravne Na Koroskem	true
+3491	SI	Slovenia	104	Ribnica	true
+3492	SI	Slovenia	108	Ruse	true
+3493	SI	Slovenia	033	Salovci	true
+3494	SI	Slovenia	178	Selnica Ob Dravi	true
+3495	SI	Slovenia	120	Sentjur Pri Celju	true
+3496	SI	Slovenia	113	Slovenska Bistrica	true
+3497	SI	Slovenia	179	Sodrazica	true
+3498	SI	Slovenia	184	Tabor	true
+3499	SI	Slovenia	010	Tisina	true
+3500	SI	Slovenia	186	Trzin	true
+3501	SI	Slovenia	187	Velika Polana	true
+3502	SI	Slovenia	188	Verzej	true
+3503	SI	Slovenia	135	Videm	true
+3504	SI	Slovenia	139	Vojnik	true
+3505	SI	Slovenia	189	Vransko	true
+3506	SI	Slovenia	190	Zalec	true
+3507	SI	Slovenia	193	Zuzemberk	true
+3508	SI	Slovenia	210	Sveti Jurij V Slovenskih Gori	true
+3509	SI	Slovenia	196	Cirkulane	true
+3510	SI	Slovenia	197	Kostanjevica Na Krki	true
+3511	SI	Slovenia	208	Log-Dragomer	true
+3512	SI	Slovenia	198	Makole	true
+3513	SI	Slovenia	166	Krizevci	true
+3514	SI	Slovenia	209	Recica Ob Savinji	true
+3515	SI	Slovenia	201	Rence-Vogrsko	true
+3516	SI	Slovenia	211	Sentrupert	true
+3517	SI	Slovenia	200	Poljcane	true
+3518	SI	Slovenia	168	Markovci	true
+3519	SI	Slovenia	172	Podlehnik	true
+3520	SI	Slovenia	162	Horjul	true
+3521	SI	Slovenia	191	Zetale	true
+3522	SI	Slovenia	206	Smarjeske Toplice	true
+3523	SI	Slovenia	185	Trnovska Vas	true
+3524	SI	Slovenia	149	Bistrica Ob Sotli	true
+3525	SI	Slovenia	161	Hodos	true
+3526	SI	Slovenia	169	Miklavzna Dravskem Polju	true
+3527	SI	Slovenia	176	Razkrizje	true
+3528	SI	Slovenia	177	Ribnica Na Pohorju	true
+3529	SI	Slovenia	180	Solcava	true
+3530	SI	Slovenia	182	Sveti Andraz V Slovenskih Gor	true
+3531	SI	Slovenia	192	Zirovnica	true
+3532	SI	Slovenia	194	Smartno Pri Litiji	true
+3533	SI	Slovenia	203	Straza	true
+3534	SI	Slovenia	204	Sveta Trojica V Slovenskih Go	true
+3535	SJ	Svalbard and Jan Mayen	XXX	Undefined	true
+3536	SK	Slovakia	BC	Banska Bystrica	true
+3537	SK	Slovakia	BL	Bratislava	true
+3538	SK	Slovakia	KI	Kosice	true
+3539	SK	Slovakia	NI	Nitra	true
+3540	SK	Slovakia	PV	Presov	true
+3541	SK	Slovakia	TC	Trencin	true
+3542	SK	Slovakia	TA	Trnava	true
+3543	SK	Slovakia	ZI	Zilina	true
+3544	SL	Sierra Leone	E	Eastern	true
+3545	SL	Sierra Leone	N	Northern	true
+3546	SL	Sierra Leone	S	Southern	true
+3547	SL	Sierra Leone	W	Western Area	true
+3548	SM	San Marino	01	Acquaviva	true
+3549	SM	San Marino	02	Chiesanuova	true
+3550	SM	San Marino	03	Domagnano	true
+3551	SM	San Marino	04	Faetano	true
+3552	SM	San Marino	05	Fiorentino	true
+3553	SM	San Marino	06	Borgo Maggiore	true
+3554	SM	San Marino	07	San Marino	true
+3555	SM	San Marino	08	Monte Giardino	true
+3556	SM	San Marino	09	Serravalle	true
+3557	SN	Senegal	DK	Dakar	true
+3558	SN	Senegal	DB	Diourbel	true
+3559	SN	Senegal	TC	Tambacounda	true
+3560	SN	Senegal	TH	Thies	true
+3561	SN	Senegal	FK	Fatick	true
+3562	SN	Senegal	KL	Kaolack	true
+3563	SN	Senegal	KD	Kolda	true
+3564	SN	Senegal	ZG	Ziguinchor	true
+3565	SN	Senegal	LG	Louga	true
+3566	SN	Senegal	SL	Saint-Louis	true
+3567	SN	Senegal	MT	Matam	true
+3568	SN	Senegal	KA	Kaffrine	true
+3569	SN	Senegal	KE	Kedougou	true
+3570	SN	Senegal	SE	Sedhiou	true
+3571	SO	Somalia	BK	Bakool	true
+3572	SO	Somalia	BN	Banaadir	true
+3573	SO	Somalia	BR	Bari	true
+3574	SO	Somalia	BY	Bay	true
+3575	SO	Somalia	GA	Galguduud	true
+3576	SO	Somalia	GE	Gedo	true
+3577	SO	Somalia	HI	Hiiraan	true
+3578	SO	Somalia	JD	Jubbada Dhexe	true
+3579	SO	Somalia	JH	Jubbada Hoose	true
+3580	SO	Somalia	MU	Mudug	true
+3581	SO	Somalia	SA	Sanaag	true
+3582	SO	Somalia	SD	Shabeellaha Dhexe	true
+3583	SO	Somalia	SH	Shabeellaha Hoose	true
+3584	SO	Somalia	NU	Nugaal	true
+3585	SO	Somalia	TO	Togdheer	true
+3586	SO	Somalia	WO	Woqooyi Galbeed	true
+3587	SO	Somalia	AW	Awdal	true
+3588	SO	Somalia	SO	Sool	true
+3589	SO	Somalia	04	Faetano	false
+3590	SR	Suriname	BR	Brokopondo	true
+3591	SR	Suriname	CM	Commewijne	true
+3592	SR	Suriname	CR	Coronie	true
+3593	SR	Suriname	MA	Marowijne	true
+3594	SR	Suriname	NI	Nickerie	true
+3595	SR	Suriname	PR	Para	true
+3596	SR	Suriname	PM	Paramaribo	true
+3597	SR	Suriname	SA	Saramacca	true
+3598	SR	Suriname	SI	Sipaliwini	true
+3599	SR	Suriname	WA	Wanica	true
+3600	ST	Sao Tome and Principe	P	Principe	true
+3601	ST	Sao Tome and Principe	S	Sao Tome	true
+3602	SV	El Salvador	AH	Ahuachapan	true
+3603	SV	El Salvador	CA	Cabanas	true
+3604	SV	El Salvador	CH	Chalatenango	true
+3605	SV	El Salvador	CU	Cuscatlan	true
+3606	SV	El Salvador	LI	La Libertad	true
+3607	SV	El Salvador	PA	La Paz	true
+3608	SV	El Salvador	UN	La Union	true
+3609	SV	El Salvador	MO	Morazan	true
+3610	SV	El Salvador	SM	San Miguel	true
+3611	SV	El Salvador	SS	San Salvador	true
+3612	SV	El Salvador	SA	Santa Ana	true
+3613	SV	El Salvador	SV	San Vicente	true
+3614	SV	El Salvador	SO	Sonsonate	true
+3615	SV	El Salvador	US	Usulutan	true
+3616	SY	Syrian Arab Republic	HA	Al Hasakah	true
+3617	SY	Syrian Arab Republic	LA	Al Ladhiqiyah	true
+3618	SY	Syrian Arab Republic	QU	Al Qunaytirah	true
+3619	SY	Syrian Arab Republic	RA	Ar Raqqah	true
+3620	SY	Syrian Arab Republic	SU	As Suwayda'	true
+3621	SY	Syrian Arab Republic	DR	Dar	true
+3622	SY	Syrian Arab Republic	DY	Dayr Az Zawr	true
+3623	SY	Syrian Arab Republic	RD	Rif Dimashq	true
+3624	SY	Syrian Arab Republic	HL	Halab	true
+3625	SY	Syrian Arab Republic	HM	Hamah	true
+3626	SY	Syrian Arab Republic	HI	Hims	true
+3627	SY	Syrian Arab Republic	ID	Idlib	true
+3628	SY	Syrian Arab Republic	DI	Dimashq	true
+3629	SY	Syrian Arab Republic	TA	Tartus	true
+3630	SZ	Swaziland	HH	Hhohho	true
+3631	SZ	Swaziland	LU	Lubombo	true
+3632	SZ	Swaziland	MA	Manzini	true
+3633	SZ	Swaziland	SH	Shiselweni	true
+3634	TC	Turks and Caicos Islands	XXX	Undefined	true
+3635	TD	Chad	BA	Batha	true
+3636	TD	Chad	WF	Wadi Fira	true
+3637	TD	Chad	CB	Chari-Baguirmi	true
+3638	TD	Chad	GR	Guera	true
+3639	TD	Chad	KA	Kanem	true
+3640	TD	Chad	LC	Lac	true
+3641	TD	Chad	LO	Logone Occidental	true
+3642	TD	Chad	LR	Logone Oriental	true
+3643	TD	Chad	MC	Moyen-Chari	true
+3644	TD	Chad	OD	Ouaddai	true
+3645	TD	Chad	SA	Salamat	true
+3646	TD	Chad	TA	Tandjile	true
+3647	TD	Chad	ME	Mayo-Kebbi Est	true
+3648	TD	Chad	HL	Hadjer-Lamis	true
+3649	TD	Chad	MA	Mandouls	true
+3650	TD	Chad	MO	Mayo-Kebbi Ouest	true
+3651	TD	Chad	ND	Ndjamena	true
+3652	TD	Chad	BG	Bahr El Gazel	true
+3653	TD	Chad	BO	Borkou	true
+3654	TD	Chad	EE	Ennedi-Est	true
+3655	TD	Chad	SI	Sila	true
+3656	TD	Chad	TI	Tibesti	true
+3657	TF	French Southern Territories	XXX	Undefined	true
+3658	TG	Togo	C	Centrale	true
+3659	TG	Togo	K	Kara	true
+3660	TG	Togo	M	Maritime	true
+3661	TG	Togo	P	Plateaux	true
+3662	TG	Togo	S	Savanes	true
+3663	TH	Thailand	58	Mae Hong Son	true
+3664	TH	Thailand	50	Chiang Mai	true
+3665	TH	Thailand	57	Chiang Rai	true
+3666	TH	Thailand	55	Nan	true
+3667	TH	Thailand	51	Lamphun	true
+3668	TH	Thailand	52	Lampang	true
+3669	TH	Thailand	54	Phrae	true
+3670	TH	Thailand	63	Tak	true
+3671	TH	Thailand	64	Sukhothai	true
+3672	TH	Thailand	53	Uttaradit	true
+3673	TH	Thailand	62	Kamphaeng Phet	true
+3674	TH	Thailand	65	Phitsanulok	true
+3675	TH	Thailand	66	Phichit	true
+3676	TH	Thailand	67	Phetchabun	true
+3677	TH	Thailand	61	Uthai Thani	true
+3678	TH	Thailand	60	Nakhon Sawan	true
+3679	TH	Thailand	43	Nong Khai	true
+3680	TH	Thailand	42	Loei	true
+3681	TH	Thailand	47	Sakon Nakhon	true
+3682	TH	Thailand	40	Khon Kaen	true
+3683	TH	Thailand	46	Kalasin	true
+3684	TH	Thailand	44	Maha Sarakham	true
+3685	TH	Thailand	45	Roi Et	true
+3686	TH	Thailand	36	Chaiyaphum	true
+3687	TH	Thailand	30	Nakhon Ratchasima	true
+3688	TH	Thailand	31	Buriram	true
+3689	TH	Thailand	32	Surin	true
+3690	TH	Thailand	96	Narathiwat	true
+3691	TH	Thailand	18	Chai Nat	true
+3692	TH	Thailand	17	Sing Buri	true
+3693	TH	Thailand	16	Lop Buri	true
+3694	TH	Thailand	15	Ang Thong	true
+3695	TH	Thailand	14	Phra Nakhon Si Ayutthaya	true
+3696	TH	Thailand	19	Saraburi	true
+3697	TH	Thailand	12	Nonthaburi	true
+3698	TH	Thailand	13	Pathum Thani	true
+3699	TH	Thailand	10	Krung Thep	true
+3700	TH	Thailand	56	Phayao	true
+3701	TH	Thailand	11	Samut Prakan	true
+3702	TH	Thailand	26	Nakhon Nayok	true
+3703	TH	Thailand	24	Chachoengsao	true
+3704	TH	Thailand	25	Prachin Buri	true
+3705	TH	Thailand	20	Chon Buri	true
+3706	TH	Thailand	21	Rayong	true
+3707	TH	Thailand	22	Chanthaburi	true
+3708	TH	Thailand	23	Trat	true
+3709	TH	Thailand	71	Kanchanaburi	true
+3710	TH	Thailand	72	Suphan Buri	true
+3711	TH	Thailand	70	Ratchaburi	true
+3712	TH	Thailand	73	Nakhon Pathom	true
+3713	TH	Thailand	75	Samut Songkhram	true
+3714	TH	Thailand	74	Samut Sakhon	true
+3715	TH	Thailand	76	Phetchaburi	true
+3716	TH	Thailand	77	Prachuap Khiri Khan	true
+3717	TH	Thailand	86	Chumphon	true
+3718	TH	Thailand	85	Ranong	true
+3719	TH	Thailand	84	Surat Thani	true
+3720	TH	Thailand	82	Phangnga	true
+3721	TH	Thailand	83	Phuket	true
+3722	TH	Thailand	81	Krabi	true
+3723	TH	Thailand	80	Nakhon Si Thammarat	true
+3724	TH	Thailand	92	Trang	true
+3725	TH	Thailand	93	Phatthalung	true
+3726	TH	Thailand	91	Satun	true
+3727	TH	Thailand	90	Songkhla	true
+3728	TH	Thailand	94	Pattani	true
+3729	TH	Thailand	95	Yala	true
+3730	TH	Thailand	35	Yasothon	true
+3731	TH	Thailand	48	Nakhon Phanom	true
+3732	TH	Thailand	34	Ubon Ratchathani	true
+3733	TH	Thailand	41	Udon Thani	true
+3734	TH	Thailand	37	Amnat Charoen	true
+3735	TH	Thailand	49	Mukdahan	true
+3736	TH	Thailand	27	Sa Kaeo	true
+3737	TH	Thailand	39	Nong Bua Lam Phu	true
+3738	TH	Thailand	33	Si Sa Ket	true
+3739	TH	Thailand	S	Pattaya	true
+3740	TH	Thailand	38	Bueng Kan	true
+3741	TJ	Tajikistan	KT	Khatlon	true
+3742	TJ	Tajikistan	SU	Sughd	true
+3743	TJ	Tajikistan	DU	Dushanbe	true
+3744	TJ	Tajikistan	KR	Karategin	true
+3745	TJ	Tajikistan	GB	Gorno-Badakhshan	true
+3746	TK	Tokelau	XXX	Undefined	true
+3747	TL	Timor-Leste	DI	Dili	true
+3748	TL	Timor-Leste	AL	Aileu	true
+3749	TL	Timor-Leste	AN	Ainaro	true
+3750	TL	Timor-Leste	BA	Baucau	true
+3751	TL	Timor-Leste	BO	Bobonaro	true
+3752	TL	Timor-Leste	CO	Cova Lima	true
+3753	TL	Timor-Leste	ER	Ermera	true
+3754	TL	Timor-Leste	LA	Lautem	true
+3755	TL	Timor-Leste	LI	Liquica	true
+3756	TL	Timor-Leste	MF	Manufahi	true
+3757	TL	Timor-Leste	MT	Manatuto	true
+3758	TL	Timor-Leste	OE	Oecussi	true
+3759	TL	Timor-Leste	VI	Viqueque	true
+3760	TM	Turkmenistan	A	Ahal	true
+3761	TM	Turkmenistan	B	Balkan	true
+3762	TM	Turkmenistan	D	Dashoguz	true
+3763	TM	Turkmenistan	L	Lebap	true
+3764	TM	Turkmenistan	M	Mary	true
+3765	TM	Turkmenistan	S	Asgabat	true
+3766	TN	Tunisia	42	Kasserine	true
+3767	TN	Tunisia	41	Kairouan	true
+3768	TN	Tunisia	32	Jendouba	true
+3769	TN	Tunisia	33	El Kef	true
+3770	TN	Tunisia	53	Al Mahdia	true
+3771	TN	Tunisia	52	Al Munastir	true
+3772	TN	Tunisia	31	Bajah	true
+3773	TN	Tunisia	23	Bizerte	true
+3774	TN	Tunisia	21	Nabeul	true
+3775	TN	Tunisia	34	Siliana	true
+3776	TN	Tunisia	51	Sousse	true
+3777	TN	Tunisia	12	Ariana	true
+3778	TN	Tunisia	13	Ben Arous	true
+3779	TN	Tunisia	81	Gabes	true
+3780	TN	Tunisia	71	Gafsa	true
+3781	TN	Tunisia	73	Kebili	true
+3782	TN	Tunisia	61	Sfax	true
+3783	TN	Tunisia	43	Sidi Bou Zid	true
+3784	TN	Tunisia	83	Tataouine	true
+3785	TN	Tunisia	72	Tozeur	true
+3786	TN	Tunisia	11	Tunis	true
+3787	TN	Tunisia	22	Zaghouan	true
+3788	TN	Tunisia	82	Medenine	true
+3789	TO	Tonga	02	Ha	true
+3790	TO	Tonga	04	Tongatapu	true
+3791	TO	Tonga	05	Vava	true
+3792	TO	Tonga	01	Eua	true
+3793	TO	Tonga	03	Niuas	true
+3794	TR	Turkey	02	Adiyaman	true
+3795	TR	Turkey	03	Afyonkarahisar	true
+3796	TR	Turkey	04	Agri	true
+3797	TR	Turkey	05	Amasya	true
+3798	TR	Turkey	07	Antalya	true
+3799	TR	Turkey	08	Artvin	true
+3800	TR	Turkey	09	Aydin	true
+3801	TR	Turkey	10	Balikesir	true
+3802	TR	Turkey	11	Bilecik	true
+3803	TR	Turkey	12	Bingol	true
+3804	TR	Turkey	13	Bitlis	true
+3805	TR	Turkey	14	Bolu	true
+3806	TR	Turkey	15	Burdur	true
+3807	TR	Turkey	16	Bursa	true
+3808	TR	Turkey	17	Canakkale	true
+3809	TR	Turkey	19	Corum	true
+3810	TR	Turkey	20	Denizli	true
+3811	TR	Turkey	21	Diyarbakir	true
+3812	TR	Turkey	22	Edirne	true
+3813	TR	Turkey	23	Elazig	true
+3814	TR	Turkey	24	Erzincan	true
+3815	TR	Turkey	25	Erzurum	true
+3816	TR	Turkey	26	Eskisehir	true
+3817	TR	Turkey	28	Giresun	true
+3818	TR	Turkey	31	Hatay	true
+3819	TR	Turkey	33	Mersin	true
+3820	TR	Turkey	32	Isparta	true
+3821	TR	Turkey	34	Istanbul	true
+3822	TR	Turkey	35	Izmir	true
+3823	TR	Turkey	37	Kastamonu	true
+3824	TR	Turkey	38	Kayseri	true
+3825	TR	Turkey	39	Kirklareli	true
+3826	TR	Turkey	40	Kirsehir	true
+3827	TR	Turkey	41	Kocaeli	true
+3828	TR	Turkey	43	Kutahya	true
+3829	TR	Turkey	44	Malatya	true
+3830	TR	Turkey	45	Manisa	true
+3831	TR	Turkey	46	Kahramanmaras	true
+3832	TR	Turkey	48	Mugla	true
+3833	TR	Turkey	49	Mus	true
+3834	TR	Turkey	50	Nevsehir	true
+3835	TR	Turkey	52	Ordu	true
+3836	TR	Turkey	53	Rize	true
+3837	TR	Turkey	54	Sakarya	true
+3838	TR	Turkey	55	Samsun	true
+3839	TR	Turkey	57	Sinop	true
+3840	TR	Turkey	58	Sivas	true
+3841	TR	Turkey	59	Tekirdag	true
+3842	TR	Turkey	60	Tokat	true
+3843	TR	Turkey	61	Trabzon	true
+3844	TR	Turkey	62	Tunceli	true
+3845	TR	Turkey	63	Sanliurfa	true
+3846	TR	Turkey	64	Usak	true
+3847	TR	Turkey	65	Van	true
+3848	TR	Turkey	66	Yozgat	true
+3849	TR	Turkey	06	Ankara	true
+3850	TR	Turkey	29	Gumushane	true
+3851	TR	Turkey	30	Hakkari	true
+3852	TR	Turkey	42	Konya	true
+3853	TR	Turkey	47	Mardin	true
+3854	TR	Turkey	51	Nigde	true
+3855	TR	Turkey	56	Siirt	true
+3856	TR	Turkey	68	Aksaray	true
+3857	TR	Turkey	72	Batman	true
+3858	TR	Turkey	69	Bayburt	true
+3859	TR	Turkey	70	Karaman	true
+3860	TR	Turkey	71	Kirikkale	true
+3861	TR	Turkey	73	Sirnak	true
+3862	TR	Turkey	01	Adana	true
+3863	TR	Turkey	18	Cankiri	true
+3864	TR	Turkey	27	Gaziantep	true
+3865	TR	Turkey	36	Kars	true
+3866	TR	Turkey	67	Zonguldak	true
+3867	TR	Turkey	75	Ardahan	true
+3868	TR	Turkey	74	Bartin	true
+3869	TR	Turkey	76	Igdir	true
+3870	TR	Turkey	78	Karabuk	true
+3871	TR	Turkey	79	Kilis	true
+3872	TR	Turkey	80	Osmaniye	true
+3873	TR	Turkey	77	Yalova	true
+3874	TR	Turkey	81	Duzce	true
+3875	TT	Trinidad and Tobago	ARI	Arima	true
+3876	TT	Trinidad and Tobago	POS	Port-Of-Spain	true
+3877	TT	Trinidad and Tobago	SFO	San Fernando	true
+3878	TT	Trinidad and Tobago	WTO	Tobago	false
+3879	TT	Trinidad and Tobago	CTT	Couva-Tabaquite-Talparo	true
+3880	TT	Trinidad and Tobago	DMN	Diego Martin	true
+3881	TT	Trinidad and Tobago	CHA	Chaguanas	true
+3882	TT	Trinidad and Tobago	PED	Penal-Debe	true
+3883	TT	Trinidad and Tobago	SJL	San Juan-Laventille	true
+3884	TT	Trinidad and Tobago	TOB	Tobago	true
+3885	TT	Trinidad and Tobago	TUP	Tunapuna-Piarco	false
+3886	TT	Trinidad and Tobago	ETO	Eastern Tobago	true
+3887	TT	Trinidad and Tobago	PRT	Princes Town	true
+3888	TT	Trinidad and Tobago	PTF	Point Fortin	true
+3889	TT	Trinidad and Tobago	MRC	Mayaro-Rio Claro	true
+3890	TT	Trinidad and Tobago	SGE	Sangre Grande	true
+3891	TT	Trinidad and Tobago	SIP	Siparia	true
+3892	TV	Tuvalu	FUN	Funafuti	true
+3893	TV	Tuvalu	NIT	Niutao	true
+3894	TV	Tuvalu	NKF	Nukufetau	true
+3895	TV	Tuvalu	NKL	Nukulaelae	true
+3896	TV	Tuvalu	NMA	Nanumea	true
+3897	TV	Tuvalu	NMG	Nanumanga	true
+3898	TV	Tuvalu	NUI	Nui	true
+3899	TV	Tuvalu	VAI	Vaitupu	true
+3900	TW	Taiwan	NAN	Nantou County	true
+3901	TW	Taiwan	CHA	Changhua County	true
+3902	TW	Taiwan	CYQ	Chiayi County	true
+3903	TW	Taiwan	KEE	Keelung City	true
+3904	TW	Taiwan	HSQ	Hsinchu County	true
+3905	TW	Taiwan	HUA	Hualien County	true
+3906	TW	Taiwan	HSZ	Hsinchu City	true
+3907	TW	Taiwan	CYI	Chiayi City	true
+3908	TW	Taiwan	ILA	Yilan County	true
+3909	TW	Taiwan	KHH	Kaohsiung City	true
+3910	TW	Taiwan	KIN	Kinmen County	true
+3911	TW	Taiwan	LIE	Lienkiang County	true
+3912	TW	Taiwan	MIA	Miaoli County	true
+3913	TW	Taiwan	TNN	Tainan City	true
+3914	TW	Taiwan	NWT	New Taipei City	true
+3915	TW	Taiwan	PEN	Penghu County	true
+3916	TW	Taiwan	PIF	Pingtung County	true
+3917	TW	Taiwan	TAO	Taoyuan County	true
+3918	TW	Taiwan	TPE	Taipei City	true
+3919	TW	Taiwan	TPQ	New Taipei City	false
+3920	TW	Taiwan	TTT	Taitung County	true
+3921	TW	Taiwan	TXG	Taichung City	true
+3922	TW	Taiwan	YUN	Yunlin County	true
+3923	TW	Taiwan	KHQ	Kaohsiung County	false
+3924	TW	Taiwan	TNQ	Tainan County	false
+3925	TW	Taiwan	TXQ	Taichung County	false
+3926	TZ	"Tanzania	 United Republic of"	19	Pwani	true
+3927	TZ	"Tanzania	 United Republic of"	03	Dodoma	true
+3928	TZ	"Tanzania	 United Republic of"	04	Iringa	true
+3929	TZ	"Tanzania	 United Republic of"	08	Kigoma	true
+3930	TZ	"Tanzania	 United Republic of"	09	Kilimanjaro	true
+3931	TZ	"Tanzania	 United Republic of"	12	Lindi	true
+3932	TZ	"Tanzania	 United Republic of"	13	Mara	true
+3933	TZ	"Tanzania	 United Republic of"	14	Mbeya	true
+3934	TZ	"Tanzania	 United Republic of"	16	Morogoro	true
+3935	TZ	"Tanzania	 United Republic of"	17	Mtwara	true
+3936	TZ	"Tanzania	 United Republic of"	18	Mwanza	true
+3937	TZ	"Tanzania	 United Republic of"	06	Pemba North	true
+3938	TZ	"Tanzania	 United Republic of"	21	Ruvuma	true
+3939	TZ	"Tanzania	 United Republic of"	22	Shinyanga	true
+3940	TZ	"Tanzania	 United Republic of"	23	Singida	true
+3941	TZ	"Tanzania	 United Republic of"	24	Tabora	true
+3942	TZ	"Tanzania	 United Republic of"	25	Tanga	true
+3943	TZ	"Tanzania	 United Republic of"	05	Kagera	true
+3944	TZ	"Tanzania	 United Republic of"	10	Pemba South	true
+3945	TZ	"Tanzania	 United Republic of"	11	Zanzibar Central	true
+3946	TZ	"Tanzania	 United Republic of"	07	Zanzibar North	true
+3947	TZ	"Tanzania	 United Republic of"	02	Dar Es Salaam	true
+3948	TZ	"Tanzania	 United Republic of"	20	Rukwa	true
+3949	TZ	"Tanzania	 United Republic of"	15	Zanzibar Urban	true
+3950	TZ	"Tanzania	 United Republic of"	01	Arusha	true
+3951	TZ	"Tanzania	 United Republic of"	26	Manyara	true
+3952	TZ	"Tanzania	 United Republic of"	28	Katavi	true
+3953	TZ	"Tanzania	 United Republic of"	29	Njombe	true
+3954	TZ	"Tanzania	 United Republic of"	27	Geita	true
+3955	UA	Ukraine	71	Cherkas'ka Oblast'	true
+3956	UA	Ukraine	74	Chernihivs'ka Oblast'	true
+3957	UA	Ukraine	77	Chernivets'ka Oblast'	true
+3958	UA	Ukraine	12	Dnipropetrovs'ka Oblast'	true
+3959	UA	Ukraine	14	Donets'ka Oblast'	true
+3960	UA	Ukraine	26	Ivano-Frankivs'ka Oblast'	true
+3961	UA	Ukraine	63	Kharkivs'ka Oblast'	true
+3962	UA	Ukraine	65	Khersons'ka Oblast'	true
+3963	UA	Ukraine	68	Khmel'nyts'ka Oblast'	true
+3964	UA	Ukraine	35	Kirovohrads'ka Oblast'	true
+3965	UA	Ukraine	43	Krym	true
+3966	UA	Ukraine	30	Kyyiv	true
+3967	UA	Ukraine	32	Kyyivs'ka Oblast'	true
+3968	UA	Ukraine	09	Luhans'ka Oblast'	true
+3969	UA	Ukraine	46	L'vivs'ka Oblast'	true
+3970	UA	Ukraine	48	Mykolayivs'ka Oblast'	true
+3971	UA	Ukraine	51	Odes'ka Oblast'	true
+3972	UA	Ukraine	53	Poltavs'ka Oblast'	true
+3973	UA	Ukraine	56	Rivnens'ka Oblast'	true
+3974	UA	Ukraine	40	Sevastopol'	true
+3975	UA	Ukraine	59	Sums'ka Oblast'	true
+3976	UA	Ukraine	61	Ternopil's'ka Oblast'	true
+3977	UA	Ukraine	05	Vinnyts'ka Oblast'	true
+3978	UA	Ukraine	07	Volyns'ka Oblast'	true
+3979	UA	Ukraine	21	Zakarpats'ka Oblast'	true
+3980	UA	Ukraine	23	Zaporiz'ka Oblast'	true
+3981	UA	Ukraine	18	Zhytomyrs'ka Oblast'	true
+3982	UG	Uganda	C	Central	true
+3983	UG	Uganda	E	Eastern	true
+3984	UG	Uganda	N	Northern	true
+3985	UG	Uganda	W	Western	true
+3986	UM	United States Minor Outlying Islands	67	Johnston Atoll	true
+3987	UM	United States Minor Outlying Islands	71	Midway Islands	true
+3988	UM	United States Minor Outlying Islands	76	Navassa Island	true
+3989	UM	United States Minor Outlying Islands	79	Wake Island	true
+3990	UM	United States Minor Outlying Islands	81	Baker Island	true
+3991	UM	United States Minor Outlying Islands	84	Howland Island	true
+3992	UM	United States Minor Outlying Islands	86	Jarvis Island	true
+3993	UM	United States Minor Outlying Islands	89	Kingman Reef	true
+3994	UM	United States Minor Outlying Islands	95	Palmyra Atoll	true
+3995	US	United States	AK	Alaska	true
+3996	US	United States	AL	Alabama	true
+3997	US	United States	AR	Arkansas	true
+3998	US	United States	AZ	Arizona	true
+3999	US	United States	CA	California	true
+4000	US	United States	CO	Colorado	true
+4001	US	United States	CT	Connecticut	true
+4002	US	United States	DC	District Of Columbia	true
+4003	US	United States	DE	Delaware	true
+4004	US	United States	FL	Florida	true
+4005	US	United States	GA	Georgia	true
+4006	US	United States	HI	Hawaii	true
+4007	US	United States	IA	Iowa	true
+4008	US	United States	ID	Idaho	true
+4009	US	United States	IL	Illinois	true
+4010	US	United States	IN	Indiana	true
+4011	US	United States	KS	Kansas	true
+4012	US	United States	KY	Kentucky	true
+4013	US	United States	LA	Louisiana	true
+4014	US	United States	MA	Massachusetts	true
+4015	US	United States	MD	Maryland	true
+4016	US	United States	ME	Maine	true
+4017	US	United States	MI	Michigan	true
+4018	US	United States	MN	Minnesota	true
+4019	US	United States	MO	Missouri	true
+4020	US	United States	MS	Mississippi	true
+4021	US	United States	MT	Montana	true
+4022	US	United States	NC	North Carolina	true
+4023	US	United States	ND	North Dakota	true
+4024	US	United States	NE	Nebraska	true
+4025	US	United States	NH	New Hampshire	true
+4026	US	United States	NJ	New Jersey	true
+4027	US	United States	NM	New Mexico	true
+4028	US	United States	NV	Nevada	true
+4029	US	United States	NY	New York	true
+4030	US	United States	OH	Ohio	true
+4031	US	United States	OK	Oklahoma	true
+4032	US	United States	OR	Oregon	true
+4033	US	United States	PA	Pennsylvania	true
+4034	US	United States	RI	Rhode Island	true
+4035	US	United States	SC	South Carolina	true
+4036	US	United States	SD	South Dakota	true
+4037	US	United States	TN	Tennessee	true
+4038	US	United States	TX	Texas	true
+4039	US	United States	UT	Utah	true
+4040	US	United States	VA	Virginia	true
+4041	US	United States	VT	Vermont	true
+4042	US	United States	WA	Washington	true
+4043	US	United States	WI	Wisconsin	true
+4044	US	United States	WV	West Virginia	true
+4045	US	United States	WY	Wyoming	true
+4046	UY	Uruguay	AR	Artigas	true
+4047	UY	Uruguay	CA	Canelones	true
+4048	UY	Uruguay	CL	Cerro Largo	true
+4049	UY	Uruguay	CO	Colonia	true
+4050	UY	Uruguay	DU	Durazno	true
+4051	UY	Uruguay	FS	Flores	true
+4052	UY	Uruguay	FD	Florida	true
+4053	UY	Uruguay	LA	Lavalleja	true
+4054	UY	Uruguay	MA	Maldonado	true
+4055	UY	Uruguay	MO	Montevideo	true
+4056	UY	Uruguay	PA	Paysandu	true
+4057	UY	Uruguay	RN	Rio Negro	true
+4058	UY	Uruguay	RV	Rivera	true
+4059	UY	Uruguay	RO	Rocha	true
+4060	UY	Uruguay	SA	Salto	true
+4061	UY	Uruguay	SJ	San Jose	true
+4062	UY	Uruguay	SO	Soriano	true
+4063	UY	Uruguay	TA	Tacuarembo	true
+4064	UY	Uruguay	TT	Treinta Y Tres	true
+4065	UZ	Uzbekistan	AN	Andijon	true
+4066	UZ	Uzbekistan	BU	Bukhoro	true
+4067	UZ	Uzbekistan	FA	Farghona	true
+4068	UZ	Uzbekistan	NG	Namangan	true
+4069	UZ	Uzbekistan	NW	Nawoiy	true
+4070	UZ	Uzbekistan	QA	Qashqadaryo	true
+4071	UZ	Uzbekistan	QR	Qoraqalpoghiston	true
+4072	UZ	Uzbekistan	SA	Samarqand	true
+4073	UZ	Uzbekistan	SI	Sirdaryo	true
+4074	UZ	Uzbekistan	TO	Toshkent	true
+4075	UZ	Uzbekistan	JI	Jizzax	true
+4076	UZ	Uzbekistan	SU	Surxondaryo	true
+4077	UZ	Uzbekistan	TK	Tashkent City	true
+4078	UZ	Uzbekistan	XO	Xorazm	true
+4079	VA	Holy See (Vatican City State)	XXX	Undefined	true
+4080	VC	Saint Vincent and the Grenadines	01	Charlotte	true
+4081	VC	Saint Vincent and the Grenadines	02	Saint Andrew	true
+4082	VC	Saint Vincent and the Grenadines	03	Saint David	true
+4083	VC	Saint Vincent and the Grenadines	04	Saint George	true
+4084	VC	Saint Vincent and the Grenadines	05	Saint Patrick	true
+4085	VC	Saint Vincent and the Grenadines	06	Grenadines	true
+4086	VE	Venezuela	Z	Amazonas	true
+4087	VE	Venezuela	B	Anzoategui	true
+4088	VE	Venezuela	C	Apure	true
+4089	VE	Venezuela	D	Aragua	true
+4090	VE	Venezuela	E	Barinas	true
+4091	VE	Venezuela	F	Bolivar	true
+4092	VE	Venezuela	G	Carabobo	true
+4093	VE	Venezuela	H	Cojedes	true
+4094	VE	Venezuela	Y	Delta Amacuro	true
+4095	VE	Venezuela	I	Falcon	true
+4096	VE	Venezuela	J	Guarico	true
+4097	VE	Venezuela	K	Lara	true
+4098	VE	Venezuela	L	Merida	true
+4099	VE	Venezuela	M	Miranda	true
+4100	VE	Venezuela	N	Monagas	true
+4101	VE	Venezuela	O	Nueva Esparta	true
+4102	VE	Venezuela	P	Portuguesa	true
+4103	VE	Venezuela	R	Sucre	true
+4104	VE	Venezuela	S	Tachira	true
+4105	VE	Venezuela	T	Trujillo	true
+4106	VE	Venezuela	U	Yaracuy	true
+4107	VE	Venezuela	V	Zulia	true
+4108	VE	Venezuela	W	Dependencias Federales	true
+4109	VE	Venezuela	A	Distrito Federal	true
+4110	VE	Venezuela	X	Vargas	true
+4111	VG	"Virgin Islands	 British"	XXX	Undefined	true
+4112	VI	"Virgin Islands	 U.S."	XXX	Undefined	true
+4113	VN	Vietnam	44	An Giang	true
+4114	VN	Vietnam	50	Ben Tre	true
+4115	VN	Vietnam	04	Cao Bang	true
+4116	VN	Vietnam	33	Dac Lac	true
+4117	VN	Vietnam	45	Dong Thap	true
+4118	VN	Vietnam	HP	Hai Phong	true
+4119	VN	Vietnam	HN	Ha Noi	true
+4120	VN	Vietnam	SG	Ho Chi Minh	true
+4121	VN	Vietnam	47	Kien Giang	true
+4122	VN	Vietnam	35	Lam Dong	true
+4123	VN	Vietnam	41	Long An	true
+4124	VN	Vietnam	13	Quang Ninh	true
+4125	VN	Vietnam	05	Son La	true
+4126	VN	Vietnam	37	Tay Ninh	true
+4127	VN	Vietnam	21	Thanh Hoa	true
+4128	VN	Vietnam	20	Thai Binh	true
+4129	VN	Vietnam	46	Tien Giang	true
+4130	VN	Vietnam	09	Lang Son	true
+4131	VN	Vietnam	39	Dong Nai	true
+4132	VN	Vietnam	43	Ba Ria-Vung Tau	true
+4133	VN	Vietnam	31	Binh Dinh	true
+4134	VN	Vietnam	40	Binh Thuan	true
+4135	VN	Vietnam	30	Gia Lai	true
+4136	VN	Vietnam	03	Ha Giang	true
+4137	VN	Vietnam	23	Ha Tinh	true
+4138	VN	Vietnam	14	Hoa Binh	true
+4139	VN	Vietnam	34	Khanh Hoa	true
+4140	VN	Vietnam	28	Kon Tum	true
+4141	VN	Vietnam	25	Quang Tri	true
+4142	VN	Vietnam	22	Nghe An	true
+4143	VN	Vietnam	18	Ninh Binh	true
+4144	VN	Vietnam	36	Ninh Thuan	true
+4145	VN	Vietnam	32	Phu Yen	true
+4146	VN	Vietnam	24	Quang Binh	true
+4147	VN	Vietnam	29	Quang Ngai	true
+4148	VN	Vietnam	53	Quang Tri	true
+4149	VN	Vietnam	52	Soc Trang	true
+4150	VN	Vietnam	56	Thua Thien	true
+4151	VN	Vietnam	51	Tra Vinh	true
+4152	VN	Vietnam	07	Tuyen Quang	true
+4153	VN	Vietnam	49	Vinh Long	true
+4154	VN	Vietnam	DN	Da Nang	true
+4155	VN	Vietnam	61	Hai Duong	true
+4156	VN	Vietnam	63	Ha Nam	true
+4157	VN	Vietnam	66	Hung Yen	true
+4158	VN	Vietnam	67	Nam Dinh	true
+4159	VN	Vietnam	68	Phu Tho	true
+4160	VN	Vietnam	27	Quang Nam	true
+4161	VN	Vietnam	69	Thai Nguyen	true
+4162	VN	Vietnam	70	Vinh Puc Province	true
+4163	VN	Vietnam	CT	Can Tho	true
+4164	VN	Vietnam	01	Lai Chau	true
+4165	VN	Vietnam	02	Lao Cai	true
+4166	VN	Vietnam	72	Dak Nong	true
+4167	VN	Vietnam	71	Dien Bien	true
+4168	VN	Vietnam	73	Hau Giang	true
+4169	VN	Vietnam	26	Thua Thien-Hue	true
+4170	VN	Vietnam	54	Bac Giang	true
+4171	VN	Vietnam	55	Bac Lieu	true
+4172	VN	Vietnam	57	Binh Duong	true
+4173	VN	Vietnam	59	Ca Mau	true
+4174	VN	Vietnam	58	Binh Phuoc	true
+4175	VN	Vietnam	06	Yen Bai	true
+4176	VU	Vanuatu	TOB	Torba	true
+4177	VU	Vanuatu	SAM	Sanma	true
+4178	VU	Vanuatu	TAE	Tafea	true
+4179	VU	Vanuatu	MAP	Malampa	true
+4180	VU	Vanuatu	PAM	Penama	true
+4181	VU	Vanuatu	SEE	Shefa	true
+4182	WF	Wallis and Futuna	AL	Alo	true
+4183	WF	Wallis and Futuna	UV	Uvea	true
+4184	WS	Samoa	AA	Aana	true
+4185	WS	Samoa	AL	Aiga-I-Le-Tai	true
+4186	WS	Samoa	AT	Atua	true
+4187	WS	Samoa	FA	Fa	true
+4188	WS	Samoa	GE	Gaga	true
+4189	WS	Samoa	VF	Va	true
+4190	WS	Samoa	GI	Gagaifomauga	true
+4191	WS	Samoa	PA	Palauli	true
+4192	WS	Samoa	SA	Satupa	true
+4193	WS	Samoa	TU	Tuamasaga	true
+4194	WS	Samoa	VS	Vaisigano	true
+4195	YE	Yemen	AB	Abyan	true
+4196	YE	Yemen	AD	Adan	true
+4197	YE	Yemen	MR	Al Mahrah	true
+4198	YE	Yemen	HD	Hadramawt	true
+4199	YE	Yemen	SH	Shabwah	true
+4200	YE	Yemen	HU	Al Hudaydah	true
+4201	YE	Yemen	MW	Al Mahwit	true
+4202	YE	Yemen	DH	Dhamar	true
+4203	YE	Yemen	MA	Ma'rib	true
+4204	YE	Yemen	SD	Sa	true
+4205	YE	Yemen	SA	San	true
+4206	YE	Yemen	DA	Ad Dali	true
+4207	YE	Yemen	AM	Amran	true
+4208	YE	Yemen	BA	Al Bayda'	true
+4209	YE	Yemen	JA	Al Jawf	true
+4210	YE	Yemen	HJ	Hajjah	true
+4211	YE	Yemen	IB	Ibb	true
+4212	YE	Yemen	LA	Lahij	true
+4213	YE	Yemen	TA	Ta	true
+4214	YE	Yemen	RA	Raymah	true
+4215	YE	Yemen	SN	San'a	true
+4216	YT	Mayotte	XXX	Undefined	true
+4217	ZA	South Africa	ZN	Kwazulu-Natal	true
+4218	ZA	South Africa	FS	Free State	true
+4219	ZA	South Africa	EC	Eastern Cape	true
+4220	ZA	South Africa	GP	Gauteng	true
+4221	ZA	South Africa	MP	Mpumalanga	true
+4222	ZA	South Africa	NC	Northern Cape	true
+4223	ZA	South Africa	LP	Limpopo	true
+4224	ZA	South Africa	NW	North-West	true
+4225	ZA	South Africa	WC	Western Cape	true
+4226	ZM	Zambia	01	Western	true
+4227	ZM	Zambia	02	Central	true
+4228	ZM	Zambia	03	Eastern	true
+4229	ZM	Zambia	04	Luapula	true
+4230	ZM	Zambia	05	Northern	true
+4231	ZM	Zambia	06	North-Western	true
+4232	ZM	Zambia	07	Southern	true
+4233	ZM	Zambia	08	Copperbelt	true
+4234	ZM	Zambia	09	Lusaka	true
+4235	ZW	Zimbabwe	MA	Manicaland	true
+4236	ZW	Zimbabwe	MI	Midlands	true
+4237	ZW	Zimbabwe	MC	Mashonaland Central	true
+4238	ZW	Zimbabwe	ME	Mashonaland East	true
+4239	ZW	Zimbabwe	MW	Mashonaland West	true
+4240	ZW	Zimbabwe	MN	Matabeleland North	true
+4241	ZW	Zimbabwe	MS	Matabeleland South	true
+4242	ZW	Zimbabwe	MV	Masvingo	true
+4243	ZW	Zimbabwe	BU	Bulawayo	true
+4244	ZW	Zimbabwe	HA	Harare	true
+4245	BL	Saint Bartelemey	XXX	Undefined	true
+4246	BQ	"Bonaire	 Saint Eustatius and Saba"	BO	Bonaire	true
+4247	BQ	"Bonaire	 Saint Eustatius and Saba"	SA	Saba	true
+4248	BQ	"Bonaire	 Saint Eustatius and Saba"	SE	Sint Eustaius	true
+4249	CW	Curacao	XXX	Undefined	true
+4250	MF	Saint Martin	XXX	Undefined	true
+4251	SS	South Sudan	EC	Central Equatoria	true
+4252	SS	South Sudan	NU	Upper Nile	true
+4253	SS	South Sudan	BN	Northern Bahr El-Ghazal	true
+4254	SS	South Sudan	BW	Western Bahr El-Ghazal	true
+4255	SS	South Sudan	EE	Eastern Equatoria	true
+4256	SS	South Sudan	EW	Western Equatoria	true
+4257	SS	South Sudan	JG	Jonglei	true
+4258	SS	South Sudan	LK	Lakes	true
+4259	SS	South Sudan	UY	Unity	true
+4260	SS	South Sudan	WR	Warrap	true
+4261	SX	Sint Maarten	XXX	Undefined	true
+4262	AZ	Azerbaijan	NX	Nakhchivan	true
+4263	BE	Belgium	VLG	Vlaams Gewest	false
+4264	BE	Belgium	WAL	Waals Gewest	false
+4265	BW	Botswana	CH	Chobe	true
+4266	CD	"Congo	 The Democratic Republic of the"	BU	Bas-Uele	true
+4267	CD	"Congo	 The Democratic Republic of the"	KG	Kwango	true
+4268	CD	"Congo	 The Democratic Republic of the"	LO	Lomami	true
+4269	CD	"Congo	 The Democratic Republic of the"	LU	Lualaba	true
+4270	CD	"Congo	 The Democratic Republic of the"	NU	Nord-Ubangi	true
+4271	CD	"Congo	 The Democratic Republic of the"	SA	Sankuro	true
+4272	CD	"Congo	 The Democratic Republic of the"	TA	Tanganyika	true
+4273	CD	"Congo	 The Democratic Republic of the"	TU	Tshuapa	true
+4274	CG	Congo	16	Pointe-Noire	true
+4275	CI	Cote d'Ivoire	CM	Comoe	true
+4276	CI	Cote d'Ivoire	DN	Denguele	true
+4278	CI	Cote d'Ivoire	GD	G�h-Djiboua 	true
+4279	CI	Cote d'Ivoire	LC	Lacs	true
+4280	CI	Cote d'Ivoire	WR	Woroba	true
+4281	CI	Cote d'Ivoire	ZZ	Zanzan	true
+4282	CL	Chile	AP	Arica Y Parinacota	true
+4283	CL	Chile	LL	Los Lagos	true
+4284	CL	Chile	LR	Los R�os	true
+4285	CL	Chile	NB	Nuble	true
+4286	CL	Chile	TA	Tarapaca	true
+4287	CL	Chile	VS	Valparaiso	true
+4288	CN	China	AH	Anhui Sheng	true
+4289	CN	China	BJ	Beijing Shi	true
+4290	CN	China	CQ	Chongqing Shi	true
+4291	CN	China	FJ	Fujian Sheng	true
+4292	CN	China	GD	Guangdong Sheng	true
+4293	CN	China	GS	Gansu Sheng	true
+4294	CN	China	GX	Guangxi Zhuangzu Zizhiqu	true
+4295	CN	China	GZ	Guizhou Sheng	true
+4296	CN	China	HA	Henan Sheng	true
+4297	CN	China	HB	Hubei Sheng	true
+4298	CN	China	HE	Hebei Sheng	true
+4299	CN	China	HI	Hainan Sheng	true
+4300	CN	China	HK	Hong Kong Sar�(En) Xianggang Tebiexingzhengqu (Zh)	true
+4301	CN	China	HL	Heilongjiang Sheng	true
+4302	CN	China	HN	Hunan Sheng	true
+4303	CN	China	JL	Jilin Sheng	true
+4304	CN	China	JS	Jiangsu Sheng	true
+4305	CN	China	JX	Jiangxi Sheng	true
+4306	CN	China	LN	Liaoning Sheng	true
+4307	CN	China	MO	Macao Sar�(En) Macau Sar (Pt) Aomen Tebiexingzhengqu (Zh)	true
+4308	CN	China	NM	Nei Mongol Zizhiqu�(Mn)	true
+4309	CN	China	NX	Ningxia Huizi Zizhiqu	true
+4310	CN	China	QH	Qinghai Sheng	true
+4311	CN	China	SC	Sichuan Sheng	true
+4312	CN	China	SD	Shandong Sheng	true
+4313	CN	China	SH	Shanghai Shi	true
+4314	CN	China	SN	Shaanxi Sheng	true
+4315	CN	China	SX	Shanxi Sheng	true
+4316	CN	China	TJ	Tianjin Shi	true
+4317	CN	China	TW	Taiwan Sheng	true
+4318	CN	China	XJ	Xinjiang Uygur Zizhiqu	true
+4319	CN	China	XZ	Xizang Zizhiqu	true
+4320	CN	China	YN	Yunnan Sheng	true
+4321	CN	China	ZJ	Zhejiang Sheng	true
+4322	CU	Cuba	15	Artemisa	true
+4323	CZ	Czech Republic	41	Karlovy Vary	true
+4324	CZ	Czech Republic	52	Hradec Kr�lov�	true
+4325	CZ	Czech Republic	80	Moravia-Silesia	true
+4326	CZ	Czech Republic	20	Central Bohemia	true
+4327	FI	Finland	01	�land	true
+4328	FR	France	GUA	Guadeloupe	true
+4329	FR	France	MAY	Mayotte	true
+4330	FR	France	LRE	La R�union	true
+4331	GL	Greenland	AV	Avannaata Kommunia	true
+4332	GR	Greece	69	Agion Oros	true
+4333	IT	Italy	SD	Sud Sardegna	true
+4334	KH	Cambodia	1	Banteay Meanchey	true
+4335	KM	Comoros	M	Moheli	true
+4336	KP	"Korea	 Democratic People's Republic of"	14	Nampo	true
+4337	KR	"Korea	 Republic of"	50	Sejong	true
+4338	KZ	Kazakhstan	BAY	Almaty	true
+4339	KZ	Kazakhstan	SHY	Shymkent	true
+4340	LC	Saint Lucia	12	Canaries	true
+4341	LV	Latvia	001	Aglonas Novads	true
+4342	ME	Montenegro	22	Gusinje	true
+4343	ME	Montenegro	23	Petnjica	true
+4344	ML	Mali	9	Menaka	true
+4345	ML	Mali	10	Taoudenit	true
+4346	MM	Myanmar	14	Chin	true
+4347	MM	Myanmar	18	Nay Pyi Taw	true
+4348	MR	Mauritania	15	Nouakchott Sud	true
+4349	PG	Papua New Guinea	HLA	Hela	true
+4350	PG	Papua New Guinea	JWK	Jiwaka	true
+4351	PL	Poland	XXX	Undefined	true
+4352	QA	Qatar	SH	Ash Shihaniyah	true
+4353	RS	Serbia	00	Beograd	true
+4354	GB	United Kingdom	IOS	Isles Of Scilly	true
+4355	SI	Slovenia	212	Mirna	true
+4356	SI	Slovenia	213	Ankaran	true
+4357	TD	Chad	EO	Ennedi-Ouest	true
+4358	TN	Tunisia	14	La Manouba	true
+4359	TZ	"Tanzania	 United Republic of"	30	Simiyu	true
+4360	TZ	"Tanzania	 United Republic of"	31	Songwe	true
+4361	VN	Vietnam	XXX	Undefined	true
+4362	WF	Wallis and Futuna	SG	Sigave	true
+4363	YE	Yemen	SU	Arkhabil Suqutra	true
+4364	ZM	Zambia	10	Muchinga	true
+4365	AD	Andorra	XXX	Undefined	true
+4366	AE	United Arab Emirates	XXX	Undefined	true
+4367	AF	Afghanistan	XXX	Undefined	true
+4368	AG	Antigua and Barbuda	XXX	Undefined	true
+4369	AL	Albania	XXX	Undefined	true
+4370	AM	Armenia	XXX	Undefined	true
+4371	AO	Angola	XXX	Undefined	true
+4372	AR	Argentina	XXX	Undefined	true
+4373	AT	Austria	XXX	Undefined	true
+4374	AU	Australia	XXX	Undefined	true
+4375	AZ	Azerbaijan	XXX	Undefined	true
+4376	BA	Bosnia and Herzegovina	XXX	Undefined	true
+4377	BB	Barbados	XXX	Undefined	true
+4378	BD	Bangladesh	XXX	Undefined	true
+4379	BE	Belgium	XXX	Undefined	true
+4380	BF	Burkina Faso	XXX	Undefined	true
+4381	BG	Bulgaria	XXX	Undefined	true
+4382	BH	Bahrain	XXX	Undefined	true
+4383	BI	Burundi	XXX	Undefined	true
+4384	BJ	Benin	XXX	Undefined	true
+4385	BN	Brunei Darussalam	XXX	Undefined	true
+4386	BO	Bolivia	XXX	Undefined	true
+4387	BR	Brazil	XXX	Undefined	true
+4388	BS	Bahamas	XXX	Undefined	true
+4389	BT	Bhutan	XXX	Undefined	true
+4390	BW	Botswana	XXX	Undefined	true
+4391	BY	Belarus	XXX	Undefined	true
+4392	BZ	Belize	XXX	Undefined	true
+4393	CA	Canada	XXX	Undefined	true
+4394	CD	"Congo	 The Democratic Republic of the"	XXX	Undefined	true
+4395	CF	Central African Republic	XXX	Undefined	true
+4396	CG	Congo	XXX	Undefined	true
+4397	CH	Switzerland	XXX	Undefined	true
+4398	CL	Chile	XXX	Undefined	true
+4399	CM	Cameroon	XXX	Undefined	true
+4400	CN	China	XXX	Undefined	true
+4401	CO	Colombia	XXX	Undefined	true
+4402	CR	Costa Rica	XXX	Undefined	true
+4403	CU	Cuba	XXX	Undefined	true
+4404	CV	Cape Verde	XXX	Undefined	true
+4405	CY	Cyprus	XXX	Undefined	true
+4406	CZ	Czech Republic	XXX	Undefined	true
+4407	DE	Germany	XXX	Undefined	true
+4408	DJ	Djibouti	XXX	Undefined	true
+4409	DM	Dominica	XXX	Undefined	true
+4410	DO	Dominican Republic	XXX	Undefined	true
+4411	DZ	Algeria	XXX	Undefined	true
+4412	EC	Ecuador	XXX	Undefined	true
+4413	EE	Estonia	XXX	Undefined	true
+4414	EG	Egypt	XXX	Undefined	true
+4415	ER	Eritrea	XXX	Undefined	true
+4416	ES	Spain	XXX	Undefined	true
+4417	ET	Ethiopia	XXX	Undefined	true
+4418	FI	Finland	XXX	Undefined	true
+4419	FJ	Fiji	XXX	Undefined	true
+4420	FM	"Micronesia	 Federated States of"	XXX	Undefined	true
+4421	FR	France	XXX	Undefined	true
+4422	GA	Gabon	XXX	Undefined	true
+4423	GB	United Kingdom	XXX	Undefined	true
+4424	GD	Grenada	XXX	Undefined	true
+4425	GE	Georgia	XXX	Undefined	true
+4426	GH	Ghana	XXX	Undefined	true
+4427	GL	Greenland	XXX	Undefined	true
+4428	GM	Gambia	XXX	Undefined	true
+4429	GN	Guinea	XXX	Undefined	true
+4430	GQ	Equatorial Guinea	XXX	Undefined	true
+4431	GR	Greece	XXX	Undefined	true
+4432	GT	Guatemala	XXX	Undefined	true
+4433	GW	Guinea-Bissau	XXX	Undefined	true
+4434	GY	Guyana	XXX	Undefined	true
+4435	HN	Honduras	XXX	Undefined	true
+4436	HR	Croatia	XXX	Undefined	true
+4437	HT	Haiti	XXX	Undefined	true
+4438	HU	Hungary	XXX	Undefined	true
+4439	ID	Indonesia	XXX	Undefined	true
+4440	IE	Ireland	XXX	Undefined	true
+4441	IL	Israel	XXX	Undefined	true
+4442	IN	India	XXX	Undefined	true
+4443	IQ	Iraq	XXX	Undefined	true
+4444	IR	"Iran	 Islamic Republic of"	XXX	Undefined	true
+4445	IS	Iceland	XXX	Undefined	true
+4446	IT	Italy	XXX	Undefined	true
+4447	JM	Jamaica	XXX	Undefined	true
+4448	JO	Jordan	XXX	Undefined	true
+4449	JP	Japan	XXX	Undefined	true
+4450	KE	Kenya	XXX	Undefined	true
+4451	KG	Kyrgyzstan	XXX	Undefined	true
+4452	KH	Cambodia	XXX	Undefined	true
+4453	KI	Kiribati	XXX	Undefined	true
+4454	KM	Comoros	XXX	Undefined	true
+4455	KN	Saint Kitts and Nevis	XXX	Undefined	true
+4456	KP	"Korea	 Democratic People's Republic of"	XXX	Undefined	true
+4457	KR	"Korea	 Republic of"	XXX	Undefined	true
+4458	KW	Kuwait	XXX	Undefined	true
+4459	KZ	Kazakhstan	XXX	Undefined	true
+4460	LA	Lao People's Democratic Republic	XXX	Undefined	true
+4461	LB	Lebanon	XXX	Undefined	true
+4462	LC	Saint Lucia	XXX	Undefined	true
+4463	LI	Liechtenstein	XXX	Undefined	true
+4464	LK	Sri Lanka	XXX	Undefined	true
+4465	LR	Liberia	XXX	Undefined	true
+4466	LS	Lesotho	XXX	Undefined	true
+4467	LT	Lithuania	XXX	Undefined	true
+4468	LU	Luxembourg	XXX	Undefined	true
+4469	LY	Libyan Arab Jamahiriya	XXX	Undefined	true
+4470	MA	Morocco	XXX	Undefined	true
+4471	MC	Monaco	XXX	Undefined	true
+4472	MD	"Moldova	 Republic of"	XXX	Undefined	true
+4473	ME	Montenegro	XXX	Undefined	true
+4474	MG	Madagascar	XXX	Undefined	true
+4475	MH	Marshall Islands	XXX	Undefined	true
+4476	MK	Macedonia	XXX	Undefined	true
+4477	ML	Mali	XXX	Undefined	true
+4478	MM	Myanmar	XXX	Undefined	true
+4479	MN	Mongolia	XXX	Undefined	true
+4480	MR	Mauritania	XXX	Undefined	true
+4481	MT	Malta	XXX	Undefined	true
+4482	MU	Mauritius	XXX	Undefined	true
+4483	MW	Malawi	XXX	Undefined	true
+4484	MX	Mexico	XXX	Undefined	true
+4485	MY	Malaysia	XXX	Undefined	true
+4486	MZ	Mozambique	XXX	Undefined	true
+4487	NA	Namibia	XXX	Undefined	true
+4488	NE	Niger	XXX	Undefined	true
+4489	NG	Nigeria	XXX	Undefined	true
+4490	NI	Nicaragua	XXX	Undefined	true
+4491	NL	Netherlands	XXX	Undefined	true
+4492	NO	Norway	XXX	Undefined	true
+4493	NP	Nepal	XXX	Undefined	true
+4494	NR	Nauru	XXX	Undefined	true
+4495	NZ	New Zealand	XXX	Undefined	true
+4496	OM	Oman	XXX	Undefined	true
+4497	PA	Panama	XXX	Undefined	true
+4498	PE	Peru	XXX	Undefined	true
+4499	PG	Papua New Guinea	XXX	Undefined	true
+4500	PH	Philippines	XXX	Undefined	true
+4501	PK	Pakistan	XXX	Undefined	true
+4502	PS	Palestinian Territory	XXX	Undefined	true
+4503	PT	Portugal	XXX	Undefined	true
+4504	PW	Palau	XXX	Undefined	true
+4505	PY	Paraguay	XXX	Undefined	true
+4506	QA	Qatar	XXX	Undefined	true
+4507	RO	Romania	XXX	Undefined	true
+4508	RS	Serbia	XXX	Undefined	true
+4509	RU	Russian Federation	XXX	Undefined	true
+4510	RW	Rwanda	XXX	Undefined	true
+4511	SA	Saudi Arabia	XXX	Undefined	true
+4512	SB	Solomon Islands	XXX	Undefined	true
+4513	SC	Seychelles	XXX	Undefined	true
+4514	SD	Sudan	XXX	Undefined	true
+4515	SE	Sweden	XXX	Undefined	true
+4516	SG	Singapore	XXX	Undefined	true
+4517	SH	Saint Helena	XXX	Undefined	true
+4518	SI	Slovenia	XXX	Undefined	true
+4519	SK	Slovakia	XXX	Undefined	true
+4520	SL	Sierra Leone	XXX	Undefined	true
+4521	SM	San Marino	XXX	Undefined	true
+4522	SN	Senegal	XXX	Undefined	true
+4523	SO	Somalia	XXX	Undefined	true
+4524	SR	Suriname	XXX	Undefined	true
+4525	ST	Sao Tome and Principe	XXX	Undefined	true
+4526	SV	El Salvador	XXX	Undefined	true
+4527	SY	Syrian Arab Republic	XXX	Undefined	true
+4528	SZ	Swaziland	XXX	Undefined	true
+4529	TD	Chad	XXX	Undefined	true
+4530	TG	Togo	XXX	Undefined	true
+4531	TH	Thailand	XXX	Undefined	true
+4532	TJ	Tajikistan	XXX	Undefined	true
+4533	TL	Timor-Leste	XXX	Undefined	true
+4534	TM	Turkmenistan	XXX	Undefined	true
+4535	TN	Tunisia	XXX	Undefined	true
+4536	TO	Tonga	XXX	Undefined	true
+4537	TR	Turkey	XXX	Undefined	true
+4538	TT	Trinidad and Tobago	XXX	Undefined	true
+4539	TV	Tuvalu	XXX	Undefined	true
+4540	TW	Taiwan	XXX	Undefined	true
+4541	TZ	"Tanzania	 United Republic of"	XXX	Undefined	true
+4542	UA	Ukraine	XXX	Undefined	true
+4543	UG	Uganda	XXX	Undefined	true
+4544	UM	United States Minor Outlying Islands	XXX	Undefined	true
+4545	US	United States	XXX	Undefined	true
+4546	UY	Uruguay	XXX	Undefined	true
+4547	UZ	Uzbekistan	XXX	Undefined	true
+4548	VC	Saint Vincent and the Grenadines	XXX	Undefined	true
+4549	VE	Venezuela	XXX	Undefined	true
+4550	VU	Vanuatu	XXX	Undefined	true
+4551	WF	Wallis and Futuna	XXX	Undefined	true
+4552	WS	Samoa	XXX	Undefined	true
+4553	YE	Yemen	XXX	Undefined	true
+4554	ZA	South Africa	XXX	Undefined	true
+4555	ZM	Zambia	XXX	Undefined	true
+4556	ZW	Zimbabwe	XXX	Undefined	true
+4557	BQ	"Bonaire	 Saint Eustatius and Saba"	XXX	Undefined	true
+4558	SS	South Sudan	XXX	Undefined	true
